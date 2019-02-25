@@ -13,3 +13,6 @@ Step 3: Ensure that multiple client connections work with framework
 Step 4: Create a DLL that is able to use client's commands to interface with the server instance
 Step 5: Create a DLL that is able to use servers's commands to interface with the client instances
 Step 6: Create a project that can utilize the DLL
+
+
+https://stackoverflow.com/questions/32991274/return-string-from-c-dll-export-function-called-from-c-sharp
