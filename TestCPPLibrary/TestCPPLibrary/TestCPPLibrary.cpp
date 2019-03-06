@@ -21,10 +21,9 @@ extern "C" {
 		return a / b;
 	}
 
-	string TestString()
+	string __declspec(dllexport) TestString()
 	{
 		string returnStr = "Hello World";
-
 		return returnStr;
 	}
 
