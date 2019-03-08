@@ -37,7 +37,14 @@ public class DLLManager : MonoBehaviour {
 		*/
 
 		// Testing the connection
-		Connect(129, 21, 178, 67, 45000);
+		if(Connect(129, 21, 23, 36, 40000))
+        {
+            Debug.Log("Connection Successful");
+        }
+        else
+        {
+            Debug.Log("Connection Failed");
+        }
 	}
 
 	// Update is called once per frame

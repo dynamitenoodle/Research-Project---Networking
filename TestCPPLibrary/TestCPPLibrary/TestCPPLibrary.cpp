@@ -27,11 +27,13 @@ extern "C"
 		bool connectionSuccess = false;
 		ofstream myfile;
 		myfile.open("test.txt", ios::out | ios::trunc);
-		myfile << "We got in!./n" << endl;
+		myfile << "We got in!./n";
 
 		// Startup Winsock
+		/*
 		WSADATA data;
 		WORD version = MAKEWORD(2, 2);
+		myfile << "Starting up WinSock!./n" << endl;
 		int wsOk = WSAStartup(version, &data);
 		if (wsOk != 0)
 		{
@@ -41,7 +43,9 @@ extern "C"
 			return connectionSuccess;
 		}
 		myfile << "Past WSA startup./n";
+		*/
 
+		myfile << "Setting up IP!./n";
 		// sets up the IP with input
 		//string myIp = "129.21.178.67";
 		int ipNum;
@@ -56,7 +60,10 @@ extern "C"
 		serverHint.sin_family = AF_INET;
 		serverHint.sin_port = htons(port);
 
-		myfile << "IP: " << ip << "      PORT: " << port << "/n";
+		//myfile << "IP: " << ip << "      PORT: " << port << "/n";
+		myfile << "Setup IP./n";
+		myfile << "IP: " << ip;
+		myfile << "PORT: " << port;
 		// converts from string to binary for address
 		inet_pton(AF_INET, ip.c_str(), &serverHint.sin_addr); // address is of the server
 		int serverLength = sizeof(serverHint);
