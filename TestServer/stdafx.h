@@ -1,17 +1,16 @@
 #pragma once
-#include "targetver.h"
 #include <iostream>
 #include <WS2tcpip.h>
 #include <string>
-#include <fstream>
+#include <cstdlib>
+#include <time.h> 
+#include <stdio.h>
+
 // use std chrono for timing if needed
 
 #pragma comment (lib, "ws2_32.lib")
 
 using namespace std;
-
-#define WIN32_LEAN_AND_MEAN             // Exclude rarely-used stuff from Windows headers
-#include <windows.h>
 
 struct command
 {

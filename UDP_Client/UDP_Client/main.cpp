@@ -5,12 +5,6 @@
 /*
 	Coehl Gleckner
 	IGME 589.02 - Networking
-	2/11/2019
-	Hello Dungeon
-
-	I used a tutorial from youtube to set up the basics of the UDP server and client
-	Found here: https://www.youtube.com/watch?v=uIanSvWou1M
-	And then expanded on it to create the rest of the application
 */
 
 void main(int argc, char* argv[]) // We can pass in a command line option!!
@@ -107,9 +101,9 @@ void main(int argc, char* argv[]) // We can pass in a command line option!!
 
 	// Setting some variables for the loop to use
 	string name;
-
 	cout << "Insert help to see a list of commands" << endl;
 
+	// NEXT
 	while (true)
 	{
 		// Sending a message
