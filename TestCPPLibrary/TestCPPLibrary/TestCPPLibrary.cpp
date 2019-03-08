@@ -26,8 +26,8 @@ extern "C"
 	{
 		bool connectionSuccess = false;
 		ofstream myfile;
-		myfile.open("test.txt", ios::out | ios::trunc);
-		myfile << "We got in!./n";
+		myfile.open("DLL_Debug.txt");
+		myfile << "/nStarted DLL Debug!./n";
 
 		// Startup Winsock
 		/*
@@ -59,8 +59,9 @@ extern "C"
 		sockaddr_in serverHint;
 		serverHint.sin_family = AF_INET;
 		serverHint.sin_port = htons(port);
+		myfile << "Hint structure set up!./n";
 
-		//myfile << "IP: " << ip << "      PORT: " << port << "/n";
+		//myfile << "IP: " << ip << "      PORT: " << port << "/n"; aaa
 		myfile << "Setup IP./n";
 		myfile << "IP: " << ip;
 		myfile << "PORT: " << port;
