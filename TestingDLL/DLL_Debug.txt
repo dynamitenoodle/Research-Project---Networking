@@ -1,0 +1,10 @@
+Started DLL Debug! 
+Setting up IP!./nHint structure set up!
+Setup IP
+IP: 127.0.0.1
+PORT: 45000
+Preparing the test connection.
+Succeded the test connection.
+Preparing to receive from server connection.
+We got word from the server!
+Closed the file!

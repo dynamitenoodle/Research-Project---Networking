@@ -27,22 +27,28 @@ public class DLLManager : MonoBehaviour {
 		Debug.Log(divideResult);
 		Debug.Log(multiplyResult);
 
-		/*
 		// Write the result into a file, so we can even see it working in a build
-		using (StreamWriter writer = new StreamWriter("debug.txt", true))
+		using (StreamWriter writer = new StreamWriter("debugNumbers.txt", true))
 		{
 			writer.WriteLine(divideResult);
 			writer.WriteLine(multiplyResult);
 		}
-		*/
 
 		// Testing the connection
-		if(Connect(129, 21, 23, 36, 40000))
+		if(Connect(127, 0, 0, 1, 45000))
         {
+            using (StreamWriter writer = new StreamWriter("debugNumbers.txt", true))
+            {
+                writer.WriteLine("Success");
+            }
             Debug.Log("Connection Successful");
         }
         else
         {
+            using (StreamWriter writer = new StreamWriter("debugNumbers.txt", true))
+            {
+                writer.WriteLine("Failed");
+            }
             Debug.Log("Connection Failed");
         }
 	}

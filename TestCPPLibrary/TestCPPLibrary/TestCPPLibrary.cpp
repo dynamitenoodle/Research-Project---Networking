@@ -27,9 +27,9 @@ extern "C"
 		bool connectionSuccess = false;
 		ofstream myfile;
 		myfile.open("DLL_Debug.txt");
-		myfile << "/nStarted DLL Debug!./n";
+		myfile << "Started DLL Debug! " << endl;
 
-		// Startup Winsock
+		// Startup Winsock aaa
 		/*
 		WSADATA data;
 		WORD version = MAKEWORD(2, 2);
@@ -50,21 +50,22 @@ extern "C"
 		//string myIp = "129.21.178.67";
 		int ipNum;
 		string ip = "";
-		ip += ip0 + ".";
-		ip += ip1 + ".";
-		ip += ip2 + ".";
-		ip += ip3;
+		
+		ip += to_string(ip0) + ".";
+		ip += to_string(ip1) + ".";
+		ip += to_string(ip2) + ".";
+		ip += to_string(ip3);
 
 		// Create a hint structure for the server
 		sockaddr_in serverHint;
 		serverHint.sin_family = AF_INET;
 		serverHint.sin_port = htons(port);
-		myfile << "Hint structure set up!./n";
+		myfile << "Hint structure set up!" << endl;
 
 		//myfile << "IP: " << ip << "      PORT: " << port << "/n"; aaa
-		myfile << "Setup IP./n";
-		myfile << "IP: " << ip;
-		myfile << "PORT: " << port;
+		myfile << "Setup IP" << endl;
+		myfile << "IP: " << ip << endl;
+		myfile << "PORT: " << port << endl;
 		// converts from string to binary for address
 		inet_pton(AF_INET, ip.c_str(), &serverHint.sin_addr); // address is of the server
 		int serverLength = sizeof(serverHint);
@@ -86,39 +87,39 @@ extern "C"
 		ZeroMemory((char*)&connect, 128);
 		connect.cmd = 'c';
 
-		myfile << "Preparing the test connection./n";
+		myfile << "Preparing the test connection." << endl;
 		// Test the connection to the server
 		//cout << "Testing connection to server, if the next message does not appear please restart the program" << endl;
 		int testSend = sendto(serverSocket, (char*)&connect, 128, 0, (sockaddr*)&serverHint, serverLength);
 		if (testSend == SOCKET_ERROR)
 		{
 			//cout << "Sending the test message didn't work : " << WSAGetLastError() << endl;
-			myfile << "Failed the test connection./n";
+			myfile << "Failed the test connection." << endl;
 			myfile.close();
 			return connectionSuccess;
 		}
 		else
 		{
-			myfile << "Succeded the test connection./n";
+			myfile << "Succeded the test connection." << endl;
 		}
 
 		// Wait for a response from the server
-		myfile << "Preparing to receive from server connection./n";
+		myfile << "Preparing to receive from server connection." << endl;
 		int bytesInTest = recvfrom(serverSocket, (char*)&serverStatus, 128, 0, (sockaddr*)&serverHint, &serverLength);
 		if (bytesInTest == SOCKET_ERROR)
 		{
 			//cout << "Error receiving from client " << WSAGetLastError() << endl;
-			myfile << "Did not receive from the server./n";
+			myfile << "Did not receive from the server." << endl;
 			myfile.close();
 			return connectionSuccess;
 		}
 		else
 		{
-			myfile << "We got word from the server!/n";
+			myfile << "We got word from the server!" << endl;
 			connectionSuccess = true;
 		}
 
-		myfile << "Closed the file!/n";
+		myfile << "Closed the file!" << endl;
 		myfile.close();
 		return connectionSuccess;
 	}
