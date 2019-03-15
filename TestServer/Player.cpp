@@ -5,6 +5,7 @@ Player::Player()
 	strcpy_s(this->clientIp, "0");
 	this->playerNum = 0;
 	this->name = "";
+
 }
 
 Player::Player(char clientIp[256], int playerNum, string name)
@@ -12,6 +13,9 @@ Player::Player(char clientIp[256], int playerNum, string name)
 	strcpy_s(this->clientIp, clientIp);
 	this->playerNum = playerNum;
 	this->name = name;
+	
+	// add vector stuff here
+
 }
 
 Player::~Player()
@@ -20,8 +24,7 @@ Player::~Player()
 
 string Player::GetName()
 {
-	string name(this->name);
-	return name;
+	return this->name;
 }
 
 string Player::GetIp()
@@ -30,3 +33,7 @@ string Player::GetIp()
 	return clientIp;
 }
 
+int Player::GetNum()
+{
+	return this->playerNum;
+}

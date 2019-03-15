@@ -8,8 +8,5 @@ public:
 	~Status();
 
 	status connect;
-	status display;
-	status leave;
-	status testConnect;
 };
 

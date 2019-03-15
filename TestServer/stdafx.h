@@ -5,6 +5,7 @@
 #include <cstdlib>
 #include <time.h> 
 #include <stdio.h>
+#include "Vector2.h"
 
 // use std chrono for timing if needed
 

@@ -7,21 +7,6 @@
 using namespace std;
 extern "C" 
 {
-	float __declspec(dllexport) TestMultiply(float a, float b)
-	{
-		return a * b;
-	}
-
-	float __declspec(dllexport) TestDivide(float a, float b)
-	{
-		if (b == 0) {
-			return 0;
-			//throw invalid_argument("b cannot be zero!");
-		}
-
-		return a / b;
-	}
-
 	bool __declspec(dllexport) Connect(int ip0, int ip1, int ip2, int ip3, int port)
 	{
 		bool connectionSuccess = false;
@@ -46,6 +31,7 @@ extern "C"
 		*/
 
 		myfile << "Setting up IP!./n";
+
 		// sets up the IP with input
 		//string myIp = "129.21.178.67";
 		int ipNum;
@@ -66,6 +52,7 @@ extern "C"
 		myfile << "Setup IP" << endl;
 		myfile << "IP: " << ip << endl;
 		myfile << "PORT: " << port << endl;
+
 		// converts from string to binary for address
 		inet_pton(AF_INET, ip.c_str(), &serverHint.sin_addr); // address is of the server
 		int serverLength = sizeof(serverHint);
@@ -83,13 +70,14 @@ extern "C"
 		status serverStatus;
 		ZeroMemory((char*)&serverStatus, 128);
 
+		// preparing the connect command
 		command connect;
 		ZeroMemory((char*)&connect, 128);
 		connect.cmd = 'c';
 
-		myfile << "Preparing the test connection." << endl;
 		// Test the connection to the server
-		//cout << "Testing connection to server, if the next message does not appear please restart the program" << endl;
+		myfile << "Preparing the test connection." << endl;
+		myfile << "Testing connection to server, if the next message does not appear please restart the program." << endl;
 		int testSend = sendto(serverSocket, (char*)&connect, 128, 0, (sockaddr*)&serverHint, serverLength);
 		if (testSend == SOCKET_ERROR)
 		{

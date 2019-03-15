@@ -14,6 +14,11 @@ public:
 	// Gets the player's IP Address
 	string GetIp();
 
+	// Gets the player's Num
+	int GetNum();
+
+	Vector2 position(0,0);
+
 private:
 	char clientIp[256];
 	int playerNum;
