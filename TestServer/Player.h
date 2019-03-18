@@ -5,7 +5,7 @@ class Player
 {
 public:
 	Player();
-	Player(char clientIp[256], int playerNum, string name);
+	Player(char clientIp[256], int playerNum, string name, Vector2 posOrg);
 	~Player();
 
 	// Gets the player's name
@@ -17,7 +17,7 @@ public:
 	// Gets the player's Num
 	int GetNum();
 
-	Vector2 position(0,0);
+	Vector2 position;
 
 private:
 	char clientIp[256];

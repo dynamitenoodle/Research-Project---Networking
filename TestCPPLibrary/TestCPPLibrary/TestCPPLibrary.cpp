@@ -15,21 +15,6 @@ extern "C"
 		myfile << "Started DLL Debug! " << endl;
 
 		// Startup Winsock aaa
-		/*
-		WSADATA data;
-		WORD version = MAKEWORD(2, 2);
-		myfile << "Starting up WinSock!./n" << endl;
-		int wsOk = WSAStartup(version, &data);
-		if (wsOk != 0)
-		{
-			//cout << "Can't start Winsock! " << wsOk;
-			myfile << "Failed right at the start./n" << endl;
-			myfile.close();
-			return connectionSuccess;
-		}
-		myfile << "Past WSA startup./n";
-		*/
-
 		myfile << "Setting up IP!./n";
 
 		// sets up the IP with input

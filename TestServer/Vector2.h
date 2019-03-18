@@ -2,17 +2,17 @@
 class Vector2
 {
 public:
-	Vector2(int x, int y);
+	Vector2();
+	Vector2(float x, float y);
 	~Vector2();
 
-	int getX() { return x; }
-	int getY() { return y; }
+	float getX() { return x; }
+	float getY() { return y; }
 
-	void Add(int x, int y);
+	void Add(float x, float y);
 	void Add(Vector2 addVec);
 
 private:
-	int x;
-	int y;
+	float x;
+	float y;
 };
-

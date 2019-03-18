@@ -8,14 +8,14 @@ Player::Player()
 
 }
 
-Player::Player(char clientIp[256], int playerNum, string name)
+Player::Player(char clientIp[256], int playerNum, string name, Vector2 posOrg)
 {
 	strcpy_s(this->clientIp, clientIp);
 	this->playerNum = playerNum;
 	this->name = name;
 	
 	// add vector stuff here
-
+	this->position = posOrg;
 }
 
 Player::~Player()
