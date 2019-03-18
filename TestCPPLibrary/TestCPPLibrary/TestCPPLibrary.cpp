@@ -15,7 +15,7 @@ extern "C"
 		myfile << "Started DLL Debug! " << endl;
 
 		// Startup Winsock aaa
-		myfile << "Setting up IP!./n";
+		myfile << "Setting up IP!." << endl;
 
 		// sets up the IP with input
 		//string myIp = "129.21.178.67";
@@ -50,6 +50,7 @@ extern "C"
 		ZeroMemory(serverIp, 256);
 
 		inet_ntop(AF_INET, &serverHint.sin_addr, serverIp, 256);
+		myfile << "Server IP (sin_addr): " << &serverIp << endl;
 
 		// Preparing the status for the server
 		status serverStatus;
@@ -64,6 +65,7 @@ extern "C"
 		myfile << "Preparing the test connection." << endl;
 		myfile << "Testing connection to server, if the next message does not appear please restart the program." << endl;
 		int testSend = sendto(serverSocket, (char*)&connect, 128, 0, (sockaddr*)&serverHint, serverLength);
+		myfile << "testSend value: " << testSend << endl;
 		if (testSend == SOCKET_ERROR)
 		{
 			//cout << "Sending the test message didn't work : " << WSAGetLastError() << endl;

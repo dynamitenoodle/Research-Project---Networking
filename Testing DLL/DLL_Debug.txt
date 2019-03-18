@@ -1,7 +1,7 @@
 Started DLL Debug! 
 Setting up IP!./nHint structure set up!
 Setup IP
-IP: 129.21.178.67
+IP: 129.21.28.8
 PORT: 45000
 Preparing the test connection.
 Testing connection to server, if the next message does not appear please restart the program.

@@ -14,7 +14,7 @@ public class DLLManager : MonoBehaviour {
 	void Start()
 	{
 		// Testing the connection
-		if(Connect(129, 21, 178, 67, 45000))
+		if(Connect(129, 21, 28, 8, 45000))
         {
             Debug.Log("Connection Successful");
         }
