@@ -2,7 +2,7 @@ Started DLL Debug!
 Setting up IP!.
 Hint structure set up!
 Setup IP
-IP: 129.21.23.36
+IP: 129.21.121.33
 PORT: 45000
 Server IP (sin_addr): 00000000005FC8A0
 Preparing the test connection.
