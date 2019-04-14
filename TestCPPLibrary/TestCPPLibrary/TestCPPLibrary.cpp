@@ -2,7 +2,6 @@
 //
 #pragma once
 #include "TestCPPLibrary.h"
-#include "stdafx.h"
 
 using namespace std;
 extern "C" 
@@ -98,5 +97,16 @@ extern "C"
 		myfile.close();
 		return connectionSuccess;
 	}
-
+	bool SendPacket(gamePacket g)
+	{
+		int testSend = sendto(serverSocket, (char*)&g, 128, 0, (sockaddr*)&serverHint, serverLength);
+		
+		if (testSend == SOCKET_ERROR)
+		{
+			
+			return false;
+		}
+		return true;
+	}
+	
 }
