@@ -50,7 +50,8 @@ extern "C"
 		myInfo.serverSocket = serverSocket;
 
 		// Getting the serverIp
-		ZeroMemory(myInfo.serverIP, 256);
+		myInfo.myfile << "Clearing memory for IP" << endl;
+		ZeroMemory((char*)&myInfo.serverIP, 256);
 
 		myInfo.myfile << "Creating the Server IP" << endl;
 		inet_ntop(AF_INET, &(myInfo.serverHint.sin_addr), myInfo.serverIP, 256);
