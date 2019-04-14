@@ -26,22 +26,3 @@ private:
 	string name;
 
 };
-class ClientManager
-{
-public:
-	static int playerCount;
-	static Player* playerArray;
-	ClientManager();
-	~ClientManager();
-
-private:
-
-};
-
-ClientManager::ClientManager()
-{
-}
-
-ClientManager::~ClientManager()
-{
-}

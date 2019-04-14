@@ -10,11 +10,15 @@ public class DLLManager : MonoBehaviour {
 	[DllImport("TestCPPLibrary", EntryPoint = "Connect")]
 	public static extern bool Connect(int ip0, int ip1, int ip2, int ip3, int port);
 
+    // IP and Port variables for inspector
+    public List<int> IP;
+    public int port = 0;
+
 	// Use this for initialization
 	void Start()
 	{
 		// Testing the connection
-		if(Connect(129, 21, 121, 33, 45000))
+		if(Connect(IP[0], IP[1], IP[2], IP[3], port))
         {
             Debug.Log("Connection Successful");
         }
