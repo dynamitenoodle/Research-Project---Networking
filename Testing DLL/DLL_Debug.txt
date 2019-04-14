@@ -14,5 +14,4 @@ Testing connection to server, if the next message does not appear please restart
 testSend value: 128
 Succeded the test connection.
 Preparing to receive from server connection.
-We got word from the server!
-Closed the file!
+Did not receive from the server.
