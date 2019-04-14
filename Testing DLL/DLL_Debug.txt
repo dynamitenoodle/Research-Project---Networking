@@ -4,7 +4,11 @@ Hint structure set up!
 Setup IP
 IP: 129.21.29.146
 PORT: 45000
-Server IP (sin_addr): 00000000005FC880
+Creating the socket
+Setting the myInfo serverSocket variable
+Clearing memory for IP
+Creating the Server IP
+Server IP (sin_addr): 00007FF9F6A62920
 Preparing the test connection.
 Testing connection to server, if the next message does not appear please restart the program.
 testSend value: 128
