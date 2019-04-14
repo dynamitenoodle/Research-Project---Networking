@@ -2,7 +2,6 @@
 //
 #pragma once
 #include "TestCPPLibrary.h"
-#include "stdafx.h"
 #include "NetworkInformation.h"
 
 using namespace std;
@@ -17,10 +16,7 @@ extern "C"
 
 		// Startup Winsock aaa
 		myInfo.myfile << "Setting up IP!." << endl;
-
-		// sets up the IP with input
-		//string myIp = "129.21.178.67";
-		//int ipNum;
+		
 		myInfo.ip = "";
 		
 		myInfo.ip += to_string(ip0) + ".";
@@ -102,5 +98,19 @@ extern "C"
 		myInfo.myfile.close();
 		return connectionSuccess;
 	}
+	bool SendPosition(float x, float y)
+	{
+		command Pos;
+		ZeroMemory((char*)&Pos, 128);
+		Pos.cmd = 's';
+		int testSend = sendto(myInfo.serverSocket, (char*)&g, 128, 0, (sockaddr*)&myInfo.serverHint, myInfo.serverLength);
+		
+		if (testSend == SOCKET_ERROR)
+		{
+			return false;
+		}
+		return true;
+	}
 
+	
 }
