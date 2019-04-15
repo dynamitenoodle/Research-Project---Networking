@@ -14,6 +14,9 @@ namespace NetworkInfo
 		char* serverIP;
 		status serverStatus;
 
+		// player info
+		int playerID;
+
 	private:
 
 	};

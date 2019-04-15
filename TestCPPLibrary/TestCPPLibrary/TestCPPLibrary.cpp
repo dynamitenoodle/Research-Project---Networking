@@ -81,9 +81,12 @@ extern "C"
 		}
 		else
 		{
-			myInfo.myfile << "Succeded the test connection." << endl;
+			myInfo.myfile << "Succeded the test connection." << endl; 
+			connectionSuccess = true;
 		}
 
+		// All receiving is now done in the receive thread
+		/*
 		// Wait for a response from the server
 		myInfo.myfile << "Preparing to receive from server connection." << endl;
 		int bytesInTest = recvfrom(myInfo.serverSocket, (char*)&myInfo.serverStatus, 128, 0, (sockaddr*)&myInfo.serverHint, &myInfo.serverLength);
@@ -99,62 +102,107 @@ extern "C"
 			myInfo.myfile << "We got word from the server!" << endl;
 			connectionSuccess = true;
 		}
-
+		*/
 		myInfo.myfile << "Closed the file!" << endl;
 		myInfo.myfile.close();
-		std::thread Recieve = std::thread([serverSocket]
-		{
-			//SOCKET in = socket(AF_INET, SOCK_DGRAM, 0);
-			sockaddr_in clientRecv;//setup client reciever
-
-			char buf[1024];
-			ZeroMemory(buf, 1024);
-			int* serverLength = new int((sizeof(clientRecv)));
-			while (true)
-			{
-
-				int bytesIn = recvfrom(serverSocket, buf, 128, 0, (sockaddr*)&clientRecv, serverLength);
-				if (bytesIn == SOCKET_ERROR)
-				{
-					std::cout << "Error recieving from the server " << WSAGetLastError() << std::endl;
-					continue;
-				}
-				//Display message and client info
-				char clientIp[256];
-				ZeroMemory(clientIp, 256);
-
-				inet_ntop(AF_INET, &clientRecv.sin_addr, clientIp, 256);
-				bool contained = false;
-				posPacket temp = *((posPacket*)((&buf) + 1));
-				for (size_t i = 0; i < PlayersLastKnownPositions.size(); i++)
-				{
-					if (PlayersLastKnownPositions[i].id == temp.id) 
-					{
-						PlayersLastKnownPositions[i] = temp;
-						contained = true;
-					}
-				}
-				if (!contained)
-				{
-					PlayersLastKnownPositions.push_back(temp);
-				}
-
-			}
-		});
+		
 		return connectionSuccess;
+	}
 
+	bool __declspec(dllexport) ReceiveInformation()
+	{
+		static thread mainServerThread(Receive);
+		
+		return true;
+	}
+
+	void Receive()
+	{
+		//SOCKET in = socket(AF_INET, SOCK_DGRAM, 0);
+		myInfo.myfile.open("Receive_Debug.txt");
+		sockaddr_in clientRecv;//setup client reciever
+
+		myInfo.myfile << "Preparing to receive" << endl;
+		ZeroMemory((char*)&myInfo.serverStatus, 128);
+		while (true)
+		{
+			int bytesIn = recvfrom(myInfo.serverSocket, (char*)&myInfo.serverStatus, 128, 0, (sockaddr*)&myInfo.serverHint, &myInfo.serverLength);
+			if (bytesIn == SOCKET_ERROR)
+			{
+				myInfo.myfile << "Error recieving from the server " << WSAGetLastError() << endl;
+				continue;
+			}
+
+			//Display message and client info
+			if (myInfo.serverStatus.sts == 'p')
+			{
+				// convert the payload back to a posPacket
+				posPacket received = *((posPacket*)&myInfo.serverStatus.payload);
+
+				myInfo.myfile << "Received ID : " << received.id << " with Position : " << received.pos << endl;
+				//myInfo.myfile << "PlayerID : " << myInfo.serverStatus.payload is : " << myInfo.playerID << endl;
+			}
+			else if (myInfo.serverStatus.sts == 'c')
+			{
+				string myPayload(myInfo.serverStatus.payload);
+				myInfo.playerID = (int)myInfo.serverStatus.payload;
+				myInfo.myfile << "My ID is : " << myInfo.serverStatus.payload << endl;
+			}
+			else
+			{
+				myInfo.myfile << "Received Status '" << myInfo.serverStatus.sts << "' with Payload : " << myInfo.serverStatus.payload << endl;
+			}
+			/*
+			if (myInfo.serverStatus.sts == 'c')
+			{
+			myInfo.myfile << "Received Status '" << myInfo.server << myInfo.serverStatus.payload << endl;
+			}
+			else
+			{
+			myInfo.myfile << myInfo.serverStatus.payload << endl;
+			}
+			*/
+			/*
+			bool contained = false;
+			posPacket temp = *((posPacket*)((&myInfo.serverStatus) + 1));
+			for (size_t i = 0; i < PlayersLastKnownPositions.size(); i++)
+			{
+			if (PlayersLastKnownPositions[i].id == temp.id)
+			{
+			PlayersLastKnownPositions[i] = temp;
+			contained = true;
+			}
+			}
+			if (!contained)
+			{
+			PlayersLastKnownPositions.push_back(temp);
+			}
+			*/
+		}
+
+		myInfo.myfile << "Closing Receive function" << endl;
+		myInfo.myfile.close();
 	}
 	
 	bool __declspec(dllexport) SendPosition(float x, float y)
 	{
-		command Pos;
-		ZeroMemory((char*)&Pos, 128);
-		Pos.cmd = 'p';
-		float* t = new float[2];
-		t[0] = x;
-		t[1] = y;
-		int testSend = sendto(myInfo.serverSocket, (char*)&t, 128, 0, (sockaddr*)&myInfo.serverHint, myInfo.serverLength);
-		
+		// create the position sending command
+		command pos;
+		ZeroMemory((char*)&pos, 128);
+		pos.cmd = 'p';
+
+		// creates the player position packet
+		posPacket playerPacket;
+		playerPacket.id = myInfo.playerID;
+
+		playerPacket.pos = new float[2];
+		playerPacket.pos[0] = x;
+		playerPacket.pos[1] = y;
+
+		strcpy_s(pos.payload, (char*)&playerPacket);
+
+		// sends the players position to the server
+		int testSend = sendto(myInfo.serverSocket, (char*)&pos, 128, 0, (sockaddr*)&myInfo.serverHint, myInfo.serverLength);
 		if (testSend == SOCKET_ERROR)
 		{
 			return false;
@@ -170,11 +218,10 @@ extern "C"
 		}
 		return PlayersLastKnownPositions[id].pos[1];
 	}
+
 	int __declspec(dllexport) PosAmt()
 	{
 		return (int)PlayersLastKnownPositions.size();
 	}
 
-
-	
 }

@@ -6,4 +6,6 @@ extern "C" {
 	__declspec(dllexport) bool SendPosition(float x, float y);
 	__declspec(dllexport) float GetPosition(int id, bool isX);
 	__declspec(dllexport) int PosAmt();
+	__declspec(dllexport) bool ReceiveInformation();
+	void Receive();
 }
