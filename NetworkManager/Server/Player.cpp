@@ -3,15 +3,15 @@
 
 Player::Player()
 {
-	strcpy_s(this->clientIp, "0");
+	this->clientIp = "";
 	this->playerNum = 0;
 	this->name = "";
 
 }
 
-Player::Player(char clientIp[256], int playerNum, string name, Vector2 posOrg, ::sockaddr_in sock)
+Player::Player(string clientIp, int playerNum, string name, Vector2 posOrg, ::sockaddr_in sock)
 {
-	strcpy_s(this->clientIp, clientIp);
+	this->clientIp = clientIp;
 	this->playerNum = playerNum;
 	this->name = name;
 	this->sockaddr_in = sock;

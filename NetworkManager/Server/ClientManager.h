@@ -4,8 +4,8 @@ class ClientManager
 	public:
 		ClientManager();
 		~ClientManager();
-		static int playerCount;
-		static Player* playerArray;
+		int playerCount;
+		Player playerArray[12];
 
 	private:
 

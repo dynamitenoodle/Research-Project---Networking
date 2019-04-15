@@ -27,6 +27,9 @@
     <ClInclude Include="queue.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ServerDLL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

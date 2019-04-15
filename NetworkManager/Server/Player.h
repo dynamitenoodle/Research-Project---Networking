@@ -5,7 +5,7 @@ class Player
 {
 public:
 	Player();
-	Player(char clientIp[256], int playerNum, string name, Vector2 posOrg, sockaddr_in sock);
+	Player(string clientIp, int playerNum, string name, Vector2 posOrg, sockaddr_in sock);
 	~Player();
 
 	// Gets the player's name
@@ -21,7 +21,7 @@ public:
 	Vector2 position;
 
 private:
-	char clientIp[256];
+	string clientIp;
 	int playerNum;
 	string name;
 

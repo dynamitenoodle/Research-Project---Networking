@@ -1,6 +1,7 @@
 #pragma once
 
 #include <iostream>
+#include <mutex>
 
 using namespace std;
 
@@ -10,6 +11,7 @@ private:
 	T* data = nullptr;
 	int count;
 	int size;
+	mutex m;
 public:
 	Queue() {
 		data = new T[10];
@@ -42,8 +44,9 @@ public:
 		return *this;
 	}
 	//pops the first value off the front of the queue, shifts all entries down
-	void Pop() {
+	T Pop() {
 		if (count > 0) {
+			m.lock();
 			T poppedData = data[0];
 			if (count > 1) {
 				for (size_t i = 1; i < count; i++)
@@ -52,10 +55,15 @@ public:
 				}
 			}
 			count--;
+			m.unlock();
+			return poppedData;
 		}
+		T defaultObj;
+		return defaultObj;
 	}
 	//pushes a value onto back of queue, doubles size of array if the count exceeds the limit
 	void Push(T newData) {
+		m.lock();
 		if (count == size) {
 			T* newDataArray = new T[size * 2];
 			size *= 2;
@@ -68,6 +76,7 @@ public:
 		}
 		count++;
 		data[count-1] = newData;
+		m.unlock();
 	}
 	//prints out all of the entries in the queue
 	void Print() {
