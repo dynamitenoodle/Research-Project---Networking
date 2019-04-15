@@ -9,14 +9,10 @@
 
 using namespace std;
 using namespace NetworkInfo;
-struct packet 
-{
-	char id;
-	float* pos;
-};
+
 extern "C" 
 {
-	std::vector<packet> PlayersLastKnownPositions = vector<packet>();
+	std::vector<posPacket> PlayersLastKnownPositions = vector<posPacket>();
 	bool __declspec(dllexport) Connect(int ip0, int ip1, int ip2, int ip3, int port)
 	{
 		
@@ -108,7 +104,6 @@ extern "C"
 		myInfo.myfile.close();
 		std::thread Recieve = std::thread([serverSocket]
 		{
-
 			//SOCKET in = socket(AF_INET, SOCK_DGRAM, 0);
 			sockaddr_in clientRecv;//setup client reciever
 
@@ -130,7 +125,7 @@ extern "C"
 
 				inet_ntop(AF_INET, &clientRecv.sin_addr, clientIp, 256);
 				bool contained = false;
-				packet temp = *((packet*)((&buf) + 1));
+				posPacket temp = *((posPacket*)((&buf) + 1));
 				for (size_t i = 0; i < PlayersLastKnownPositions.size(); i++)
 				{
 					if (PlayersLastKnownPositions[i].id == temp.id) 

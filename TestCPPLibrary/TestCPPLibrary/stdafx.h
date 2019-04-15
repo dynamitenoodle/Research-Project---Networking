@@ -24,3 +24,9 @@ struct status
 	unsigned char sts; // 256 status tpyes for now
 	char payload[127]; // Some payload based
 };
+
+struct posPacket
+{
+	char id;
+	float* pos;
+};
