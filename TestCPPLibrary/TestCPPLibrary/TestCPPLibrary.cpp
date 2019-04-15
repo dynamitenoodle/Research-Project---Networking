@@ -1,15 +1,25 @@
 // TestCPPLibrary.cpp : Defines the exported functions for the DLL application.
 //
 #pragma once
+#include "stdafx.h"
 #include "TestCPPLibrary.h"
 #include "NetworkInformation.h"
+#include <thread>
+#include <Vector>
 
 using namespace std;
 using namespace NetworkInfo;
+struct packet 
+{
+	char id;
+	float* pos;
+};
 extern "C" 
 {
+	std::vector<packet> PlayersLastKnownPositions = vector<packet>();
 	bool __declspec(dllexport) Connect(int ip0, int ip1, int ip2, int ip3, int port)
 	{
+		
 		bool connectionSuccess = false;
 		myInfo.myfile.open("DLL_Debug.txt");
 		myInfo.myfile << "Started DLL Debug! " << endl;
@@ -96,14 +106,59 @@ extern "C"
 
 		myInfo.myfile << "Closed the file!" << endl;
 		myInfo.myfile.close();
+		std::thread Recieve = std::thread([serverSocket]
+		{
+
+			//SOCKET in = socket(AF_INET, SOCK_DGRAM, 0);
+			sockaddr_in clientRecv;//setup client reciever
+
+			char buf[1024];
+			ZeroMemory(buf, 1024);
+			int* serverLength = new int((sizeof(clientRecv)));
+			while (true)
+			{
+
+				int bytesIn = recvfrom(serverSocket, buf, 128, 0, (sockaddr*)&clientRecv, serverLength);
+				if (bytesIn == SOCKET_ERROR)
+				{
+					std::cout << "Error recieving from the server " << WSAGetLastError() << std::endl;
+					continue;
+				}
+				//Display message and client info
+				char clientIp[256];
+				ZeroMemory(clientIp, 256);
+
+				inet_ntop(AF_INET, &clientRecv.sin_addr, clientIp, 256);
+				bool contained = false;
+				packet temp = *((packet*)((&buf) + 1));
+				for (size_t i = 0; i < PlayersLastKnownPositions.size(); i++)
+				{
+					if (PlayersLastKnownPositions[i].id == temp.id) 
+					{
+						PlayersLastKnownPositions[i] = temp;
+						contained = true;
+					}
+				}
+				if (!contained)
+				{
+					PlayersLastKnownPositions.push_back(temp);
+				}
+
+			}
+		});
 		return connectionSuccess;
+
 	}
-	bool SendPosition(float x, float y)
+	
+	bool __declspec(dllexport) SendPosition(float x, float y)
 	{
 		command Pos;
 		ZeroMemory((char*)&Pos, 128);
-		Pos.cmd = 's';
-		int testSend = sendto(myInfo.serverSocket, (char*)&g, 128, 0, (sockaddr*)&myInfo.serverHint, myInfo.serverLength);
+		Pos.cmd = 'p';
+		float* t = new float[2];
+		t[0] = x;
+		t[1] = y;
+		int testSend = sendto(myInfo.serverSocket, (char*)&t, 128, 0, (sockaddr*)&myInfo.serverHint, myInfo.serverLength);
 		
 		if (testSend == SOCKET_ERROR)
 		{
@@ -111,6 +166,20 @@ extern "C"
 		}
 		return true;
 	}
+
+	float __declspec(dllexport) GetPosition(int id, bool isX)
+	{
+		if (isX) 
+		{
+			return PlayersLastKnownPositions[id].pos[0];
+		}
+		return PlayersLastKnownPositions[id].pos[1];
+	}
+	int __declspec(dllexport) PosAmt()
+	{
+		return (int)PlayersLastKnownPositions.size();
+	}
+
 
 	
 }
