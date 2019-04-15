@@ -1,0 +1,4137 @@
+Preparing to receive
+Connect status received
+My ID is : 
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38
+Setting received packet from server status Payload
+Setting successful
+Received ID : -557737479 with Position X: -1.69471e+38 Y: -1.69474e+38

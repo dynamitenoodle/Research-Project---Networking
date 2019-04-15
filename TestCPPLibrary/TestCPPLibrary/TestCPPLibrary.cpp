@@ -129,7 +129,7 @@ extern "C"
 			int bytesIn = recvfrom(myInfo.serverSocket, (char*)&myInfo.serverStatus, 128, 0, (sockaddr*)&myInfo.serverHint, &myInfo.serverLength);
 			if (bytesIn == SOCKET_ERROR)
 			{
-				myInfo.myfile << "Error recieving from the server " << WSAGetLastError() << endl;
+				myInfo.myfile << "Error recieving from the server " /*<< WSAGetLastError()*/ << endl;
 				continue;
 			}
 
@@ -137,15 +137,18 @@ extern "C"
 			if (myInfo.serverStatus.sts == 'p')
 			{
 				// convert the payload back to a posPacket
-				posPacket received = *((posPacket*)&myInfo.serverStatus.payload);
+				myInfo.myfile << "Setting received packet from server status Payload" << endl;
+				posPacket* received = ((posPacket*)&myInfo.serverStatus.payload);
+				myInfo.myfile << "Setting successful" << endl;
 
-				myInfo.myfile << "Received ID : " << received.id << " with Position : " << received.pos << endl;
+				myInfo.myfile << "Received ID : " << received->id << " with Position X: " << received->pos[0] << " Y: " << received->pos[1] << endl;
 				//myInfo.myfile << "PlayerID : " << myInfo.serverStatus.payload is : " << myInfo.playerID << endl;
 			}
 			else if (myInfo.serverStatus.sts == 'c')
 			{
 				string myPayload(myInfo.serverStatus.payload);
 				myInfo.playerID = (int)myInfo.serverStatus.payload;
+				myInfo.myfile << "Connect status received" << endl;
 				myInfo.myfile << "My ID is : " << myInfo.serverStatus.payload << endl;
 			}
 			else
@@ -195,7 +198,6 @@ extern "C"
 		posPacket playerPacket;
 		playerPacket.id = myInfo.playerID;
 
-		playerPacket.pos = new float[2];
 		playerPacket.pos[0] = x;
 		playerPacket.pos[1] = y;
 
