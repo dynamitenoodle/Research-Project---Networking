@@ -28,5 +28,6 @@ struct status
 struct posPacket
 {
 	int id;
-	float pos[2];
+	float xPos;
+	float yPos;
 };

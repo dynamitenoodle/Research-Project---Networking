@@ -15,6 +15,8 @@ public class DLLManager : MonoBehaviour {
 	public static extern bool SendPosition(float x, float y);
 
 	public bool sendingSuccess;
+
+    GameObject player;
 	
 	// IP and Port variables for inspector
 	public List<int> IP;
@@ -23,6 +25,8 @@ public class DLLManager : MonoBehaviour {
 	// Use this for initialization
 	void Start()
 	{
+        player = GameObject.Find("Player");
+
 		// Testing the connection
 		if(Connect(IP[0], IP[1], IP[2], IP[3], port))
         {
@@ -47,7 +51,7 @@ public class DLLManager : MonoBehaviour {
 	// Update is called once per frame
 	void Update()
 	{
-		if (SendPosition(transform.position.x, transform.position.y))
+		if (SendPosition(player.transform.position.x, player.transform.position.y))
 		{
 			sendingSuccess = true;
 		}

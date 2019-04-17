@@ -138,10 +138,16 @@ extern "C"
 			{
 				// convert the payload back to a posPacket
 				myInfo.myfile << "Setting received packet from server status Payload" << endl;
-				posPacket* received = ((posPacket*)&myInfo.serverStatus.payload);
+				posPacket* received = (posPacket*)&myInfo.serverStatus.payload;
 				myInfo.myfile << "Setting successful" << endl;
 
-				myInfo.myfile << "Received ID : " << received->id << " with Position X: " << received->pos[0] << " Y: " << received->pos[1] << endl;
+				// ensure we don't print a size that is too small
+				if (received->xPos < 0.001f && received->xPos > -0.001f)
+					received->xPos = 0.0f;
+				if (received->yPos < 0.001f && received->yPos > -0.001f)
+					received->yPos = 0.0f;
+
+				myInfo.myfile << "Received ID : " << received->id << " with Position X: " << received->xPos << " Y: " << received->yPos << endl;
 				//myInfo.myfile << "PlayerID : " << myInfo.serverStatus.payload is : " << myInfo.playerID << endl;
 			}
 			else if (myInfo.serverStatus.sts == 'c')
@@ -181,6 +187,8 @@ extern "C"
 			PlayersLastKnownPositions.push_back(temp);
 			}
 			*/
+
+			myInfo.myfile << endl;
 		}
 
 		myInfo.myfile << "Closing Receive function" << endl;
@@ -189,6 +197,8 @@ extern "C"
 	
 	bool __declspec(dllexport) SendPosition(float x, float y)
 	{
+		myInfo.myfile << "Preparing to send Position with X: " << x << " Y: " << y << endl;
+
 		// create the position sending command
 		command pos;
 		ZeroMemory((char*)&pos, 128);
@@ -197,9 +207,8 @@ extern "C"
 		// creates the player position packet
 		posPacket playerPacket;
 		playerPacket.id = myInfo.playerID;
-
-		playerPacket.pos[0] = x;
-		playerPacket.pos[1] = y;
+		playerPacket.xPos = x;
+		playerPacket.yPos = y;
 
 		strcpy_s(pos.payload, (char*)&playerPacket);
 
@@ -209,9 +218,11 @@ extern "C"
 		{
 			return false;
 		}
+		myInfo.myfile << "Sent Position"<< endl;
 		return true;
 	}
 
+	/*
 	float __declspec(dllexport) GetPosition(int id, bool isX)
 	{
 		if (isX) 
@@ -225,5 +236,5 @@ extern "C"
 	{
 		return (int)PlayersLastKnownPositions.size();
 	}
-
+	*/
 }
