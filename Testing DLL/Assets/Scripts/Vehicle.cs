@@ -41,13 +41,13 @@ public class Vehicle : MonoBehaviour {
 	void Update ()
 	{
         // Check input
-		if (Up)
+		if (Up && transform.position.y < maxY)
 			direction.y += 1;
-		if (Down)
+		if (Down && transform.position.y > minY)
 			direction.y -= 1;
-		if (Right)
+		if (Right && transform.position.x < maxX)
 			direction.x += 1;
-		if (Left)
+		if (Left && transform.position.x > minX)
 			direction.x -= 1;
 
         // direction calculator
@@ -58,19 +58,17 @@ public class Vehicle : MonoBehaviour {
 		if (!Right && !Left || Right && Left)
 			direction.x = 0;
 
-        // update the velocity and position
-		velocity = direction * speed * Time.deltaTime;
-
-        // checks to see if we should change the camera position
-        if (transform.position.x - GetComponent<BoxCollider2D>().bounds.size.x > minX && transform.position.x + GetComponent<BoxCollider2D>().bounds.size.x < maxX)
-            position.x += velocity.x;
-        if (transform.position.y - GetComponent<BoxCollider2D>().bounds.size.y > minY && transform.position.y + GetComponent<BoxCollider2D>().bounds.size.y < maxY)
-            position.y += velocity.y;
+        // update the velocity and position, with a check to make sure we should
+        velocity = direction * speed * Time.deltaTime;
+        position += velocity;
 
         transform.position = position;
 
         // only face if a button is being pressed
+
         if (Up || Down || Right || Left)
             transform.up = direction;
+
+        direction = Vector3.zero;
 	}
 }
