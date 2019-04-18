@@ -8,7 +8,7 @@ Creating the socket
 Setting the myInfo serverSocket variable
 Clearing memory for IP
 Creating the Server IP
-Server IP (sin_addr): 00007FFCB39E99F0
+Server IP (sin_addr): 00007FFCB18099F0
 Preparing the test connection.
 Testing connection to server, if the next message does not appear please restart the program.
 testSend value: 128
