@@ -38,9 +38,9 @@ public class Background : MonoBehaviour
     // Generates the background of the stage
     void GenerateBackgroundBlocks()
     {
-        for (float x = minX; x <= maxX; x++)
+        for (float x = minX; x <= maxX; x+=sizeX)
         {
-            for (float y = minY; y <= maxY; y++)
+            for (float y = minY; y <= maxY; y+=sizeY)
             {
                 GameObject tempBlock = Instantiate(block);
                 tempBlock.transform.parent = gameObject.transform;

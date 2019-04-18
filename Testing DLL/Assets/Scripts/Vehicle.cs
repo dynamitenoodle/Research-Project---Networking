@@ -41,19 +41,34 @@ public class Vehicle : MonoBehaviour {
 	void Update ()
 	{
         // Check input
-		if (Up && transform.position.y < maxY)
+		if (Up)
 			direction.y += 1;
-		if (Down && transform.position.y > minY)
+		if (Down)
 			direction.y -= 1;
-		if (Right && transform.position.x < maxX)
+		if (Right)
 			direction.x += 1;
-		if (Left && transform.position.x > minX)
+		if (Left)
 			direction.x -= 1;
 
-        // direction calculator
-		direction = Vector3.ClampMagnitude(direction, 1);
+        // only face if a button is being pressed
+        if (Up || Down || Right || Left)
+            transform.up = direction;
 
-		if (!Up && !Down || Up && Down)
+        // direction calculator
+        direction = Vector3.ClampMagnitude(direction, 1);
+
+        // Checks to see if we should move if the direction at all
+        if (transform.position.x < minX && Left)
+            direction.x = 0;
+        if (transform.position.x > maxX && Right)
+            direction.x = 0;
+        if (transform.position.y < minY && Down)
+            direction.y = 0;
+        if (transform.position.y > maxY && Up)
+            direction.y = 0;
+
+        // Checks to make sure no double input presses
+        if (!Up && !Down || Up && Down)
 			direction.y = 0;
 		if (!Right && !Left || Right && Left)
 			direction.x = 0;
@@ -63,11 +78,6 @@ public class Vehicle : MonoBehaviour {
         position += velocity;
 
         transform.position = position;
-
-        // only face if a button is being pressed
-
-        if (Up || Down || Right || Left)
-            transform.up = direction;
 
         direction = Vector3.zero;
 	}
