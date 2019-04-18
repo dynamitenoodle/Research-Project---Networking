@@ -210,7 +210,9 @@ extern "C"
 		playerPacket.xPos = x;
 		playerPacket.yPos = y;
 
+		myInfo.myfile << "Allocating playerPacket Memory with size " << sizeof(playerPacket) << endl;
 		strcpy_s(pos.payload, (char*)&playerPacket);
+		myInfo.myfile << "Memory allocated" << endl;
 
 		// sends the players position to the server
 		int testSend = sendto(myInfo.serverSocket, (char*)&pos, 128, 0, (sockaddr*)&myInfo.serverHint, myInfo.serverLength);
