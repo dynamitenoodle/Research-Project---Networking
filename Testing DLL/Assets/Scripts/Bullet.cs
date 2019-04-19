@@ -10,7 +10,6 @@ public class Bullet : MonoBehaviour
     Vector3 position;
     [HideInInspector] public Vector3 direction;
 
-
     // sets how far the bullet can go
     GameObject background;
     float minX;
@@ -19,6 +18,9 @@ public class Bullet : MonoBehaviour
     float maxY;
 
     float offset = 5f;
+
+    float lifeTime;
+    public float lifeTimeMax = 10f;
 
     // Start is called before the first frame update
     void Start()
@@ -42,7 +44,9 @@ public class Bullet : MonoBehaviour
         transform.position = position;
         transform.up = direction;
 
-        if (transform.position.x > maxX + offset || transform.position.x < minX - offset || transform.position.y > maxY + offset || transform.position.y < minY - offset)
+        if ((transform.position.x > maxX + offset || transform.position.x < minX - offset || transform.position.y > maxY + offset || transform.position.y < minY - offset) || lifeTime > lifeTimeMax)
             Destroy(gameObject);
+
+        lifeTime += Time.deltaTime;
     }
 }
