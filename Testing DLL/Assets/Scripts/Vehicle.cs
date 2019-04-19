@@ -5,11 +5,18 @@ using UnityEngine;
 public class Vehicle : MonoBehaviour {
 
 	// attributes
-	public Vector3 velocity;
-	public Vector3 position;
-	public Vector3 direction;
+	Vector3 velocity;
+	Vector3 position;
+	Vector3 direction;
 	public float speed = 5;
     GameObject background;
+    GameObject cannon;
+    Camera cam;
+
+    // shooting
+    public GameObject bulletPrefab;
+    float shotTimer;
+    public float shotTimerMax = 1f;
 
     // sets how far the player can go
     float minX;
@@ -35,6 +42,10 @@ public class Vehicle : MonoBehaviour {
         minY = background.GetComponent<Background>().minY;
         maxX = background.GetComponent<Background>().maxX;
         maxY = background.GetComponent<Background>().maxY;
+
+        cannon = transform.GetChild(0).gameObject;
+        cannon.transform.parent = null;
+        cam = GameObject.Find("Main Camera").GetComponent<Camera>();
     }
 	
 	// Update is called once per frame
@@ -80,5 +91,33 @@ public class Vehicle : MonoBehaviour {
         transform.position = position;
 
         direction = Vector3.zero;
-	}
+
+        // Calculate Cannon angle
+        CannonUpdate();
+
+        // Shooting Method
+        if (shotTimer >= shotTimerMax)
+        {
+            if (Input.GetMouseButtonDown(0))
+            {
+                GameObject tempBullet = Instantiate(bulletPrefab);
+                tempBullet.transform.position = cannon.transform.GetChild(0).localPosition;
+                tempBullet.GetComponent<Bullet>().direction = Vector3.Normalize(tempBullet.transform.position - cannon.transform.position);
+            }
+        }
+        else
+            shotTimer += Time.deltaTime;
+    }
+
+    void CannonUpdate()
+    {
+        Vector3 mouse_pos = Input.mousePosition;
+        mouse_pos.z = 10; //The distance between the camera and object
+        Vector3 object_pos = cam.WorldToScreenPoint(cannon.transform.position);
+        mouse_pos.x = mouse_pos.x - object_pos.x;
+        mouse_pos.y = mouse_pos.y - object_pos.y;
+        float angle = Mathf.Atan2(mouse_pos.y, mouse_pos.x) * Mathf.Rad2Deg;
+        cannon.transform.rotation = Quaternion.Euler(new Vector3(0, 0, angle - 90f));
+        cannon.transform.position = transform.position;
+    }
 }

@@ -7,1106 +7,1124 @@ Preparing to send Position with X: 0 Y: 0
 Sent Position
 Error recieving from the server 
 Preparing to send Position with X: 0 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -0.190212 Y: 0
 Sent PositionError recieving from the server 
 
-Preparing to send Position with X: 0 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.0509316 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.0989775 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.14959 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.198615 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.249227 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.298629 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.347453 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.397153 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.44714 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.496553 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.546253 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.596357 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.645654 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.696093 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.745074 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.795244 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.844453 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.896168 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.944077 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.993553 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.04344 Y: 0
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.07845 Y: 0.0350132
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.11388 Y: 0.0704471
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.14874 Y: 0.105301
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.1843 Y: 0.140868
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.21902 Y: 0.175587
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.25417 Y: 0.210729
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.28971 Y: 0.246275
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.28971 Y: 0.295405
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.28971 Y: 0.346698
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.28971 Y: 0.395058
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.28971 Y: 0.444506
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.28971 Y: 0.494206
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.28971 Y: 0.543906
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.28971 Y: 0.59365
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.28971 Y: 0.643306
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.28971 Y: 0.693923
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.28971 Y: 0.742706
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.28971 Y: 0.792406
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.28971 Y: 0.842106
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.2531 Y: 0.878722
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.21868 Y: 0.913133
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.18428 Y: 0.947535
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.14914 Y: 0.982678
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.114 Y: 1.01782
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.07827 Y: 1.05354
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.04371 Y: 1.08811
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.0078 Y: 1.12402
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.973411 Y: 1.15841
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.938279 Y: 1.19354
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.902648 Y: 1.22917
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.867992 Y: 1.26382
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.83285 Y: 1.29897
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.797706 Y: 1.33411
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.762103 Y: 1.36971
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.713054 Y: 1.36971
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.662003 Y: 1.36971
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.613284 Y: 1.36971
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.563954 Y: 1.36971
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.512751 Y: 1.36971
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.464554 Y: 1.36971
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.414854 Y: 1.36971
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.365154 Y: 1.36971
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.314329 Y: 1.36971
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.279981 Y: 1.33537
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.244185 Y: 1.29957
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.207871 Y: 1.26326
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.173507 Y: 1.22889
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.139408 Y: 1.19479
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.103099 Y: 1.15848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.0689612 Y: 1.12435
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.0339792 Y: 1.08936
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.00116451 Y: 1.05422
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.0368598 Y: 1.01853
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.0714506 Y: 0.983934
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.107114 Y: 0.948271
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.141738 Y: 0.913647
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.176882 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.227959 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.27628 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.32598 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.376557 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.427211 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.475116 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.524785 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.574484 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.624182 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.674875 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.725782 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.773684 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.822985 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.873131 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.922402 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.972082 Y: 0.878503
+Preparing to send Position with X: -0.190212 Y: 0
 Sent PositionError recieving from the server 
 
-Preparing to send Position with X: 1.02286 Y: 0.878503
+Preparing to send Position with X: -0.190212 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: 1.07148 Y: 0.878503
+Preparing to send Position with X: -0.190212 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: 1.12327 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.17164 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.22345 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.27129 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.31998 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.37109 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.41948 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.46908 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.51991 Y: 0.878503
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.55425 Y: 0.91285
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.59057 Y: 0.949166
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.62454 Y: 0.983137
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.66123 Y: 1.01983
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.69544 Y: 1.05404
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.72999 Y: 1.08859
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.7662 Y: 1.12479
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.80026 Y: 1.15885
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.83659 Y: 1.19519
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.87054 Y: 1.22914
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.90655 Y: 1.26515
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.90655 Y: 1.31365
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.90655 Y: 1.36332
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.90655 Y: 1.41365
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.90655 Y: 1.46272
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.90655 Y: 1.51243
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.90655 Y: 1.56389
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.90655 Y: 1.61217
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.90655 Y: 1.66153
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.87064 Y: 1.69745
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.83623 Y: 1.73185
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.80026 Y: 1.76783
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.76598 Y: 1.8021
+Preparing to send Position with X: -0.190212 Y: 0
 Sent PositionError recieving from the server 
 
-Preparing to send Position with X: 1.73084 Y: 1.83724
+Preparing to send Position with X: -0.190212 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: 1.6957 Y: 1.87239
+Preparing to send Position with X: -0.190212 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: 1.65948 Y: 1.9086
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.62541 Y: 1.94267
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.59024 Y: 1.97785
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.55498 Y: 2.0131
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.51857 Y: 2.04951
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.48472 Y: 2.08336
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.44769 Y: 2.12039
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.41377 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.36518 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.31467 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.26578 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.21608 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.16441 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.11668 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.06698 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 1.01614 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.967568 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.916421 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.868179 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.818468 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.76818 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.719078 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.667737 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.619459 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.569979 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.519926 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.470579 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.420879 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.371024 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.320142 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.271779 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.222079 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.171479 Y: 2.15432
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.136972 Y: 2.11981
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.100319 Y: 2.08316
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.0666857 Y: 2.04952
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.0315428 Y: 2.01438
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.00399797 Y: 1.97884
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.0389781 Y: 1.94386
+Preparing to send Position with X: -0.190212 Y: 0
 Sent PositionError recieving from the server 
 
-Preparing to send Position with X: -0.0752096 Y: 1.90763
+Preparing to send Position with X: -0.190212 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: -0.109912 Y: 1.87293
+Preparing to send Position with X: -0.190212 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: -0.144298 Y: 1.83854
+Preparing to send Position with X: -0.190212 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: -0.179316 Y: 1.80352
+Preparing to send Position with X: -0.190212 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: -0.214662 Y: 1.76818
+Preparing to send Position with X: -0.190212 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: -0.250912 Y: 1.73193
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.284746 Y: 1.69809
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.31989 Y: 1.66295
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.355033 Y: 1.62781
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.390259 Y: 1.59258
+Preparing to send Position with X: -0.190212 Y: 0
 Sent PositionError recieving from the server 
 
-Preparing to send Position with X: -0.427025 Y: 1.55581
+Preparing to send Position with X: -0.190212 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: -0.460972 Y: 1.52187
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.495605 Y: 1.48723
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.495605 Y: 1.43592
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.461604 Y: 1.40192
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.426461 Y: 1.36677
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.390815 Y: 1.33113
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.356174 Y: 1.29649
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.320773 Y: 1.26109
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.285888 Y: 1.2262
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.250741 Y: 1.19105
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.215601 Y: 1.15592
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.178885 Y: 1.1192
+Preparing to send Position with X: -0.190212 Y: 0
 Sent PositionError recieving from the server 
 
-Preparing to send Position with X: -0.144936 Y: 1.08525
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.108647 Y: 1.04896
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.0748293 Y: 1.01514
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.0387024 Y: 0.979016
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.00394475 Y: 0.944259
+Preparing to send Position with X: -0.190212 Y: 0
+Error recieving from the server Sent Position
+
+Preparing to send Position with X: -0.190212 Y: 0
 Sent PositionError recieving from the server 
 
-Preparing to send Position with X: 0.0304007 Y: 0.909913
+Preparing to send Position with X: -0.190212 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: 0.0663755 Y: 0.873938
+Preparing to send Position with X: -0.190212 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: 0.102392 Y: 0.837922
+Preparing to send Position with X: -0.190212 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: 0.136906 Y: 0.803408
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.171859 Y: 0.768455
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.206117 Y: 0.734197
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.24126 Y: 0.699054
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.276404 Y: 0.663909
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.312035 Y: 0.628278
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.34669 Y: 0.593624
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.381833 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.332135 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.281535 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.232734 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.183035 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.132604 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.0835956 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: 0.0339342 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.0161208 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.0685887 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.115166 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.165157 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.216434 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.264512 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.313966 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.363666 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.414287 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.46335 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.51514 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.563388 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.612166 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.664096 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.711853 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.76182 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.813282 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.863327 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.910366 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -0.960067 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.01125 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.06041 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.11128 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.16005 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.2093 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.25827 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
+Preparing to send Position with X: -0.190212 Y: 0
 Sent PositionError recieving from the server 
 
-Preparing to send Position with X: -1.30929 Y: 0.55848
+Preparing to send Position with X: -0.190212 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Error recieving from the server 
-Sent Position
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
-Sent Position
-Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
+Preparing to send Position with X: -0.190212 Y: 0
 Sent PositionError recieving from the server 
 
-Preparing to send Position with X: -1.30929 Y: 0.55848
+Preparing to send Position with X: -0.190212 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
+Preparing to send Position with X: -0.190212 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -0.190212 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -0.190212 Y: 0
 Sent PositionError recieving from the server 
 
-Preparing to send Position with X: -1.30929 Y: 0.55848
+Preparing to send Position with X: -0.238053 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
+Preparing to send Position with X: -0.287377 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
+Preparing to send Position with X: -0.337082 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
+Preparing to send Position with X: -0.388096 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
+Preparing to send Position with X: -0.439051 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
+Preparing to send Position with X: -0.486178 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
+Preparing to send Position with X: -0.535882 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
+Preparing to send Position with X: -0.585579 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
+Preparing to send Position with X: -0.635282 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -0.684978 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
+Preparing to send Position with X: -0.734701 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
+Preparing to send Position with X: -0.78438 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
+Preparing to send Position with X: -0.834286 Y: 0
 Sent Position
 Error recieving from the server 
-Preparing to send Position with X: -1.30929 Y: 0.55848
+Preparing to send Position with X: -0.883782 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -0.933886 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -0.983284 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -1.03442 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -1.08259 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -1.13356 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -1.18198 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -1.23279 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -1.28138 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -1.33196 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -1.38078 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -1.43167 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -1.48018 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -1.53102 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -1.58201 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -1.63003 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -1.68095 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -1.72878 Y: 0
+Error recieving from the server Sent Position
+
+Preparing to send Position with X: -1.77838 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -1.82836 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -1.87955 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -1.92806 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -1.979 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.02688 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.078 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.12628 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.17598 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.22568 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.27538 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.32508 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Error recieving from the server Sent Position
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Error recieving from the server Sent Position
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Error recieving from the server Sent Position
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.37545 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.42515 Y: 0
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.46029 Y: -0.0351431
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.49544 Y: -0.070288
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.53058 Y: -0.105429
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.56572 Y: -0.140575
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.60087 Y: -0.175718
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.63713 Y: -0.211985
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.67115 Y: -0.246002
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -0.281375
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -0.330754
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.70652 Y: -0.380533
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.70652 Y: -0.431476
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -0.479856
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -0.529552
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -0.579254
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -0.629681
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -0.678652
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -0.728683
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -0.780103
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -0.828053
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -0.879317
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -0.927303
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -0.97685
+Error recieving from the server Sent Position
+
+Preparing to send Position with X: -2.70652 Y: -1.02655
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -1.07742
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -1.12596
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.70652 Y: -1.1762
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -1.2272
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -1.27572
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.70652 Y: -1.32475
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -1.37487
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -1.42598
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.70652 Y: -1.47395
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -1.52494
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -1.57326
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -1.62295
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -1.67289
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -1.72427
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.70652 Y: -1.77205
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -1.8225
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -1.87145
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -1.92202
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -1.97085
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -2.02134
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.70652 Y: -2.07126
+Error recieving from the server Sent Position
+
+Preparing to send Position with X: -2.70652 Y: -2.12217
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -2.17008
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -2.21935
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -2.26945
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.70652 Y: -2.32043
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -2.36845
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -2.41921
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -2.46785
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -2.5183
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -2.56725
+Error recieving from the server Sent Position
+
+Preparing to send Position with X: -2.70652 Y: -2.6179
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -2.66665
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -2.71637
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.70652 Y: -2.76781
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -2.81591
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.70652 Y: -2.86683
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -2.91516
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -2.96532
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -3.01638
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -3.06428
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.70652 Y: -3.11541
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -3.16366
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -3.21444
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -3.26526
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -3.3138
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.70652 Y: -3.36245
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -3.41628
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -3.46672
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -3.51568
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -3.56586
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -3.61508
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -3.66558
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -3.71448
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -3.76418
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -3.81388
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -3.86358
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -3.91328
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -3.96298
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -4.01526
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -4.06387
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -4.11208
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -4.16178
+Error recieving from the server Sent Position
+
+Preparing to send Position with X: -2.70652 Y: -4.21433
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -4.26472
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -4.31373
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -4.36343
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -4.41319
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -4.46457
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -4.5129
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.70652 Y: -4.56223
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -4.61272
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -4.66163
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -4.72612
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -4.77582
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -4.82552
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -4.87523
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -4.92558
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -4.97463
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -5.02433
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -5.07623
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -5.12422
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -5.17343
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -5.2237
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -5.27283
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.70652 Y: -5.3234
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -5.37478
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -5.42193
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.70652 Y: -5.47163
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -5.52202
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -5.57103
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -5.62073
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -5.67043
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -5.72077
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.70652 Y: -5.76983
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.70652 Y: -5.81953
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.70652 Y: -5.86923
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -5.91985
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -5.9711
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.01988
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.06803
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.11918
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.16789
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.70652 Y: -6.21876
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.26717
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.31653
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.36713
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.41593
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.46685
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent PositionError recieving from the server 
+
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
+Sent Position
+Error recieving from the server 
+Preparing to send Position with X: -2.70652 Y: -6.51533
 Sent Position
 Error recieving from the server 
