@@ -10,10 +10,27 @@ public class Bullet : MonoBehaviour
     Vector3 position;
     [HideInInspector] public Vector3 direction;
 
+
+    // sets how far the bullet can go
+    GameObject background;
+    float minX;
+    float minY;
+    float maxX;
+    float maxY;
+
+    float offset = 5f;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+        position = transform.position;
+        velocity = Vector3.zero;
+
+        background = GameObject.Find("Background");
+        minX = background.GetComponent<Background>().minX;
+        minY = background.GetComponent<Background>().minY;
+        maxX = background.GetComponent<Background>().maxX;
+        maxY = background.GetComponent<Background>().maxY;
     }
 
     // Update is called once per frame
@@ -25,7 +42,7 @@ public class Bullet : MonoBehaviour
         transform.position = position;
         transform.up = direction;
 
-        if (transform.position.x > 25 || transform.position.x < -25 || transform.position.y > 25 || transform.position.y < -25)
+        if (transform.position.x > maxX + offset || transform.position.x < minX - offset || transform.position.y > maxY + offset || transform.position.y < minY - offset)
             Destroy(gameObject);
     }
 }

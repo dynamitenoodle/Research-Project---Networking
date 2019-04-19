@@ -7,6 +7,7 @@ public class PlayerFollow : MonoBehaviour
     // attributes
     Camera cam;
     GameObject player;
+    Vector3 playerDirection;
     GameObject background;
 
     // The extents
@@ -39,14 +40,20 @@ public class PlayerFollow : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        float xPos = transform.position.x;
-        float yPos = transform.position.y;
+        playerDirection = player.GetComponent<Vehicle>().direction;
+        float xPos = player.transform.position.x;
+        float yPos = player.transform.position.y;
 
         // checks to see if we should change the camera position
-        if (xPos - cameraXExtent > minX && xPos + cameraXExtent < maxX)
-            xPos = player.transform.position.x;
-        if (yPos - cameraYExtent > minY && yPos + cameraYExtent < maxY)
-            yPos = player.transform.position.y;
+        if (xPos < minX + cameraXExtent)
+            xPos = minX + cameraXExtent;
+        if (xPos > maxX - cameraXExtent)
+            xPos = maxX - cameraXExtent;
+
+        if (yPos < minY + cameraYExtent)
+            yPos = minY + cameraYExtent;
+        if (yPos > maxY - cameraYExtent)
+            yPos = maxY - cameraYExtent;
 
         transform.position = new Vector3(xPos, yPos, transform.position.z);
     }

@@ -24,7 +24,6 @@ public class Background : MonoBehaviour
         blockSprite = block.GetComponent<SpriteRenderer>().sprite;
         sizeX = blockSprite.bounds.size.x;
         sizeY = blockSprite.bounds.size.y;
-        Debug.Log(sizeX);
 
         GenerateBackgroundBlocks();
     }
@@ -38,9 +37,9 @@ public class Background : MonoBehaviour
     // Generates the background of the stage
     void GenerateBackgroundBlocks()
     {
-        for (float x = minX; x <= maxX; x+=sizeX)
+        for (float x = minX - 3; x <= maxX + 5; x+=sizeX)
         {
-            for (float y = minY; y <= maxY; y+=sizeY)
+            for (float y = minY - 3; y <= maxY + 5; y+=sizeY)
             {
                 GameObject tempBlock = Instantiate(block);
                 tempBlock.transform.parent = gameObject.transform;

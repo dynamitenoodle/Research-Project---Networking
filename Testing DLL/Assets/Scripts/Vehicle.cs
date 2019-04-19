@@ -7,7 +7,7 @@ public class Vehicle : MonoBehaviour {
 	// attributes
 	Vector3 velocity;
 	Vector3 position;
-	Vector3 direction;
+	[HideInInspector] public Vector3 direction;
 	public float speed = 5;
     GameObject background;
     GameObject cannon;
@@ -46,6 +46,8 @@ public class Vehicle : MonoBehaviour {
         cannon = transform.GetChild(0).gameObject;
         cannon.transform.parent = null;
         cam = GameObject.Find("Main Camera").GetComponent<Camera>();
+
+        shotTimer = shotTimerMax;
     }
 	
 	// Update is called once per frame
@@ -101,8 +103,9 @@ public class Vehicle : MonoBehaviour {
             if (Input.GetMouseButtonDown(0))
             {
                 GameObject tempBullet = Instantiate(bulletPrefab);
-                tempBullet.transform.position = cannon.transform.GetChild(0).localPosition;
+                tempBullet.transform.position = cannon.transform.GetChild(0).transform.position;
                 tempBullet.GetComponent<Bullet>().direction = Vector3.Normalize(tempBullet.transform.position - cannon.transform.position);
+                shotTimer = 0;
             }
         }
         else
