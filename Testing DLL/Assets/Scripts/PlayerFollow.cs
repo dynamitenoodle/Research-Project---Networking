@@ -20,6 +20,11 @@ public class PlayerFollow : MonoBehaviour
     float maxX;
     float maxY;
 
+    public float maxCameraSpeed = 0.5f;
+    public float chaseDistance = 1f;
+    Vector3 direction;
+    Vector3 velocity;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -35,12 +40,15 @@ public class PlayerFollow : MonoBehaviour
         float width = height * cam.aspect;
         cameraXExtent = width / 2;
         cameraYExtent = height / 2;
+
+        direction = Vector3.zero;
+        velocity = Vector3.zero;
     }
 
     // Update is called once per frame
     void Update()
     {
-        playerDirection = player.GetComponent<Vehicle>().direction;
+        playerDirection = player.GetComponent<Player>().direction;
         float xPos = player.transform.position.x;
         float yPos = player.transform.position.y;
 
@@ -55,6 +63,21 @@ public class PlayerFollow : MonoBehaviour
         if (yPos > maxY - cameraYExtent)
             yPos = maxY - cameraYExtent;
 
-        transform.position = new Vector3(xPos, yPos, transform.position.z);
+        // Quick seeking
+        if (Vector2.Distance(transform.position, player.transform.position) > chaseDistance)
+        {
+            Vector3 wantedPosition = new Vector3(xPos, yPos, transform.position.z);
+            direction = wantedPosition - transform.position;
+            velocity += direction * maxCameraSpeed * Time.deltaTime;
+            velocity = Vector3.ClampMagnitude(velocity, maxCameraSpeed);
+
+            transform.position += velocity;
+            direction = Vector3.zero;
+        }
+        else
+        {
+            velocity *= .95f;
+            transform.position += velocity;
+        }
     }
 }
