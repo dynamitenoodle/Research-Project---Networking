@@ -207,8 +207,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f716371102037e041bc61617ad99a84c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxCameraSpeed: 0.05
-  chaseDistance: 1
+  maxCameraSpeed: 0.04
+  chaseDistance: 1.5
 --- !u!1 &623571768
 GameObject:
   m_ObjectHideFlags: 0
@@ -401,10 +401,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   block: {fileID: 9156320094144408441, guid: b52cea17968147c4d9215ae6b1f4af81, type: 3}
-  minX: -10
-  minY: -10
-  maxX: 10
-  maxY: 10
+  minX: -20
+  minY: -20
+  maxX: 20
+  maxY: 20
 --- !u!4 &1601065746
 Transform:
   m_ObjectHideFlags: 0
