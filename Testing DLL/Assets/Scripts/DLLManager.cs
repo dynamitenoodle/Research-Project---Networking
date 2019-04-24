@@ -51,14 +51,18 @@ public class DLLManager : MonoBehaviour {
 	// Update is called once per frame
 	void Update()
 	{
+        // Create the X variables
         int x1 = (int)player.transform.position.x;
         float xDecimal = Mathf.Repeat(player.transform.position.x, 1.0f) * 1000;
         int x2 = (int)xDecimal;
-        Debug.Log("X2: " + x2);
+        //Debug.Log("X2: " + x2);
+
+        // Create the Y variables
         int y1 = (int)player.transform.position.y;
         float yDecimal = Mathf.Repeat(player.transform.position.y, 1.0f) * 1000;
         int y2 = (int)yDecimal;
-        Debug.Log("Y2: " + y2);
+        //Debug.Log("Y2: " + y2);
+
         if (SendPosition(x1, x2, y1, y2))
         {
 			sendingSuccess = true;

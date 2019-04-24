@@ -63,16 +63,23 @@ public class PlayerFollow : MonoBehaviour
         if (yPos > maxY - cameraYExtent)
             yPos = maxY - cameraYExtent;
 
+        // gets the position that the camera wants to chase
+        Vector3 wantedPosition = new Vector3(xPos, yPos, transform.position.z);
+        // x = r * Math.cos(a+b), y = r * Math.sin(a+b)
+        Vector3 dirVector = new Vector3(-Mathf.Sin(Mathf.Deg2Rad * player.GetComponent<Player>().cannonAngle), Mathf.Cos(Mathf.Deg2Rad * player.GetComponent<Player>().cannonAngle), 0);
+        Debug.Log("Angle: " + player.GetComponent<Player>().cannonAngle);
+        Debug.Log("Direction: " + dirVector);
+        wantedPosition += (dirVector * 3f);
+
         // Quick seeking
-        if (Vector2.Distance(transform.position, player.transform.position) > chaseDistance)
+        if (Vector2.Distance(transform.position, wantedPosition) > chaseDistance)
         {
-            Vector3 wantedPosition = new Vector3(xPos, yPos, transform.position.z);
-            direction = wantedPosition - transform.position;
+            // does the magic to make it flow nicely
+            direction = (wantedPosition - transform.position).normalized;
             velocity += direction * maxCameraSpeed * Time.deltaTime;
             velocity = Vector3.ClampMagnitude(velocity, maxCameraSpeed);
-
+            
             transform.position += velocity;
-            direction = Vector3.zero;
         }
         else
         {

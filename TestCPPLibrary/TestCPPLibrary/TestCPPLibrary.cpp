@@ -142,12 +142,6 @@ extern "C"
 				myInfo.myfile << "Setting successful" << endl;
 
 				// ensure we don't print a size that is too small
-				/*
-				if (received->xPos < 0.001f && received->xPos > -0.001f)
-					received->xPos = 0.0f;
-				if (received->yPos < 0.001f && received->yPos > -0.001f)
-					received->yPos = 0.0f;
-				*/
 
 				myInfo.myfile << "Received ID : " << received->id << " with Position X: " << received->xPos1 << "." << received->xPos2 << " Y: " << received->yPos1 << "." << received->yPos2 << endl;
 				//myInfo.myfile << "PlayerID : " << myInfo.serverStatus.payload is : " << myInfo.playerID << endl;
@@ -163,32 +157,6 @@ extern "C"
 			{
 				myInfo.myfile << "Received Status '" << myInfo.serverStatus.sts << "' with Payload : " << myInfo.serverStatus.payload << endl;
 			}
-			/*
-			if (myInfo.serverStatus.sts == 'c')
-			{
-			myInfo.myfile << "Received Status '" << myInfo.server << myInfo.serverStatus.payload << endl;
-			}
-			else
-			{
-			myInfo.myfile << myInfo.serverStatus.payload << endl;
-			}
-			*/
-			/*
-			bool contained = false;
-			posPacket temp = *((posPacket*)((&myInfo.serverStatus) + 1));
-			for (size_t i = 0; i < PlayersLastKnownPositions.size(); i++)
-			{
-			if (PlayersLastKnownPositions[i].id == temp.id)
-			{
-			PlayersLastKnownPositions[i] = temp;
-			contained = true;
-			}
-			}
-			if (!contained)
-			{
-			PlayersLastKnownPositions.push_back(temp);
-			}
-			*/
 
 			myInfo.myfile << endl;
 		}

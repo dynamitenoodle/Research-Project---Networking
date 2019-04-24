@@ -36,19 +36,25 @@ public class ObstacleManager : MonoBehaviour
         // Top Wall
         obstacles[0].transform.position = new Vector3(0, maxY + offset);
         obstacles[0].transform.localScale = new Vector3(Mathf.Abs(minX) + Mathf.Abs(maxX) + (offset * 4), 1, 1);
+        obstacles[0].transform.parent = transform;
 
         // Bottom Wall
         obstacles[1].transform.position = new Vector3(0, minY - offset);
         obstacles[1].transform.localScale = new Vector3(Mathf.Abs(minX) + Mathf.Abs(maxX) + (offset * 4), 1, 1);
+        obstacles[1].transform.parent = transform;
 
         // Right Wall
         obstacles[2].transform.position = new Vector3(maxX + offset, 0);
         obstacles[2].transform.localScale = new Vector3(1, Mathf.Abs(minY) + Mathf.Abs(maxY) + (offset * 4), 1);
+        obstacles[2].transform.parent = transform;
 
         // Left Wall
         obstacles[3].transform.position = new Vector3(minX - offset, 0);
         obstacles[3].transform.localScale = new Vector3(1, Mathf.Abs(minY) + Mathf.Abs(maxY) + (offset * 4), 1);
+        obstacles[3].transform.parent = transform;
         #endregion
+
+
 
     }
 
