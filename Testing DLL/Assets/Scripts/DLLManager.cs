@@ -26,7 +26,7 @@ public class DLLManager : MonoBehaviour {
     public int port = 0;
 
     // struct?
-    struct PlayerPacket
+    [HideInInspector] public struct PlayerPacket
     {
         public int id;
         public float xPos;

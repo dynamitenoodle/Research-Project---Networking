@@ -7,6 +7,8 @@ public class EnemyVehicle : MonoBehaviour
     // attributes
     public int playerID;
     public Vector3 position;
+    public float cannonAngle;
+    public bool firing;
 
     // Update is called once per frame
     void Update()
