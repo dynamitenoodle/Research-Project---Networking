@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Runtime.InteropServices;
 using System.IO;
 using UnityEngine;
+using UnityEngine.Diagnostics;
+using System;
 
 public class DLLManager : MonoBehaviour {
 
@@ -12,7 +14,7 @@ public class DLLManager : MonoBehaviour {
 	[DllImport("TestCPPLibrary", EntryPoint = "ReceiveInformation")]
 	public static extern bool ReceiveInformation();
 	[DllImport("TestCPPLibrary", EntryPoint = "SendPosition")]
-	public static extern bool SendPosition(int x1, int x2, int y1, int y2);
+	public static extern bool SendPosition(IntPtr num);
 
 	public bool sendingSuccess;
 
@@ -52,6 +54,10 @@ public class DLLManager : MonoBehaviour {
 	void Update()
 	{
         // Create the X variables
+        float[] position = new float[2];
+        position[0] = player.transform.position.x;
+        position[1] = player.transform.position.y;
+        /*
         int x1 = (int)player.transform.position.x;
         float xDecimal = Mathf.Repeat(player.transform.position.x, 1.0f) * 1000;
         int x2 = (int)xDecimal;
@@ -62,8 +68,15 @@ public class DLLManager : MonoBehaviour {
         float yDecimal = Mathf.Repeat(player.transform.position.y, 1.0f) * 1000;
         int y2 = (int)yDecimal;
         //Debug.Log("Y2: " + y2);
+        */
+        //initialize a pointer with the apropriate size (array size)
+        IntPtr pointer = Marshal.AllocHGlobal(position.Length);
 
-        if (SendPosition(x1, x2, y1, y2))
+        // Copy the data into the pointer
+        Marshal.Copy(position, 0, pointer, position.Length);
+
+        //free the pointer
+        if (SendPosition(pointer))
         {
 			sendingSuccess = true;
 		}
@@ -71,5 +84,7 @@ public class DLLManager : MonoBehaviour {
 		{
 			sendingSuccess = false;
 		}
-	}
+        Marshal.FreeHGlobal(pointer);
+
+    }
 }

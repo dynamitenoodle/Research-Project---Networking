@@ -143,7 +143,7 @@ extern "C"
 
 				// ensure we don't print a size that is too small
 
-				myInfo.myfile << "Received ID : " << received->id << " with Position X: " << received->xPos1 << "." << received->xPos2 << " Y: " << received->yPos1 << "." << received->yPos2 << endl;
+				myInfo.myfile << "Received ID : " << received->id << " with Position X: " << received->xPos << " Y: " << received->yPos << endl;
 				//myInfo.myfile << "PlayerID : " << myInfo.serverStatus.payload is : " << myInfo.playerID << endl;
 			}
 			else if (myInfo.serverStatus.sts == 'c')
@@ -165,9 +165,9 @@ extern "C"
 		myInfo.myfile.close();
 	}
 	
-	bool __declspec(dllexport) SendPosition(int x1, int x2, int y1, int y2)
+	bool __declspec(dllexport) SendPosition(float* data)
 	{
-		myInfo.myfile << "Preparing to send Position with X: " << x1 << "." << x2 << " Y: " << y1 << "." << y2 << endl;
+		myInfo.myfile << "Preparing to send Position with X: " << data[0] << " Y: " << data[1] << endl;
 
 		// create the position sending command
 		command pos;
@@ -177,10 +177,8 @@ extern "C"
 		// creates the player position packet
 		posPacket playerPacket;
 		playerPacket.id = myInfo.playerID;
-		playerPacket.xPos1 = x1;
-		playerPacket.xPos2 = x2;
-		playerPacket.yPos1 = y1;
-		playerPacket.yPos2 = y2;
+		playerPacket.xPos = data[0];
+		playerPacket.yPos = data[1];
 
 		myInfo.myfile << "Allocating playerPacket Memory with size " << sizeof(playerPacket) << endl;
 		memcpy(pos.payload, (char*)&playerPacket, 127);
@@ -196,20 +194,4 @@ extern "C"
 		myInfo.myfile << "Sent Position"<< endl;
 		return true;
 	}
-
-	/*
-	float __declspec(dllexport) GetPosition(int id, bool isX)
-	{
-		if (isX) 
-		{
-			return PlayersLastKnownPositions[id].pos[0];
-		}
-		return PlayersLastKnownPositions[id].pos[1];
-	}
-
-	int __declspec(dllexport) PosAmt()
-	{
-		return (int)PlayersLastKnownPositions.size();
-	}
-	*/
 }
