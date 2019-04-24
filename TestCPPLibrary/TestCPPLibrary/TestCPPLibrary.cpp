@@ -85,24 +85,6 @@ extern "C"
 			connectionSuccess = true;
 		}
 
-		// All receiving is now done in the receive thread
-		/*
-		// Wait for a response from the server
-		myInfo.myfile << "Preparing to receive from server connection." << endl;
-		int bytesInTest = recvfrom(myInfo.serverSocket, (char*)&myInfo.serverStatus, 128, 0, (sockaddr*)&myInfo.serverHint, &myInfo.serverLength);
-		if (bytesInTest == SOCKET_ERROR)
-		{
-			//cout << "Error receiving from client " << WSAGetLastError() << endl;
-			myInfo.myfile << "Did not receive from the server." << endl;
-			myInfo.myfile.close();
-			return connectionSuccess;
-		}
-		else
-		{
-			myInfo.myfile << "We got word from the server!" << endl;
-			connectionSuccess = true;
-		}
-		*/
 		myInfo.myfile << "Closed the file!" << endl;
 		myInfo.myfile.close();
 		
@@ -126,7 +108,8 @@ extern "C"
 		ZeroMemory((char*)&myInfo.serverStatus, 128);
 		while (true)
 		{
-			int bytesIn = recvfrom(myInfo.serverSocket, (char*)&myInfo.serverStatus, 128, 0, (sockaddr*)&myInfo.serverHint, &myInfo.serverLength);
+			int bytesIn = recvfrom(myInfo.serverSocket, (char*)&myInfo.serverStatus, 128, 0, (sockaddr*)&myInfo.serverHint, 
+				&myInfo.serverLength);
 			if (bytesIn == SOCKET_ERROR)
 			{
 				myInfo.myfile << "Error recieving from the server " /*<< WSAGetLastError()*/ << endl;
@@ -137,25 +120,25 @@ extern "C"
 			if (myInfo.serverStatus.sts == 'p')
 			{
 				// convert the payload back to a posPacket
-				myInfo.myfile << "Setting received packet from server status Payload" << endl;
+				//myInfo.myfile << "Setting received packet from server status Payload" << endl;
 				posPacket* received = (posPacket*)&myInfo.serverStatus.payload;
-				myInfo.myfile << "Setting successful" << endl;
+				//myInfo.myfile << "Setting successful" << endl;
 
-				// ensure we don't print a size that is too small
-
-				myInfo.myfile << "Received ID : " << received->id << " with Position X: " << received->xPos << " Y: " << received->yPos << endl;
-				//myInfo.myfile << "PlayerID : " << myInfo.serverStatus.payload is : " << myInfo.playerID << endl;
+				myInfo.myfile << "Received ID : " << received->id << " with Position X: " << received->xPos 
+					<< " Y: " << received->yPos << endl;
+				myInfo.myfile << "CannonAngle : " << received->cannonAngle << " Firing: " << received->firing << endl;
 			}
 			else if (myInfo.serverStatus.sts == 'c')
 			{
 				string myPayload(myInfo.serverStatus.payload);
 				myInfo.playerID = (int)myInfo.serverStatus.payload;
 				myInfo.myfile << "Connect status received" << endl;
-				myInfo.myfile << "My ID is : " << myInfo.serverStatus.payload << endl;
+				myInfo.myfile << "My ID is : " << myInfo.playerID << endl;
 			}
 			else
 			{
-				myInfo.myfile << "Received Status '" << myInfo.serverStatus.sts << "' with Payload : " << myInfo.serverStatus.payload << endl;
+				myInfo.myfile << "Received Status '" << myInfo.serverStatus.sts << "' with Payload : " 
+					<< myInfo.serverStatus.payload << endl;
 			}
 
 			myInfo.myfile << endl;
@@ -165,25 +148,25 @@ extern "C"
 		myInfo.myfile.close();
 	}
 	
-	bool __declspec(dllexport) SendPosition(float* data)
+	bool __declspec(dllexport) SendPosition(int* data)
 	{
-		myInfo.myfile << "Preparing to send Position with X: " << data[0] << " Y: " << data[1] << endl;
+		// creates the player position packet
+		posPacket* playerPacket = (posPacket*)data;
+		playerPacket->id = myInfo.playerID; 
+		
+		myInfo.myfile << "My ID: " << playerPacket->id << endl;
+		myInfo.myfile << "Preparing to send Position with X: " << playerPacket->xPos << " Y: " << playerPacket->yPos << endl;
+		myInfo.myfile << "CannonAngle: " << playerPacket->cannonAngle << " Firing: " << playerPacket->firing << endl;
 
 		// create the position sending command
 		command pos;
 		ZeroMemory((char*)&pos, 128);
 		pos.cmd = 'p';
 
-		// creates the player position packet
-		posPacket playerPacket;
-		playerPacket.id = myInfo.playerID;
-		playerPacket.xPos = data[0];
-		playerPacket.yPos = data[1];
-
-		myInfo.myfile << "Allocating playerPacket Memory with size " << sizeof(playerPacket) << endl;
+		//myInfo.myfile << "Allocating playerPacket Memory with size " << sizeof(playerPacket) << endl;
 		memcpy(pos.payload, (char*)&playerPacket, 127);
 		//strcpy_s(pos.payload, (char*)&playerPacket);
-		myInfo.myfile << "Memory allocated" << endl;
+		//myInfo.myfile << "Memory allocated" << endl;
 
 		// sends the players position to the server
 		int testSend = sendto(myInfo.serverSocket, (char*)&pos, 128, 0, (sockaddr*)&myInfo.serverHint, myInfo.serverLength);

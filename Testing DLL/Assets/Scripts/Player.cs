@@ -18,6 +18,7 @@ public class Player : MonoBehaviour {
     public GameObject bulletPrefab;
     float shotTimer;
     public float shotTimerMax = 1f;
+    [HideInInspector] public bool firing;
 
     // sets how far the player can go
     float minX;
@@ -128,6 +129,7 @@ public class Player : MonoBehaviour {
                 tempBullet.transform.position = cannon.transform.GetChild(0).transform.position;
                 tempBullet.GetComponent<Bullet>().direction = Vector3.Normalize(tempBullet.transform.position - cannon.transform.position);
                 shotTimer = 0;
+                firing = true;
             }
         }
         else

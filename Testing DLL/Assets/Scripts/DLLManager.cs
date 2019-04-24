@@ -19,10 +19,21 @@ public class DLLManager : MonoBehaviour {
 	public bool sendingSuccess;
 
     GameObject player;
+    int id;
 	
 	// IP and Port variables for inspector
 	public List<int> IP;
     public int port = 0;
+
+    // struct?
+    struct PlayerPacket
+    {
+        public int id;
+        public float xPos;
+        public float yPos;
+        public float cannonAngle;
+        public bool firing;
+    }
 
 	// Use this for initialization
 	void Start()
@@ -53,30 +64,24 @@ public class DLLManager : MonoBehaviour {
 	// Update is called once per frame
 	void Update()
 	{
-        // Create the X variables
-        float[] position = new float[2];
-        position[0] = player.transform.position.x;
-        position[1] = player.transform.position.y;
-        /*
-        int x1 = (int)player.transform.position.x;
-        float xDecimal = Mathf.Repeat(player.transform.position.x, 1.0f) * 1000;
-        int x2 = (int)xDecimal;
-        //Debug.Log("X2: " + x2);
+        // Create the struct packet
+        PlayerPacket pack = new PlayerPacket();
+        pack.xPos = player.transform.position.x;
+        pack.yPos = player.transform.position.y;
+        pack.cannonAngle = player.GetComponent<Player>().cannonAngle;
+        pack.firing = player.GetComponent<Player>().firing;
+        if (pack.firing)
+            player.GetComponent<Player>().firing = false;
 
-        // Create the Y variables
-        int y1 = (int)player.transform.position.y;
-        float yDecimal = Mathf.Repeat(player.transform.position.y, 1.0f) * 1000;
-        int y2 = (int)yDecimal;
-        //Debug.Log("Y2: " + y2);
-        */
-        //initialize a pointer with the apropriate size (array size)
-        IntPtr pointer = Marshal.AllocHGlobal(position.Length);
+        // get the size of the struct
+        int size = Marshal.SizeOf(pack);
 
-        // Copy the data into the pointer
-        Marshal.Copy(position, 0, pointer, position.Length);
+        //initialize a pointer with the apropriate size
+        IntPtr ptr = Marshal.AllocHGlobal(size);
+        Marshal.StructureToPtr(pack, ptr, true);
 
-        //free the pointer
-        if (SendPosition(pointer))
+        // send the pointer
+        if (SendPosition(ptr))
         {
 			sendingSuccess = true;
 		}
@@ -84,7 +89,8 @@ public class DLLManager : MonoBehaviour {
 		{
 			sendingSuccess = false;
 		}
-        Marshal.FreeHGlobal(pointer);
 
+        //free the pointer
+        Marshal.FreeHGlobal(ptr);
     }
 }
