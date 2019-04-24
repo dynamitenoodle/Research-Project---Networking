@@ -142,12 +142,14 @@ extern "C"
 				myInfo.myfile << "Setting successful" << endl;
 
 				// ensure we don't print a size that is too small
+				/*
 				if (received->xPos < 0.001f && received->xPos > -0.001f)
 					received->xPos = 0.0f;
 				if (received->yPos < 0.001f && received->yPos > -0.001f)
 					received->yPos = 0.0f;
+				*/
 
-				myInfo.myfile << "Received ID : " << received->id << " with Position X: " << received->xPos << " Y: " << received->yPos << endl;
+				myInfo.myfile << "Received ID : " << received->id << " with Position X: " << received->xPos1 << "." << received->xPos2 << " Y: " << received->yPos1 << "." << received->yPos2 << endl;
 				//myInfo.myfile << "PlayerID : " << myInfo.serverStatus.payload is : " << myInfo.playerID << endl;
 			}
 			else if (myInfo.serverStatus.sts == 'c')
@@ -195,9 +197,9 @@ extern "C"
 		myInfo.myfile.close();
 	}
 	
-	bool __declspec(dllexport) SendPosition(float x, float y)
+	bool __declspec(dllexport) SendPosition(int x1, int x2, int y1, int y2)
 	{
-		myInfo.myfile << "Preparing to send Position with X: " << x << " Y: " << y << endl;
+		myInfo.myfile << "Preparing to send Position with X: " << x1 << "." << x2 << " Y: " << y1 << "." << y2 << endl;
 
 		// create the position sending command
 		command pos;
@@ -207,11 +209,14 @@ extern "C"
 		// creates the player position packet
 		posPacket playerPacket;
 		playerPacket.id = myInfo.playerID;
-		playerPacket.xPos = x;
-		playerPacket.yPos = y;
+		playerPacket.xPos1 = x1;
+		playerPacket.xPos2 = x2;
+		playerPacket.yPos1 = y1;
+		playerPacket.yPos2 = y2;
 
 		myInfo.myfile << "Allocating playerPacket Memory with size " << sizeof(playerPacket) << endl;
-		strcpy_s(pos.payload, (char*)&playerPacket);
+		memcpy(pos.payload, (char*)&playerPacket, 127);
+		//strcpy_s(pos.payload, (char*)&playerPacket);
 		myInfo.myfile << "Memory allocated" << endl;
 
 		// sends the players position to the server
