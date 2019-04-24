@@ -12,7 +12,6 @@ using namespace NetworkInfo;
 
 extern "C" 
 {
-	std::vector<posPacket> PlayersLastKnownPositions = vector<posPacket>();
 	bool __declspec(dllexport) Connect(int ip0, int ip1, int ip2, int ip3, int port)
 	{
 		
@@ -120,9 +119,7 @@ extern "C"
 			if (myInfo.serverStatus.sts == 'p')
 			{
 				// convert the payload back to a posPacket
-				//myInfo.myfile << "Setting received packet from server status Payload" << endl;
 				posPacket* received = (posPacket*)&myInfo.serverStatus.payload;
-				//myInfo.myfile << "Setting successful" << endl;
 
 				myInfo.myfile << "Received ID : " << received->id << " with Position X: " << received->xPos 
 					<< " Y: " << received->yPos << endl;
@@ -163,10 +160,7 @@ extern "C"
 		ZeroMemory((char*)&pos, 128);
 		pos.cmd = 'p';
 
-		//myInfo.myfile << "Allocating playerPacket Memory with size " << sizeof(playerPacket) << endl;
 		memcpy(pos.payload, (char*)&playerPacket, 127);
-		//strcpy_s(pos.payload, (char*)&playerPacket);
-		//myInfo.myfile << "Memory allocated" << endl;
 
 		// sends the players position to the server
 		int testSend = sendto(myInfo.serverSocket, (char*)&pos, 128, 0, (sockaddr*)&myInfo.serverHint, myInfo.serverLength);
