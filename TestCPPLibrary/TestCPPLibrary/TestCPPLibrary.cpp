@@ -115,7 +115,7 @@ extern "C"
 				continue;
 			}
 
-			//Display message and client info
+			// If we receive a position Packet
 			if (myInfo.serverStatus.sts == 'p')
 			{
 				// convert the payload back to a posPacket
@@ -125,6 +125,8 @@ extern "C"
 					<< " Y: " << received->yPos << endl;
 				myInfo.myfile << "CannonAngle : " << received->cannonAngle << " Firing: " << received->firing << endl;
 			}
+
+			// If we receive a Connection Packet
 			else if (myInfo.serverStatus.sts == 'c')
 			{
 				string myPayload(myInfo.serverStatus.payload);
@@ -132,6 +134,8 @@ extern "C"
 				myInfo.myfile << "Connect status received" << endl;
 				myInfo.myfile << "My ID is : " << myInfo.playerID << endl;
 			}
+
+			// If we receive an unknown Packet
 			else
 			{
 				myInfo.myfile << "Received Status '" << myInfo.serverStatus.sts << "' with Payload : " 
