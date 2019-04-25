@@ -67,8 +67,6 @@ public class PlayerFollow : MonoBehaviour
         Vector3 wantedPosition = new Vector3(xPos, yPos, transform.position.z);
         // x = r * Math.cos(a+b), y = r * Math.sin(a+b)
         Vector3 dirVector = new Vector3(-Mathf.Sin(Mathf.Deg2Rad * player.GetComponent<Player>().cannonAngle), Mathf.Cos(Mathf.Deg2Rad * player.GetComponent<Player>().cannonAngle), 0);
-        Debug.Log("Angle: " + player.GetComponent<Player>().cannonAngle);
-        Debug.Log("Direction: " + dirVector);
         wantedPosition += (dirVector * 3f);
 
         // Quick seeking
