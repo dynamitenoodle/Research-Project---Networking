@@ -19,7 +19,7 @@ public class DLLManager : MonoBehaviour {
 	public bool sendingSuccess;
 
     GameObject player;
-    int id;
+    [HideInInspector] public int id;
 	
 	// IP and Port variables for inspector
 	public List<int> IP;

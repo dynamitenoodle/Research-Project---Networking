@@ -10,7 +10,7 @@ using System.Threading;
 public class EnemyManager : MonoBehaviour
 {
 	// Method to receive the enemy information
-	[DllImport("TestCPPLibrary", EntryPoint = "EnemyPositionCheck")]
+	[DllImport("TestCPPLibrary", EntryPoint = "PacketCheck")]
 	public static extern bool PacketCheck();
 	[DllImport("TestCPPLibrary", EntryPoint = "PacketGet")]
 	public static extern IntPtr PacketGet();
@@ -21,12 +21,13 @@ public class EnemyManager : MonoBehaviour
 	DLLManager.PlayerPacket receivedPacket;
 
 	DLLManager dllManager;
+	Player player;
 
 	// Start is called before the first frame update
 	void Start()
     {
         dllManager = GameObject.Find("Network Manager").GetComponent<DLLManager>();
-
+		player = GameObject.Find("Player").GetComponent<Player>();
     }
 
     // Update is called once per frame
@@ -39,23 +40,26 @@ public class EnemyManager : MonoBehaviour
 			IntPtr receivedPtr = PacketGet(); // Pops the packet off the queue of them
 			Marshal.PtrToStructure(receivedPtr, receivedPacket);
 
-			// Check to see if we should update an enemy
-			bool newEnemy = true;
-			foreach(GameObject enemy in enemies)
+			if (receivedPacket.id != dllManager.id)
 			{
-				if (enemy.GetComponent<EnemyVehicle>().playerID == receivedPacket.id)
+				// Check to see if we should update an enemy
+				bool newEnemy = true;
+				foreach (GameObject enemy in enemies)
 				{
-					newEnemy = false;
-					enemy.GetComponent<EnemyVehicle>().SetInformation(receivedPacket);
+					if (enemy.GetComponent<EnemyVehicle>().playerID == receivedPacket.id)
+					{
+						newEnemy = false;
+						enemy.GetComponent<EnemyVehicle>().SetInformation(receivedPacket);
+					}
 				}
-			}
 
-			// if we have a new enemy to generate
-			if (newEnemy)
-			{
-				GameObject enemy = Instantiate(enemyPref);
-				enemy.GetComponent<EnemyVehicle>().SetInformation(receivedPacket);
-				enemies.Add(enemy);
+				// if we have a new enemy to generate
+				if (newEnemy)
+				{
+					GameObject enemy = Instantiate(enemyPref);
+					enemy.GetComponent<EnemyVehicle>().SetInformation(receivedPacket);
+					enemies.Add(enemy);
+				}
 			}
 
 			//free the pointer
