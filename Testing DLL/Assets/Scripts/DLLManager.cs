@@ -43,12 +43,12 @@ public class DLLManager : MonoBehaviour {
 		// Testing the connection
 		if(Connect(IP[0], IP[1], IP[2], IP[3], port))
         {
-            Debug.Log("Connection Successful");
+            //Debug.Log("Connection Successful");
 
 			// attempt to start the receiving thread
 			if (ReceiveInformation())
 			{
-				Debug.Log("Receive thread successfully started");
+				//Debug.Log("Receive thread successfully started");
 			}
 			else
 			{

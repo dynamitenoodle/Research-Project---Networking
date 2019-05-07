@@ -2,5381 +2,1511 @@ Preparing to receive
 Error recieving from the server 
 My ID: 0
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: -251.677 Firing: 0
+CannonAngle: 37.8173 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: -251.675 Firing: 0
+CannonAngle: 37.8173 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.573 Firing: 0
+CannonAngle: 37.8173 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 37.8173 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 37.8173 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 37.8173 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 37.8173 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 37.8173 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 37.8173 Firing: 0
 Sent PositionError recieving from the server 
 
 My ID: 0
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.6 Firing: 0
+CannonAngle: 37.8173 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.597 Firing: 0
+CannonAngle: 37.8173 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.593 Firing: 0
+CannonAngle: 37.8173 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 37.8173 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 37.8173 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 37.8173 Firing: 0
+Error recieving from the server 
+Sent Position
+My ID: 0
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 37.8173 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 37.8173 Firing: 0
 Sent PositionError recieving from the server 
 
 My ID: 0
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.589 Firing: 0
+CannonAngle: 37.8173 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.586 Firing: 0
+CannonAngle: 37.8173 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.582 Firing: 0
+CannonAngle: 37.8173 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.578 Firing: 0
-Sent Position
+CannonAngle: 37.8173 Firing: 0
 Error recieving from the server 
+Sent Position
 My ID: 0
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.575 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.571 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.568 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.564 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.561 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.557 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.554 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.55 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.577 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.602 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.628 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.624 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.621 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.618 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.671 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -262.991 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -263.275 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -263.527 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -263.521 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -263.538 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -263.554 Firing: 1
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -263.548 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -263.542 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -263.558 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -263.552 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -263.546 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -263.54 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -263.534 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -263.528 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -263.76 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -263.967 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -264.17 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -264.37 Firing: 0
+CannonAngle: 37.8173 Firing: 0
 Sent PositionError recieving from the server 
 
 My ID: 0
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: -264.549 Firing: 0
+CannonAngle: 37.8173 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: -264.743 Firing: 0
+CannonAngle: 37.8173 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 37.8173 Firing: 0
 Sent PositionError recieving from the server 
 
 My ID: 0
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: -264.934 Firing: 0
+CannonAngle: 37.8173 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: -265.122 Firing: 0
+CannonAngle: 37.8173 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: -265.292 Firing: 0
+CannonAngle: 37.8173 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: -265.279 Firing: 1
+CannonAngle: 37.2692 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: -265.266 Firing: 0
+CannonAngle: 36.8116 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: -265.253 Firing: 0
+CannonAngle: 36.8668 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: -265.24 Firing: 0
+CannonAngle: 37.0098 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -265.229 Firing: 0
+Preparing to send Position with X: 0 Y: 0.0496992
+CannonAngle: 36.139 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -265.218 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -265.208 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -265.198 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -265.189 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -265.195 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -265.187 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -265.179 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -265.172 Firing: 0
+Preparing to send Position with X: 0 Y: 0.104089
+CannonAngle: 35.6272 Firing: 0
 Sent PositionError recieving from the server 
 
 My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -265.165 Firing: 0
+Preparing to send Position with X: 0 Y: 0.162128
+CannonAngle: 32.6844 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -265.159 Firing: 0
+Preparing to send Position with X: 0 Y: 0.211838
+CannonAngle: 32.4101 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -265.153 Firing: 0
+Preparing to send Position with X: 0 Y: 0.261534
+CannonAngle: 32.3416 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -265.147 Firing: 0
+Preparing to send Position with X: 0 Y: 0.312737
+CannonAngle: 33.5242 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -265.142 Firing: 1
+Preparing to send Position with X: 0 Y: 0.360935
+CannonAngle: 36.8151 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -265.137 Firing: 0
+Preparing to send Position with X: 0 Y: 0.410635
+CannonAngle: 40.1053 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -265.132 Firing: 0
+Preparing to send Position with X: 0 Y: 0.4625
+CannonAngle: 43.0148 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: -265.127 Firing: 0
+Preparing to send Position with X: 0 Y: 0.51023
+CannonAngle: 45.8944 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0.048805 Y: 0
-CannonAngle: -265.123 Firing: 0
+Preparing to send Position with X: 0 Y: 0.561188
+CannonAngle: 48.2162 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0.0987404 Y: 0
-CannonAngle: -265.15 Firing: 0
+Preparing to send Position with X: 0 Y: 0.609435
+CannonAngle: 50.9472 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0.148209 Y: 0
-CannonAngle: -265.178 Firing: 0
+Preparing to send Position with X: 0 Y: 0.659135
+CannonAngle: 53.3707 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0.198124 Y: 0
-CannonAngle: -265.368 Firing: 0
+Preparing to send Position with X: 0 Y: 0.710803
+CannonAngle: 55.7359 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0.248356 Y: 0
-CannonAngle: -266.198 Firing: 0
+Preparing to send Position with X: 0 Y: 0.758618
+CannonAngle: 57.8603 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0.298023 Y: 0
-CannonAngle: -266.698 Firing: 0
+Preparing to send Position with X: 0 Y: 0.809412
+CannonAngle: 60.3939 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0.347011 Y: 0
-CannonAngle: -267.341 Firing: 0
+Preparing to send Position with X: 0 Y: 0.857935
+CannonAngle: 62.6893 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0.396783 Y: 0
-CannonAngle: -267.968 Firing: 0
+Preparing to send Position with X: 0 Y: 0.908202
+CannonAngle: 65.7067 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0.447579 Y: 0
-CannonAngle: -268.432 Firing: 0
+Preparing to send Position with X: 0 Y: 0.957336
+CannonAngle: 68.6188 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0.496111 Y: 0
-CannonAngle: -268.887 Firing: 0
+Preparing to send Position with X: 0 Y: 1.00704
+CannonAngle: 71.3709 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0.546704 Y: 0
-CannonAngle: -269.36 Firing: 0
+Preparing to send Position with X: 0 Y: 1.05775
+CannonAngle: 74.4058 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0.595995 Y: 0
-CannonAngle: -269.511 Firing: 0
+Preparing to send Position with X: 0 Y: 1.10644
+CannonAngle: 76.9946 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0.645208 Y: 0
-CannonAngle: -269.666 Firing: 0
+Preparing to send Position with X: -0.0224076 Y: 1.15125
+CannonAngle: 80.2888 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0.694908 Y: 0
-CannonAngle: -269.659 Firing: 0
+Preparing to send Position with X: -0.0523335 Y: 1.19043
+CannonAngle: 83.1713 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0.74461 Y: 0
-CannonAngle: -269.654 Firing: 0
+Preparing to send Position with X: -0.0854866 Y: 1.22745
+CannonAngle: 85.3596 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 0.794309 Y: 0
-CannonAngle: -269.649 Firing: 1
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.844009 Y: 0
-CannonAngle: -269.645 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.895216 Y: 0
-CannonAngle: -269.642 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.943775 Y: 0
-CannonAngle: -269.639 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.993947 Y: 0
-CannonAngle: -269.636 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.04479 Y: 0
-CannonAngle: -269.633 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.09257 Y: 0
-CannonAngle: -269.631 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.14221 Y: 0
-CannonAngle: -269.629 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.19191 Y: 0
-CannonAngle: -269.627 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.24221 Y: 0
-CannonAngle: -269.625 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.29131 Y: 0
-CannonAngle: -269.624 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.34101 Y: 0
-CannonAngle: -269.623 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.39071 Y: 0
-CannonAngle: -269.622 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.44041 Y: 0
-CannonAngle: -269.47 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.4906 Y: 0
-CannonAngle: -269.321 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.5417 Y: 0
-CannonAngle: -269.323 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.58958 Y: 0
-CannonAngle: -269.177 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.63921 Y: 0
-CannonAngle: -269.179 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.68891 Y: 0
-CannonAngle: -269.182 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.73903 Y: 0
-CannonAngle: -269.184 Firing: 1
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.78865 Y: 0
-CannonAngle: -269.187 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.83973 Y: 0
-CannonAngle: -269.19 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.88771 Y: 0
-CannonAngle: -269.193 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.9381 Y: 0
-CannonAngle: -269.196 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.98711 Y: 0
-CannonAngle: -269.199 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.03709 Y: 0
-CannonAngle: -269.202 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.08651 Y: 0
-CannonAngle: -269.205 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.13621 Y: 0
-CannonAngle: -269.208 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.18591 Y: 0
-CannonAngle: -269.211 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.23744 Y: 0
-CannonAngle: -269.214 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.28531 Y: 0
-CannonAngle: -269.081 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.33605 Y: 0
-CannonAngle: -268.95 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.38471 Y: 0
-CannonAngle: -268.82 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.4348 Y: 0
-CannonAngle: -268.826 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.48562 Y: 0
-CannonAngle: -268.831 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.53381 Y: 0
-CannonAngle: -268.837 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.58458 Y: 0
-CannonAngle: -268.842 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.63321 Y: 0
-CannonAngle: -268.847 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.68347 Y: 0
-CannonAngle: -268.852 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.73402 Y: 0
-CannonAngle: -268.858 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.78231 Y: 0
-CannonAngle: -268.863 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.83282 Y: 0
-CannonAngle: -268.868 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.88171 Y: 0
-CannonAngle: -268.874 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.93206 Y: 0
-CannonAngle: -268.88 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.98265 Y: 0
-CannonAngle: -268.886 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.03081 Y: 0
-CannonAngle: -268.893 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.08051 Y: 0
-CannonAngle: -268.899 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.13021 Y: 0
-CannonAngle: -268.904 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.18049 Y: 0
-CannonAngle: -268.763 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.22961 Y: 0
-CannonAngle: -268.204 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.27931 Y: 0
-CannonAngle: -267.463 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.33 Y: 0
-CannonAngle: -266.235 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.37871 Y: 0
-CannonAngle: -265.021 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.42841 Y: 0
-CannonAngle: -263.012 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.47811 Y: 0
-CannonAngle: -261.455 Firing: 0
+Preparing to send Position with X: -0.120475 Y: 1.26407
+CannonAngle: 87.327 Firing: 0
 Sent PositionError recieving from the server 
 
 My ID: 0
-Preparing to send Position with X: 3.52785 Y: 0
-CannonAngle: -258.517 Firing: 0
+Preparing to send Position with X: -0.15462 Y: 1.29887
+CannonAngle: 88.4777 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 3.57806 Y: 0
-CannonAngle: -256.498 Firing: 0
+Preparing to send Position with X: -0.189862 Y: 1.33439
+CannonAngle: 89.5437 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 3.62721 Y: 0
-CannonAngle: -252.802 Firing: 0
+Preparing to send Position with X: -0.22568 Y: 1.37032
+CannonAngle: 89.9231 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 3.67693 Y: 0
-CannonAngle: -249.868 Firing: 0
+Preparing to send Position with X: -0.259829 Y: 1.40452
+CannonAngle: 89.9825 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 3.72764 Y: 0
-CannonAngle: -245.761 Firing: 0
+Preparing to send Position with X: -0.294971 Y: 1.43968
+CannonAngle: -269.979 Firing: 0
+Sent PositionError recieving from the server 
+
+My ID: 0
+Preparing to send Position with X: -0.331505 Y: 1.47622
+CannonAngle: -269.921 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 3.77631 Y: 0
-CannonAngle: -242.501 Firing: 0
+Preparing to send Position with X: -0.365289 Y: 1.51001
+CannonAngle: -269.838 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 3.8264 Y: 0
-CannonAngle: -240.085 Firing: 0
+Preparing to send Position with X: -0.400391 Y: 1.54511
+CannonAngle: 89.8898 Firing: 0
+Sent PositionError recieving from the server 
+
+My ID: 0
+Preparing to send Position with X: -0.435528 Y: 1.58025
+CannonAngle: 89.3677 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 3.8773 Y: 0
-CannonAngle: -238.974 Firing: 0
+Preparing to send Position with X: -0.471062 Y: 1.61578
+CannonAngle: 88.933 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 3.92541 Y: 0
-CannonAngle: -239.094 Firing: 0
+Preparing to send Position with X: -0.505816 Y: 1.65054
+CannonAngle: 89.0671 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 3.97511 Y: 0
-CannonAngle: -239.174 Firing: 0
+Preparing to send Position with X: -0.540986 Y: 1.68571
+CannonAngle: 89.1747 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 4.02481 Y: 0
-CannonAngle: -238.366 Firing: 0
+Preparing to send Position with X: -0.576866 Y: 1.72159
+CannonAngle: 89.7498 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 4.07468 Y: 0
-CannonAngle: -236.907 Firing: 0
+Preparing to send Position with X: -0.611246 Y: 1.75597
+CannonAngle: -269.472 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 4.12561 Y: 0
-CannonAngle: -232.481 Firing: 0
+Preparing to send Position with X: -0.646732 Y: 1.79145
+CannonAngle: -268.734 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 4.17391 Y: 0
-CannonAngle: -226.34 Firing: 0
+Preparing to send Position with X: -0.68156 Y: 1.82628
+CannonAngle: -268.206 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 4.22361 Y: 0
-CannonAngle: -217.335 Firing: 0
+Preparing to send Position with X: -0.716675 Y: 1.8614
+CannonAngle: -267.462 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 4.27519 Y: 0
-CannonAngle: -207.421 Firing: 0
+Preparing to send Position with X: -0.752559 Y: 1.89728
+CannonAngle: -267.154 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 4.3232 Y: 0
-CannonAngle: -195.049 Firing: 0
+Preparing to send Position with X: -0.786959 Y: 1.93168
+CannonAngle: -265.729 Firing: 0
+Sent PositionError recieving from the server 
+
+My ID: 0
+Preparing to send Position with X: -0.82226 Y: 1.96698
+CannonAngle: -265.202 Firing: 0
+Sent PositionError recieving from the server 
+
+My ID: 0
+Preparing to send Position with X: -0.857249 Y: 2.00197
+CannonAngle: -263.926 Firing: 0
+Sent PositionError recieving from the server 
+
+My ID: 0
+Preparing to send Position with X: -0.989576 Y: 2.1343
+CannonAngle: -258.511 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 4.37271 Y: 0
-CannonAngle: -186.224 Firing: 0
+Preparing to send Position with X: -1.03635 Y: 2.1343
+CannonAngle: -256.147 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 4.42241 Y: 0
-CannonAngle: -173.983 Firing: 0
+Preparing to send Position with X: -1.08512 Y: 2.1343
+CannonAngle: -255.857 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 4.47271 Y: 0
-CannonAngle: -169.493 Firing: 0
+Preparing to send Position with X: -1.13511 Y: 2.1343
+CannonAngle: -256.015 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 4.52348 Y: 0
-CannonAngle: -165.159 Firing: 0
+Preparing to send Position with X: -1.18596 Y: 2.1343
+CannonAngle: -255.936 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 4.57155 Y: 0
-CannonAngle: -164.268 Firing: 0
+Preparing to send Position with X: -1.23422 Y: 2.1343
+CannonAngle: -255.909 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 4.62235 Y: 0
-CannonAngle: -163.494 Firing: 0
+Preparing to send Position with X: -1.2847 Y: 2.1343
+CannonAngle: -255.825 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 4.6732 Y: 0
-CannonAngle: -161.938 Firing: 0
+Preparing to send Position with X: -1.33363 Y: 2.1343
+CannonAngle: -255.494 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 4.721 Y: 0
-CannonAngle: -160.399 Firing: 0
+Preparing to send Position with X: -1.3837 Y: 2.1343
+CannonAngle: -255.161 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 4.77191 Y: 0
-CannonAngle: -159.284 Firing: 0
+Preparing to send Position with X: -1.43303 Y: 2.1343
+CannonAngle: -254.816 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 4.82001 Y: 0
-CannonAngle: -157.407 Firing: 0
+Preparing to send Position with X: -1.48535 Y: 2.1343
+CannonAngle: -254.229 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 4.86976 Y: 0
-CannonAngle: -156.24 Firing: 0
+Preparing to send Position with X: -1.5333 Y: 2.1343
+CannonAngle: -253.792 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 4.91941 Y: 0
-CannonAngle: -155.104 Firing: 0
+Preparing to send Position with X: -1.58392 Y: 2.1343
+CannonAngle: -253.429 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 4.96934 Y: 0
-CannonAngle: -153.115 Firing: 0
+Preparing to send Position with X: -1.63183 Y: 2.1343
+CannonAngle: -253.6 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 5.02025 Y: 0
-CannonAngle: -149.11 Firing: 0
+Preparing to send Position with X: -1.68153 Y: 2.1343
+CannonAngle: -253.776 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 5.06851 Y: 0
-CannonAngle: -146.698 Firing: 0
+Preparing to send Position with X: -1.73125 Y: 2.1343
+CannonAngle: -253.943 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 5.11921 Y: 0
-CannonAngle: -143.959 Firing: 0
+Preparing to send Position with X: -1.78217 Y: 2.1343
+CannonAngle: -254.106 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 5.16983 Y: 0
-CannonAngle: -142.782 Firing: 0
+Preparing to send Position with X: -1.8307 Y: 2.1343
+CannonAngle: -254.261 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 5.21771 Y: 0
-CannonAngle: -142.135 Firing: 0
+Preparing to send Position with X: -1.88055 Y: 2.1343
+CannonAngle: -254.42 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 5.26731 Y: 0
-CannonAngle: -141.545 Firing: 0
+Preparing to send Position with X: -1.93003 Y: 2.1343
+CannonAngle: -254.571 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 5.31701 Y: 0
-CannonAngle: -141.536 Firing: 0
+Preparing to send Position with X: -1.98232 Y: 2.1343
+CannonAngle: -254.719 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 5.36729 Y: 0
-CannonAngle: -141.51 Firing: 0
+Preparing to send Position with X: -2.03019 Y: 2.1343
+CannonAngle: -254.855 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 5.41809 Y: 0
-CannonAngle: -140.82 Firing: 0
+Preparing to send Position with X: -2.08121 Y: 2.1343
+CannonAngle: -254.866 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 5.46611 Y: 0
-CannonAngle: -140.258 Firing: 0
+Preparing to send Position with X: -2.12898 Y: 2.1343
+CannonAngle: -254.221 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 5.51581 Y: 0
-CannonAngle: -140.141 Firing: 0
+Preparing to send Position with X: -2.17987 Y: 2.1343
+CannonAngle: -253.226 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 5.56551 Y: 0
-CannonAngle: -140.058 Firing: 0
+Preparing to send Position with X: -2.22312 Y: 2.15592
+CannonAngle: -251.482 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 5.61556 Y: 0
-CannonAngle: -139.959 Firing: 0
+Preparing to send Position with X: -2.26334 Y: 2.18665
+CannonAngle: -249.869 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 5.66654 Y: 0
-CannonAngle: -140.489 Firing: 0
+Preparing to send Position with X: -2.29969 Y: 2.21919
+CannonAngle: -247.843 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 5.7161 Y: 0
-CannonAngle: -139.86 Firing: 0
+Preparing to send Position with X: -2.33708 Y: 2.25492
+CannonAngle: -246.627 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 5.76452 Y: 0
-CannonAngle: -140.341 Firing: 0
+Preparing to send Position with X: -2.37112 Y: 2.28832
+CannonAngle: -245.364 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 5.81494 Y: 0
-CannonAngle: -140.77 Firing: 0
+Preparing to send Position with X: -2.40709 Y: 2.32401
+CannonAngle: -244.143 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 5.86553 Y: 0
-CannonAngle: -141.237 Firing: 0
+Preparing to send Position with X: -2.44319 Y: 2.35999
+CannonAngle: -243.011 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 5.91344 Y: 0
-CannonAngle: -141.689 Firing: 0
+Preparing to send Position with X: -2.47711 Y: 2.39386
+CannonAngle: -241.508 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 5.96422 Y: 0
-CannonAngle: -141.41 Firing: 0
+Preparing to send Position with X: -2.51307 Y: 2.4298
+CannonAngle: -240.43 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 6.01427 Y: 0
-CannonAngle: -141.853 Firing: 0
+Preparing to send Position with X: -2.54707 Y: 2.4638
+CannonAngle: -239.702 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 6.06255 Y: 0
-CannonAngle: -141.77 Firing: 0
+Preparing to send Position with X: -2.5825 Y: 2.49923
+CannonAngle: -239.346 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 6.11299 Y: 0
-CannonAngle: -141.116 Firing: 0
+Preparing to send Position with X: -2.61876 Y: 2.53549
+CannonAngle: -238.867 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -2.6525 Y: 2.56922
+CannonAngle: -238.606 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -2.68823 Y: 2.60495
+CannonAngle: -238.386 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -2.72414 Y: 2.64086
+CannonAngle: -237.677 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -2.75963 Y: 2.67635
+CannonAngle: -237.196 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -2.7931 Y: 2.70983
+CannonAngle: -236.287 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -2.82895 Y: 2.74568
+CannonAngle: -235.711 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -2.86492 Y: 2.78165
+CannonAngle: -235.456 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -2.8985 Y: 2.81523
+CannonAngle: -234.986 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -2.93477 Y: 2.85149
+CannonAngle: -234.766 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -2.96879 Y: 2.88551
+CannonAngle: -234.501 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -3.0048 Y: 2.92153
+CannonAngle: -234.27 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -3.03907 Y: 2.9558
+CannonAngle: -234.006 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -3.07444 Y: 2.99116
+CannonAngle: -233.915 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -3.11039 Y: 3.02712
+CannonAngle: -233.658 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -3.14459 Y: 3.06132
+CannonAngle: -233.537 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -3.18013 Y: 3.09685
+CannonAngle: -233.781 Firing: 0
+Sent PositionError recieving from the server 
+
+My ID: 0
+Preparing to send Position with X: -3.21617 Y: 3.13289
+CannonAngle: -234.331 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -3.25004 Y: 3.16676
+CannonAngle: -234.858 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -3.28507 Y: 3.2018
+CannonAngle: -236.445 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -3.32022 Y: 3.23694
+CannonAngle: -237.339 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -3.35578 Y: 3.2725
+CannonAngle: -238.459 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -3.40428 Y: 3.2725
+CannonAngle: -239.737 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -3.4565 Y: 3.2725
+CannonAngle: -240.003 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -3.50433 Y: 3.2725
+CannonAngle: -240.755 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -3.69668 Y: 3.2725
+CannonAngle: -240.82 Firing: 0
+Sent PositionError recieving from the server 
+
+My ID: 0
+Preparing to send Position with X: -3.74671 Y: 3.2725
+CannonAngle: -240.019 Firing: 1
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -3.79751 Y: 3.2725
+CannonAngle: -240.153 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -3.84579 Y: 3.2725
+CannonAngle: -240.081 Firing: 0
+Sent PositionError recieving from the server 
+
+My ID: 0
+Preparing to send Position with X: -3.89629 Y: 3.2725
+CannonAngle: -240.654 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -3.94519 Y: 3.2725
+CannonAngle: -241.413 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -3.99504 Y: 3.2725
+CannonAngle: -242.384 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -4.04593 Y: 3.2725
+CannonAngle: -242.831 Firing: 0
+Error recieving from the server 
+Sent Position
+My ID: 0
+Preparing to send Position with X: -4.09677 Y: 3.2725
+CannonAngle: -242.752 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -4.14464 Y: 3.2725
+CannonAngle: -242.673 Firing: 0
+Sent PositionError recieving from the server 
+
+My ID: 0
+Preparing to send Position with X: -4.1955 Y: 3.2725
+CannonAngle: -242.607 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -4.2434 Y: 3.2725
+CannonAngle: -242.525 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -4.29309 Y: 3.2725
+CannonAngle: -242.457 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -4.34279 Y: 3.2725
+CannonAngle: -242.379 Firing: 0
+Sent PositionError recieving from the server 
+
+My ID: 0
+Preparing to send Position with X: -4.39249 Y: 3.2725
+CannonAngle: -242.3 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -4.44219 Y: 3.2725
+CannonAngle: -242.22 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -4.4919 Y: 3.2725
+CannonAngle: -242.139 Firing: 0
+Sent PositionError recieving from the server 
+
+My ID: 0
+Preparing to send Position with X: -4.54271 Y: 3.2725
+CannonAngle: -242.057 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -4.5913 Y: 3.2725
+CannonAngle: -241.969 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -4.64131 Y: 3.2725
+CannonAngle: -243.247 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -4.69069 Y: 3.2725
+CannonAngle: -244.204 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -4.74039 Y: 3.2725
+CannonAngle: -245.472 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -4.79094 Y: 3.2725
+CannonAngle: -246.612 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -4.83979 Y: 3.2725
+CannonAngle: -247.254 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -4.88972 Y: 3.2725
+CannonAngle: -247.478 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -4.94064 Y: 3.2725
+CannonAngle: -247.396 Firing: 1
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -4.98889 Y: 3.2725
+CannonAngle: -247.31 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.03859 Y: 3.2725
+CannonAngle: -247.235 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.08829 Y: 3.2725
+CannonAngle: -247.155 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.138 Y: 3.2725
+CannonAngle: -247.075 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.18923 Y: 3.2725
+CannonAngle: -247.297 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.23231 Y: 3.25096
+CannonAngle: -248.455 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.27222 Y: 3.22047
+CannonAngle: -249.128 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.31008 Y: 3.18657
+CannonAngle: -249.605 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.34482 Y: 3.15337
+CannonAngle: -249.908 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.3803 Y: 3.11856
+CannonAngle: -250.216 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.41719 Y: 3.08196
+CannonAngle: -250.757 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.45113 Y: 3.04813
+CannonAngle: -251.093 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.48705 Y: 3.01226
+CannonAngle: -251.412 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.5211 Y: 2.97823
+CannonAngle: -251.745 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.55625 Y: 2.94308
+CannonAngle: -252.066 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.5914 Y: 2.90794
+CannonAngle: -252.395 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.62654 Y: 2.8728
+CannonAngle: -252.724 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.66196 Y: 2.83739
+CannonAngle: -253.053 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.69683 Y: 2.80252
+CannonAngle: -253.383 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.73197 Y: 2.76737
+CannonAngle: -253.71 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.76777 Y: 2.73157
+CannonAngle: -254.039 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.80385 Y: 2.69549
+CannonAngle: -254.309 Firing: 1
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.83762 Y: 2.66172
+CannonAngle: -254.809 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.87353 Y: 2.62582
+CannonAngle: -255.069 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.90769 Y: 2.59165
+CannonAngle: -255.407 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.94283 Y: 2.55651
+CannonAngle: -255.73 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.97934 Y: 2.52001
+CannonAngle: -256.061 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -6.01322 Y: 2.48613
+CannonAngle: -256.401 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -6.04918 Y: 2.45016
+CannonAngle: -256.721 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -6.08512 Y: 2.41422
+CannonAngle: -257.056 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -6.11894 Y: 2.3804
+CannonAngle: -257.339 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -6.15497 Y: 2.34437
+CannonAngle: -257.605 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -6.18886 Y: 2.31048
+CannonAngle: -257.892 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -6.40099 Y: 2.09835
+CannonAngle: -258.346 Firing: 0
 Error recieving from the server Sent Position
 
 My ID: 0
-Preparing to send Position with X: 6.16386 Y: 0
-CannonAngle: -138.738 Firing: 0
+Preparing to send Position with X: -6.40099 Y: 2.05244
+CannonAngle: -260.12 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 6.21171 Y: 0
-CannonAngle: -136.859 Firing: 0
+Preparing to send Position with X: -6.40099 Y: 2.0023
+CannonAngle: -260.648 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 6.26131 Y: 0
-CannonAngle: -135.376 Firing: 0
+Preparing to send Position with X: -6.40099 Y: 1.95304
+CannonAngle: -261.138 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -6.40099 Y: 1.90334
+CannonAngle: -261.655 Firing: 1
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -6.40099 Y: 1.85281
+CannonAngle: -262.172 Firing: 0
 Sent PositionError recieving from the server 
 
 My ID: 0
-Preparing to send Position with X: 6.31101 Y: 0
-CannonAngle: -133.849 Firing: 0
+Preparing to send Position with X: -6.40099 Y: 1.80193
+CannonAngle: -262.694 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 6.36071 Y: 0
-CannonAngle: -132.894 Firing: 0
+Preparing to send Position with X: -6.40099 Y: 1.75412
+CannonAngle: -263.245 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 6.4104 Y: 0
-CannonAngle: -132.62 Firing: 0
+Preparing to send Position with X: -6.40099 Y: 1.70323
+CannonAngle: -263.725 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 6.46011 Y: 0
-CannonAngle: -132.393 Firing: 0
+Preparing to send Position with X: -6.40099 Y: 1.65484
+CannonAngle: -264.259 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 6.51101 Y: 0
-CannonAngle: -132.882 Firing: 0
+Preparing to send Position with X: -6.40099 Y: 1.60445
+CannonAngle: -264.755 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 6.55951 Y: 0
-CannonAngle: -133.434 Firing: 0
+Preparing to send Position with X: -6.40099 Y: 1.55544
+CannonAngle: -265.245 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 6.60966 Y: 0
-CannonAngle: -133.153 Firing: 0
+Preparing to send Position with X: -6.40099 Y: 1.5057
+CannonAngle: -265.696 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 6.65891 Y: 0
-CannonAngle: -134.519 Firing: 0
+Preparing to send Position with X: -6.40099 Y: 1.45604
+CannonAngle: -265.948 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 6.70869 Y: 0
-CannonAngle: -135.073 Firing: 0
+Preparing to send Position with X: -6.40099 Y: 1.40633
+CannonAngle: -266.415 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 6.75931 Y: 0
-CannonAngle: -136.456 Firing: 0
+Preparing to send Position with X: -6.40099 Y: 1.35617
+CannonAngle: -266.89 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 6.81014 Y: 0
-CannonAngle: -137.057 Firing: 0
+Preparing to send Position with X: -6.40099 Y: 1.30691
+CannonAngle: -267.349 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 6.85796 Y: 0
-CannonAngle: -137.662 Firing: 0
+Preparing to send Position with X: -6.40099 Y: 1.25724
+CannonAngle: -267.802 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 6.90741 Y: 0
-CannonAngle: -138.148 Firing: 0
+Preparing to send Position with X: -6.40099 Y: 1.20656
+CannonAngle: -268.249 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 6.95828 Y: 0
-CannonAngle: -138.69 Firing: 0
+Preparing to send Position with X: -6.40099 Y: 1.15783
+CannonAngle: -268.241 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 7.00681 Y: 0
-CannonAngle: -139.283 Firing: 0
+Preparing to send Position with X: -6.40099 Y: 1.15783
+CannonAngle: -267.982 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 7.0571 Y: 0
-CannonAngle: -139.78 Firing: 0
+Preparing to send Position with X: -6.40099 Y: 1.15783
+CannonAngle: -267.23 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 7.1062 Y: 0
-CannonAngle: -140.342 Firing: 0
+Preparing to send Position with X: -6.40099 Y: 1.15783
+CannonAngle: -266.494 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 7.15591 Y: 0
-CannonAngle: -140.852 Firing: 0
+Preparing to send Position with X: -6.40099 Y: 1.15783
+CannonAngle: -265.329 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 7.20561 Y: 0
-CannonAngle: -141.382 Firing: 0
+Preparing to send Position with X: -6.40099 Y: 1.15783
+CannonAngle: -264.624 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 7.25623 Y: 0
-CannonAngle: -141.906 Firing: 0
+Preparing to send Position with X: -6.35315 Y: 1.15783
+CannonAngle: -264.366 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 7.30503 Y: 0
-CannonAngle: -142.671 Firing: 0
+Preparing to send Position with X: -6.30232 Y: 1.15783
+CannonAngle: -264.397 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 7.35544 Y: 0
-CannonAngle: -145.008 Firing: 0
+Preparing to send Position with X: -6.25393 Y: 1.15783
+CannonAngle: -264.2 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 7.4044 Y: 0
-CannonAngle: -146.864 Firing: 0
+Preparing to send Position with X: -6.27283 Y: 1.15783
+CannonAngle: -264.008 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 7.45411 Y: 0
-CannonAngle: -149.417 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.50455 Y: 0
-CannonAngle: -152.091 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.5535 Y: 0
-CannonAngle: -153.76 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.60341 Y: 0
-CannonAngle: -154.838 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.65421 Y: 0
-CannonAngle: -156.535 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.70261 Y: 0
-CannonAngle: -157.115 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.75287 Y: 0
-CannonAngle: -158.729 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.80414 Y: 0
-CannonAngle: -159.264 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.85201 Y: 0
-CannonAngle: -161.029 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.90141 Y: 0
-CannonAngle: -161.416 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.95111 Y: 0
-CannonAngle: -161.881 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.00081 Y: 0
-CannonAngle: -162.356 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.05051 Y: 0
-CannonAngle: -162.825 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.10031 Y: 0
-CannonAngle: -163.287 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.14991 Y: 0
-CannonAngle: -163.749 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.1996 Y: 0
-CannonAngle: -164.194 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.24996 Y: 0
-CannonAngle: -164.638 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.299 Y: 0
-CannonAngle: -165.11 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.34871 Y: 0
-CannonAngle: -165.508 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.39841 Y: 0
-CannonAngle: -165.935 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.44811 Y: 0
-CannonAngle: -166.355 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.4983 Y: 0
-CannonAngle: -166.769 Firing: 0
+Preparing to send Position with X: -6.27216 Y: 1.15783
+CannonAngle: -263.62 Firing: 0
 Sent PositionError recieving from the server 
 
 My ID: 0
-Preparing to send Position with X: 8.54924 Y: 0
-CannonAngle: -167.203 Firing: 0
+Preparing to send Position with X: -6.27546 Y: 1.15783
+CannonAngle: -263.191 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 8.59721 Y: 0
-CannonAngle: -167.669 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.64691 Y: 0
-CannonAngle: -167.979 Firing: 0
-Sent PositionError recieving from the server 
-
-My ID: 0
-Preparing to send Position with X: 8.6966 Y: 0
-CannonAngle: -168.371 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.74668 Y: 0
-CannonAngle: -168.757 Firing: 0
-Sent PositionError recieving from the server 
-
-My ID: 0
-Preparing to send Position with X: 8.79601 Y: 0
-CannonAngle: -169.157 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.84571 Y: 0
-CannonAngle: -169.514 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.89662 Y: 0
-CannonAngle: -169.885 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.94511 Y: 0
-CannonAngle: -170.309 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.99496 Y: 0
-CannonAngle: -170.61 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.04451 Y: 0
-CannonAngle: -170.972 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.0942 Y: 0
-CannonAngle: -171.315 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.14467 Y: 0
-CannonAngle: -171.659 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.1955 Y: 0
-CannonAngle: -172.035 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.24337 Y: 0
-CannonAngle: -172.422 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.29413 Y: 0
-CannonAngle: -172.668 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.34271 Y: 0
-CannonAngle: -173.041 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.39291 Y: 0
-CannonAngle: -173.311 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.4421 Y: 0
-CannonAngle: -173.65 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.49185 Y: 0
-CannonAngle: -173.939 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.54285 Y: 0
-CannonAngle: -174.248 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.5912 Y: 0
-CannonAngle: -174.608 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.64091 Y: 0
-CannonAngle: -174.847 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.69249 Y: 0
-CannonAngle: -175.142 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.74038 Y: 0
-CannonAngle: -176.459 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.79108 Y: 0
-CannonAngle: -176.66 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.83971 Y: 0
-CannonAngle: -177.947 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.88964 Y: 0
-CannonAngle: -178.162 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.9391 Y: 0
-CannonAngle: -179.346 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.9888 Y: 0
-CannonAngle: -179.585 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.0385 Y: 0
-CannonAngle: -179.821 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.0882 Y: 0
-CannonAngle: -180.053 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.1379 Y: 0
-CannonAngle: -180.282 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.1888 Y: 0
-CannonAngle: -180.509 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.2373 Y: 0
-CannonAngle: -180.778 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.2875 Y: 0
-CannonAngle: -180.937 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3384 Y: 0
-CannonAngle: -181.169 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3864 Y: 0
-CannonAngle: -181.425 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.4371 Y: 0
-CannonAngle: -181.569 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.4858 Y: 0
-CannonAngle: -181.785 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.5358 Y: 0
-CannonAngle: -181.95 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.5852 Y: 0
-CannonAngle: -182.158 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.6349 Y: 0
-CannonAngle: -182.342 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.6846 Y: 0
-CannonAngle: -182.534 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.7343 Y: 0
-CannonAngle: -182.724 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.7845 Y: 0
-CannonAngle: -182.911 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.8345 Y: 0
-CannonAngle: -183.113 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.8834 Y: 0
-CannonAngle: -183.305 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.9332 Y: 0
-CannonAngle: -183.46 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.9841 Y: 0
-CannonAngle: -183.638 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.0325 Y: 0
-CannonAngle: -183.856 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.0828 Y: 0
-CannonAngle: -183.985 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.1325 Y: 0
-CannonAngle: -184.176 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.1816 Y: 0
-CannonAngle: -184.344 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.2313 Y: 0
-CannonAngle: -184.492 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.2821 Y: 0
-CannonAngle: -183.942 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.3307 Y: 0
-CannonAngle: -184.094 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.3809 Y: 0
-CannonAngle: -183.479 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.432 Y: 0
-CannonAngle: -182.935 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.4799 Y: 0
-CannonAngle: -182.409 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.5304 Y: 0
-CannonAngle: -181.158 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.5814 Y: 0
-CannonAngle: -180.703 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.6292 Y: 0
-CannonAngle: -180.269 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.6801 Y: 0
-CannonAngle: -179.777 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.7283 Y: 0
-CannonAngle: -179.383 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.7788 Y: 0
-CannonAngle: -179.505 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.8277 Y: 0
-CannonAngle: -179.682 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.8775 Y: 0
-CannonAngle: -179.812 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.9271 Y: 0
-CannonAngle: -179.962 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.9768 Y: 0
-CannonAngle: -180.103 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.0265 Y: 0
-CannonAngle: -180.245 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.0765 Y: 0
-CannonAngle: -180.919 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.1259 Y: 0
-CannonAngle: -182.112 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.1756 Y: 0
-CannonAngle: -182.734 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.2253 Y: 0
-CannonAngle: -183.378 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.275 Y: 0
-CannonAngle: -184.491 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.3249 Y: 0
-CannonAngle: -185.622 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.3749 Y: 0
-CannonAngle: -188.177 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.4257 Y: 0
-CannonAngle: -190.155 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.4738 Y: 0
-CannonAngle: -193.376 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.5244 Y: 0
-CannonAngle: -196.017 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.5732 Y: 0
-CannonAngle: -198.58 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.6229 Y: 0
-CannonAngle: -200.303 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.6726 Y: 0
-CannonAngle: -202.636 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.7223 Y: 0
-CannonAngle: -204.245 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.7727 Y: 0
-CannonAngle: -205.805 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.8217 Y: 0
-CannonAngle: -206.588 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.8714 Y: 0
-CannonAngle: -207.696 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.9223 Y: 0
-CannonAngle: -208.43 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.9732 Y: 0
-CannonAngle: -209.17 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.0205 Y: 0
-CannonAngle: -209.548 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.0702 Y: 0
-CannonAngle: -209.864 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.1199 Y: 0
-CannonAngle: -210.215 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.1696 Y: 0
-CannonAngle: -210.561 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.2216 Y: 0
-CannonAngle: -210.568 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.269 Y: 0
-CannonAngle: -210.945 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.3187 Y: 0
-CannonAngle: -210.916 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.3684 Y: 0
-CannonAngle: -210.922 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.419 Y: 0
-CannonAngle: -210.93 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.4678 Y: 0
-CannonAngle: -210.951 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.5177 Y: 0
-CannonAngle: -210.945 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.5688 Y: 0
-CannonAngle: -210.957 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.6169 Y: 0
-CannonAngle: -210.986 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.6666 Y: 0
-CannonAngle: -210.971 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.7183 Y: 0
-CannonAngle: -210.98 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.7661 Y: 0
-CannonAngle: -211.019 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.817 Y: 0
-CannonAngle: -211.002 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.8654 Y: 0
-CannonAngle: -211.03 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.9159 Y: 0
-CannonAngle: -211.021 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.9648 Y: 0
-CannonAngle: -211.044 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.0146 Y: 0
-CannonAngle: -211.043 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.0654 Y: 0
-CannonAngle: -211.056 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.1139 Y: 0
-CannonAngle: -211.084 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.1642 Y: 0
-CannonAngle: -211.079 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.2151 Y: 0
-CannonAngle: -211.101 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.263 Y: 0
-CannonAngle: -211.131 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.3127 Y: 0
-CannonAngle: -211.119 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.3624 Y: 0
-CannonAngle: -211.132 Firing: 0
-Sent PositionError recieving from the server 
-
-My ID: 0
-Preparing to send Position with X: 14.4126 Y: 0
-CannonAngle: -211.146 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.4618 Y: 0
-CannonAngle: -211.167 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.5063 Y: -0.022225
-CannonAngle: -211.175 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.5465 Y: -0.052987
-CannonAngle: -211.306 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.5828 Y: -0.0854949
-CannonAngle: -211.454 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.619 Y: -0.120053
-CannonAngle: -211.562 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.6542 Y: -0.154635
-CannonAngle: -211.689 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.6913 Y: -0.191447
-CannonAngle: -211.805 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.7252 Y: -0.225239
-CannonAngle: -211.971 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.7613 Y: -0.261272
-CannonAngle: -212.065 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.7952 Y: -0.295134
-CannonAngle: -212.214 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.8311 Y: -0.331033
-CannonAngle: -212.312 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.867 Y: -0.366942
-CannonAngle: -212.463 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.9005 Y: -0.400393
-CannonAngle: -212.616 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.9369 Y: -0.436836
-CannonAngle: -212.711 Firing: 0
-Sent PositionError recieving from the server 
-
-My ID: 0
-Preparing to send Position with X: 14.9708 Y: -0.470685
-CannonAngle: -212.883 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.0068 Y: -0.506676
-CannonAngle: -212.992 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.041 Y: -0.540969
-CannonAngle: -213.159 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.0762 Y: -0.57611
-CannonAngle: -213.284 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.1125 Y: -0.612407
-CannonAngle: -213.434 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.1465 Y: -0.646398
-CannonAngle: -213.618 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.1823 Y: -0.682258
-CannonAngle: -214.096 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.2168 Y: -0.716686
-CannonAngle: -214.63 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.2521 Y: -0.751994
-CannonAngle: -215.379 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.287 Y: -0.786968
-CannonAngle: -216.17 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.3222 Y: -0.822112
-CannonAngle: -216.615 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.3573 Y: -0.857256
-CannonAngle: -217.166 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.393 Y: -0.89288
-CannonAngle: -217.999 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.4289 Y: -0.928831
-CannonAngle: -218.865 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.4628 Y: -0.962712
-CannonAngle: -219.111 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.4987 Y: -0.998652
-CannonAngle: -219.596 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.5331 Y: -1.03297
-CannonAngle: -219.854 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.5685 Y: -1.06842
-CannonAngle: -220.432 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.6045 Y: -1.1044
-CannonAngle: -221.003 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.6385 Y: -1.1384
-CannonAngle: -221.65 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.6743 Y: -1.17422
-CannonAngle: -222.572 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.7103 Y: -1.2102
-CannonAngle: -223.209 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.7441 Y: -1.24406
-CannonAngle: -224.598 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.7801 Y: -1.28001
-CannonAngle: -225.575 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.8142 Y: -1.31412
-CannonAngle: -227.369 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.8493 Y: -1.34926
-CannonAngle: -228.743 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.8845 Y: -1.38441
-CannonAngle: -230.558 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.9197 Y: -1.41964
-CannonAngle: -231.988 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.9557 Y: -1.45561
-CannonAngle: -234.269 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.9899 Y: -1.48983
-CannonAngle: -236.476 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.0251 Y: -1.525
-CannonAngle: -239.512 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.0609 Y: -1.5608
-CannonAngle: -242.135 Firing: 0
-Sent PositionError recieving from the server 
-
-My ID: 0
-Preparing to send Position with X: 16.0953 Y: -1.59526
-CannonAngle: -245.676 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.1307 Y: -1.63066
-CannonAngle: -247.527 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.1667 Y: -1.66663
-CannonAngle: -250.062 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.2008 Y: -1.70069
-CannonAngle: -252.571 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.2365 Y: -1.73645
-CannonAngle: -255.463 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.2725 Y: -1.7724
-CannonAngle: -257.858 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.3064 Y: -1.80628
-CannonAngle: -260.677 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.3423 Y: -1.8422
-CannonAngle: -262.41 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.3765 Y: -1.87641
-CannonAngle: -264.607 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.4122 Y: -1.91208
-CannonAngle: -266.167 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.4481 Y: -1.94802
-CannonAngle: -267.792 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.4819 Y: -1.98186
-CannonAngle: -268.903 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.5179 Y: -2.01783
-CannonAngle: 89.5995 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.5539 Y: -2.05387
-CannonAngle: 88.5359 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.5877 Y: -2.08764
-CannonAngle: 87.4726 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.6225 Y: -2.12241
-CannonAngle: 86.8993 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.6576 Y: -2.15755
-CannonAngle: 85.8667 Firing: 0
-Sent PositionError recieving from the server 
-
-My ID: 0
-Preparing to send Position with X: 16.7045 Y: -2.15755
-CannonAngle: 85.2684 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.7532 Y: -2.15755
-CannonAngle: 85.3867 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.8033 Y: -2.15755
-CannonAngle: 85.0765 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.8541 Y: -2.15755
-CannonAngle: 85.1991 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.9023 Y: -2.15755
-CannonAngle: 85.3539 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.952 Y: -2.15755
-CannonAngle: 85.0902 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.0037 Y: -2.15755
-CannonAngle: 85.2725 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.0516 Y: -2.15755
-CannonAngle: 85.4484 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.1024 Y: -2.15755
-CannonAngle: 85.1999 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.1533 Y: -2.15755
-CannonAngle: 85.3379 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.2012 Y: -2.15755
-CannonAngle: 85.4707 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.2502 Y: -2.15755
-CannonAngle: 85.6218 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.2999 Y: -2.15755
-CannonAngle: 85.7922 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.3508 Y: -2.15755
-CannonAngle: 85.953 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.3993 Y: -2.15755
-CannonAngle: 86.1272 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.4495 Y: -2.15755
-CannonAngle: 86.2457 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.5004 Y: -2.15755
-CannonAngle: 86.0932 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.5484 Y: -2.15755
-CannonAngle: 86.2075 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.5991 Y: -2.15755
-CannonAngle: 86.3137 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.65 Y: -2.15755
-CannonAngle: 86.4173 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.6979 Y: -2.15755
-CannonAngle: 86.2186 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.7488 Y: -2.15755
-CannonAngle: 86.2996 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.7969 Y: -2.15755
-CannonAngle: 86.3628 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.8475 Y: -2.15755
-CannonAngle: 86.4221 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.8984 Y: -2.15755
-CannonAngle: 86.4817 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.9464 Y: -2.15755
-CannonAngle: 86.5238 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.9971 Y: -2.15755
-CannonAngle: 86.563 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.0454 Y: -2.15755
-CannonAngle: 86.6032 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.0958 Y: -2.15755
-CannonAngle: 86.6409 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.1467 Y: -2.15755
-CannonAngle: 86.3915 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.1946 Y: -2.15755
-CannonAngle: 86.1575 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.2442 Y: -2.15755
-CannonAngle: 85.7321 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.2962 Y: -2.15755
-CannonAngle: 85.197 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.3441 Y: -2.15755
-CannonAngle: 83.7513 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.3933 Y: -2.15755
-CannonAngle: 81.4863 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.443 Y: -2.15755
-CannonAngle: 78.8448 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.4937 Y: -2.15755
-CannonAngle: 76.1298 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.5424 Y: -2.15755
-CannonAngle: 76.4137 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.5924 Y: -2.15755
-CannonAngle: 76.9031 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.6433 Y: -2.15755
-CannonAngle: 77.3769 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.6433 Y: -2.15755
-CannonAngle: 77.6245 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.6433 Y: -2.15755
-CannonAngle: 76.4449 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.6433 Y: -2.15755
-CannonAngle: 75.0193 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.6433 Y: -2.15755
-CannonAngle: 73.2644 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.6433 Y: -2.15755
-CannonAngle: 71.9761 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.6433 Y: -2.15755
-CannonAngle: 71.4547 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.6433 Y: -2.15755
-CannonAngle: 71.3849 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.6433 Y: -2.15755
-CannonAngle: 71.3179 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.6433 Y: -2.15755
-CannonAngle: 71.2536 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.6433 Y: -2.15755
-CannonAngle: 71.192 Firing: 0
-Sent PositionError recieving from the server 
-
-My ID: 0
-Preparing to send Position with X: 18.6433 Y: -2.15755
-CannonAngle: 71.1331 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.6433 Y: -2.15755
-CannonAngle: 71.0766 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.6433 Y: -2.15755
-CannonAngle: 71.0224 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.6433 Y: -2.15755
-CannonAngle: 70.9706 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.6433 Y: -2.15755
-CannonAngle: 70.921 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.5927 Y: -2.15755
-CannonAngle: 70.8736 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.5439 Y: -2.15755
-CannonAngle: 69.5959 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.4939 Y: -2.15755
-CannonAngle: 68.1423 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.4445 Y: -2.15755
-CannonAngle: 65.6131 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.3946 Y: -2.15755
-CannonAngle: 63.4047 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.3436 Y: -2.15755
-CannonAngle: 59.5997 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.2954 Y: -2.15755
-CannonAngle: 56.0678 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.2457 Y: -2.15755
-CannonAngle: 51.9708 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.196 Y: -2.15755
-CannonAngle: 46.8563 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.1462 Y: -2.15755
-CannonAngle: 38.0614 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 18.0958 Y: -2.15755
-CannonAngle: 30.0719 Firing: 0
-Sent PositionError recieving from the server 
-
-My ID: 0
-Preparing to send Position with X: 18.0469 Y: -2.15755
-CannonAngle: 17.0179 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.9972 Y: -2.15755
-CannonAngle: 2.70824 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.9468 Y: -2.15755
-CannonAngle: -15.3251 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.8978 Y: -2.15755
-CannonAngle: -30.3085 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.8481 Y: -2.15755
-CannonAngle: -41.2662 Firing: 0
-Error recieving from the server 
-Sent Position
-My ID: 0
-Preparing to send Position with X: 17.7983 Y: -2.15755
-CannonAngle: -47.6112 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.7472 Y: -2.15755
-CannonAngle: -52.5225 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.699 Y: -2.15755
-CannonAngle: -56.4401 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.6483 Y: -2.15755
-CannonAngle: -58.536 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.5996 Y: -2.15755
-CannonAngle: -60.4274 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.5499 Y: -2.15755
-CannonAngle: -61.9879 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.4986 Y: -2.15755
-CannonAngle: -63.3775 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.4505 Y: -2.15755
-CannonAngle: -64.6365 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.3997 Y: -2.15755
-CannonAngle: -65.6683 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.3511 Y: -2.15755
-CannonAngle: -66.644 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.301 Y: -2.15755
-CannonAngle: -67.4708 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.2505 Y: -2.15755
-CannonAngle: -68.2411 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.202 Y: -2.15755
-CannonAngle: -68.9426 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.1501 Y: -2.15755
-CannonAngle: -71.0134 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.1022 Y: -2.15755
-CannonAngle: -71.85 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.0514 Y: -2.15755
-CannonAngle: -72.884 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 17.0032 Y: -2.15755
-CannonAngle: -74.7506 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.9535 Y: -2.15755
-CannonAngle: -75.65 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.9038 Y: -2.15755
-CannonAngle: -77.1434 Firing: 0
-Sent PositionError recieving from the server 
-
-My ID: 0
-Preparing to send Position with X: 16.8537 Y: -2.15755
-CannonAngle: -78.7609 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.8044 Y: -2.15755
-CannonAngle: -81.8835 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.7521 Y: -2.15755
-CannonAngle: -84.0602 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.705 Y: -2.15755
-CannonAngle: -87.6408 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.6553 Y: -2.15755
-CannonAngle: -89.5256 Firing: 0
-Sent PositionError recieving from the server 
-
-My ID: 0
-Preparing to send Position with X: 16.6055 Y: -2.15755
-CannonAngle: -92.0121 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.5559 Y: -2.15755
-CannonAngle: -92.9211 Firing: 0
-Sent PositionError recieving from the server 
-
-My ID: 0
-Preparing to send Position with X: 16.5038 Y: -2.15755
-CannonAngle: -94.4587 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.4557 Y: -2.15755
-CannonAngle: -94.5619 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.4068 Y: -2.15755
-CannonAngle: -94.7151 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.3571 Y: -2.15755
-CannonAngle: -94.8066 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.306 Y: -2.15755
-CannonAngle: -94.8881 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.2577 Y: -2.15755
-CannonAngle: -94.4104 Firing: 0
-Sent PositionError recieving from the server 
-
-My ID: 0
-Preparing to send Position with X: 16.2075 Y: -2.15755
-CannonAngle: -93.9702 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.1583 Y: -2.15755
-CannonAngle: -93.5553 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.1086 Y: -2.15755
-CannonAngle: -93.1687 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.0589 Y: -2.15755
-CannonAngle: -92.8055 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 16.0092 Y: -2.15755
-CannonAngle: -92.9303 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.959 Y: -2.15755
-CannonAngle: -92.5959 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.9079 Y: -2.15755
-CannonAngle: -92.2809 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.8601 Y: -2.15755
-CannonAngle: -91.9838 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.8104 Y: -2.15755
-CannonAngle: -92.1179 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.7607 Y: -2.15755
-CannonAngle: -91.8426 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.7107 Y: -2.15755
-CannonAngle: -91.5825 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.6613 Y: -2.15755
-CannonAngle: -91.3364 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.6116 Y: -2.15755
-CannonAngle: -91.1037 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -90.8831 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -90.6739 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -90.485 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -90.6448 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -90.4668 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -90.2977 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -90.4666 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -90.3051 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -90.4804 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -90.6548 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -90.5055 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -90.3569 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -90.5415 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -90.4013 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -90.2624 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -90.1277 Firing: 0
-Sent PositionError recieving from the server 
-
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -89.9972 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -89.8715 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -89.7511 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -89.6358 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -89.5254 Firing: 1
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -89.4197 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -89.3185 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -89.2218 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -89.1292 Firing: 0
-Sent PositionError recieving from the server 
-
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -89.0408 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -88.9562 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -88.8698 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -88.7864 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -88.7059 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -88.6282 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -88.5532 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -88.4734 Firing: 0
-Sent PositionError recieving from the server 
-
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -88.1145 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.7686 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.7175 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.669 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.6232 Firing: 1
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.58 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.5393 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.5011 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.4651 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.4314 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.3999 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.3705 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.3432 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.3178 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.2944 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.2729 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.2531 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.2351 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.2188 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.2042 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.1912 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.1682 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.1352 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.304 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.1558 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.561 Y: -2.15755
-CannonAngle: -87.0619 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.5122 Y: -2.15755
-CannonAngle: -86.0514 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.4622 Y: -2.15755
-CannonAngle: -85.4298 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.4104 Y: -2.15755
-CannonAngle: -85.1381 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.3629 Y: -2.15755
-CannonAngle: -85.1869 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.3123 Y: -2.15755
-CannonAngle: -85.2527 Firing: 1
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.2614 Y: -2.15755
-CannonAngle: -85.3202 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.2128 Y: -2.15755
-CannonAngle: -85.3865 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.1642 Y: -2.15755
-CannonAngle: -85.41 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.1141 Y: -2.15755
-CannonAngle: -85.4146 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.0635 Y: -2.15755
-CannonAngle: -85.5908 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 15.0152 Y: -2.15755
-CannonAngle: -85.5406 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.9645 Y: -2.15755
-CannonAngle: -85.4688 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.9158 Y: -2.15755
-CannonAngle: -85.164 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.8657 Y: -2.15755
-CannonAngle: -85.1547 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.815 Y: -2.15755
-CannonAngle: -84.8935 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.7667 Y: -2.15755
-CannonAngle: -84.9562 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.7163 Y: -2.15755
-CannonAngle: -85.0157 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.6673 Y: -2.15755
-CannonAngle: -85.0977 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.6176 Y: -2.15755
-CannonAngle: -85.1764 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.5679 Y: -2.15755
-CannonAngle: -85.254 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.5182 Y: -2.15755
-CannonAngle: -85.3112 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.4681 Y: -2.15755
-CannonAngle: -85.3308 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.4188 Y: -2.15755
-CannonAngle: -85.37 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.3691 Y: -2.15755
-CannonAngle: -85.6347 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.3185 Y: -2.15755
-CannonAngle: -85.8961 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.2697 Y: -2.15755
-CannonAngle: -86.1371 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.2199 Y: -2.15755
-CannonAngle: -86.3735 Firing: 1
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.1703 Y: -2.15755
-CannonAngle: -86.4002 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.1181 Y: -2.15755
-CannonAngle: -86.439 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.0702 Y: -2.15755
-CannonAngle: -86.6927 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 14.0211 Y: -2.15755
-CannonAngle: -86.9149 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.9714 Y: -2.15755
-CannonAngle: -86.9214 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.9206 Y: -2.15755
-CannonAngle: -87.1198 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.8721 Y: -2.15755
-CannonAngle: -87.3101 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.8217 Y: -2.15755
-CannonAngle: -87.3033 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.771 Y: -2.15755
-CannonAngle: -87.2967 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.723 Y: -2.15755
-CannonAngle: -87.3103 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.6723 Y: -2.15755
-CannonAngle: -87.3421 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.6236 Y: -2.15755
-CannonAngle: -87.3641 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.5736 Y: -2.15755
-CannonAngle: -87.3844 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.5242 Y: -2.15755
-CannonAngle: -87.366 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.4745 Y: -2.15755
-CannonAngle: -87.3368 Firing: 0
-Sent PositionError recieving from the server 
-
-My ID: 0
-Preparing to send Position with X: 13.424 Y: -2.15755
-CannonAngle: -87.3269 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.3731 Y: -2.15755
-CannonAngle: -87.337 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.3252 Y: -2.15755
-CannonAngle: -87.3568 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.2757 Y: -2.15755
-CannonAngle: -87.3843 Firing: 1
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.226 Y: -2.15755
-CannonAngle: -87.4116 Firing: 0
-Sent PositionError recieving from the server 
-
-My ID: 0
-Preparing to send Position with X: 13.1756 Y: -2.15755
-CannonAngle: -87.4288 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.1266 Y: -2.15755
-CannonAngle: -87.4274 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.0769 Y: -2.15755
-CannonAngle: -87.4064 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 13.026 Y: -2.15755
-CannonAngle: -87.2853 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.9752 Y: -2.15755
-CannonAngle: -87.1298 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.9278 Y: -2.15755
-CannonAngle: -87.0749 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.8764 Y: -2.15755
-CannonAngle: -87.8765 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.8284 Y: -2.15755
-CannonAngle: -90.2033 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.7787 Y: -2.15755
-CannonAngle: -94.709 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.729 Y: -2.15755
-CannonAngle: -103.216 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.6789 Y: -2.15755
-CannonAngle: -117.777 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.6282 Y: -2.15755
-CannonAngle: -187.678 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.5799 Y: -2.15755
-CannonAngle: -216.778 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.5294 Y: -2.15755
-CannonAngle: -242.414 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.4805 Y: -2.15755
-CannonAngle: -249.664 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.4306 Y: -2.15755
-CannonAngle: -254.108 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.3811 Y: -2.15755
-CannonAngle: -254.947 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.3314 Y: -2.15755
-CannonAngle: -255.784 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.2811 Y: -2.15755
-CannonAngle: -256.223 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.232 Y: -2.15755
-CannonAngle: -257.885 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.1822 Y: -2.15755
-CannonAngle: -258.561 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.1314 Y: -2.15755
-CannonAngle: -260.37 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.0829 Y: -2.15755
-CannonAngle: -262.706 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 12.0327 Y: -2.15755
-CannonAngle: -266.058 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.9835 Y: -2.15755
-CannonAngle: -269.273 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.9338 Y: -2.15755
-CannonAngle: 85.6954 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.883 Y: -2.15755
-CannonAngle: 83.705 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.8322 Y: -2.15755
-CannonAngle: 82.558 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.7843 Y: -2.15755
-CannonAngle: 81.7526 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.7334 Y: -2.15755
-CannonAngle: 81.6468 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.6853 Y: -2.15755
-CannonAngle: 81.5242 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.6347 Y: -2.15755
-CannonAngle: 81.4133 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.5858 Y: -2.15755
-CannonAngle: 81.2876 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.536 Y: -2.15755
-CannonAngle: 81.1687 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.4852 Y: -2.15755
-CannonAngle: 81.0419 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.4342 Y: -2.15755
-CannonAngle: 80.9067 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.3864 Y: -2.15755
-CannonAngle: 80.7677 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.3356 Y: -2.15755
-CannonAngle: 80.6465 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.2877 Y: -2.15755
-CannonAngle: 80.6535 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.2368 Y: -2.15755
-CannonAngle: 80.8331 Firing: 0
-Sent PositionError recieving from the server 
-
-My ID: 0
-Preparing to send Position with X: 11.186 Y: -2.15755
-CannonAngle: 80.8522 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.1381 Y: -2.15755
-CannonAngle: 81.9302 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.0889 Y: -2.15755
-CannonAngle: 81.989 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 11.0392 Y: -2.15755
-CannonAngle: 82.1724 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.9885 Y: -2.15755
-CannonAngle: 83.263 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.9398 Y: -2.15755
-CannonAngle: 83.436 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.8895 Y: -2.15755
-CannonAngle: 83.5176 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.8388 Y: -2.15755
-CannonAngle: 84.4256 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.7907 Y: -2.15755
-CannonAngle: 84.4238 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.7401 Y: -2.15755
-CannonAngle: 84.5304 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.6893 Y: -2.15755
-CannonAngle: 84.7214 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.6415 Y: -2.15755
-CannonAngle: 84.9933 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.5906 Y: -2.15755
-CannonAngle: 85.1101 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.5422 Y: -2.15755
-CannonAngle: 85.2201 Firing: 0
-Sent PositionError recieving from the server 
-
-My ID: 0
-Preparing to send Position with X: 10.4925 Y: -2.15755
-CannonAngle: 85.3427 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.4422 Y: -2.15755
-CannonAngle: 85.4647 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 85.5885 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 85.7839 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 86.1215 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 86.4814 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 86.7574 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 86.9713 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 87.1742 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 87.3332 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 87.4883 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 87.6397 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 87.7873 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 87.9313 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 88.0716 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 88.2082 Firing: 0
-Sent PositionError recieving from the server 
-
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 88.3413 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 88.4708 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 88.5969 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 88.7196 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 88.8389 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 88.955 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 89.0678 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 89.1775 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 89.2842 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 89.3878 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 89.4885 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 89.5863 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 89.6814 Firing: 0
-Sent PositionError recieving from the server 
-
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 89.7729 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 89.8603 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: 89.944 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: -269.976 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: -269.899 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: -269.826 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: -269.755 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: -269.682 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: -269.617 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: -269.546 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: -269.481 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: -269.412 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3913 Y: -2.15755
-CannonAngle: -269.344 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.3404 Y: -2.15755
-CannonAngle: -269.72 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.2922 Y: -2.15755
-CannonAngle: -269.64 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.2425 Y: -2.15755
-CannonAngle: 89.9642 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.1908 Y: -2.15755
-CannonAngle: 89.0325 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.143 Y: -2.15755
-CannonAngle: 88.5224 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.0934 Y: -2.15755
-CannonAngle: 87.4393 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 10.0412 Y: -2.15755
-CannonAngle: 86.2262 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.99334 Y: -2.15755
-CannonAngle: 85.5793 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.94431 Y: -2.15755
-CannonAngle: 84.8404 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.89399 Y: -2.15755
-CannonAngle: 84.1615 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.84344 Y: -2.15755
-CannonAngle: 84.1655 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.79517 Y: -2.15755
-CannonAngle: 84.2337 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.74552 Y: -2.15755
-CannonAngle: 84.3073 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.69582 Y: -2.15755
-CannonAngle: 84.3756 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.6459 Y: -2.15755
-CannonAngle: 83.7163 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.5964 Y: -2.15755
-CannonAngle: 82.9545 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.5467 Y: -2.15755
-CannonAngle: 82.2478 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.49635 Y: -2.15755
-CannonAngle: 81.5195 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.44732 Y: -2.15755
-CannonAngle: 80.7663 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.39762 Y: -2.15755
-CannonAngle: 79.9979 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.34792 Y: -2.15755
-CannonAngle: 80.0458 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.29822 Y: -2.15755
-CannonAngle: 79.3815 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.24795 Y: -2.15755
-CannonAngle: 79.423 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.19882 Y: -2.15755
-CannonAngle: 78.6046 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.14912 Y: -2.15755
-CannonAngle: 78.6434 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.09827 Y: -2.15755
-CannonAngle: 78.6761 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 9.04746 Y: -2.15755
-CannonAngle: 77.9757 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.9996 Y: -2.15755
-CannonAngle: 77.2717 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.94871 Y: -2.15755
-CannonAngle: 76.5874 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.89785 Y: -2.15755
-CannonAngle: 76.0546 Firing: 0
-Sent Position
+Preparing to send Position with X: -6.27215 Y: 1.15783
+CannonAngle: -262.762 Firing: 0
 Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.85089 Y: -2.15755
-CannonAngle: 76.0573 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.80122 Y: -2.15755
-CannonAngle: 76.0889 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.75129 Y: -2.15755
-CannonAngle: 76.2704 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.70182 Y: -2.15755
-CannonAngle: 76.2736 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.65212 Y: -2.15755
-CannonAngle: 76.4487 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.60169 Y: -2.15755
-CannonAngle: 76.4493 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.55078 Y: -2.15755
-CannonAngle: 76.4417 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.50294 Y: -2.15755
-CannonAngle: 76.5965 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.45332 Y: -2.15755
-CannonAngle: 76.6047 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.40156 Y: -2.15755
-CannonAngle: 76.597 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.3537 Y: -2.15755
-CannonAngle: 75.8679 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.30283 Y: -2.15755
-CannonAngle: 75.868 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.25452 Y: -2.15755
-CannonAngle: 76.0166 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 76.0089 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 75.9818 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 76.3464 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 76.6916 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 77.0189 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 77.3294 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 77.6243 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 77.9048 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 78.1716 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 78.4259 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 78.6684 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 78.8998 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 79.1208 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 79.3322 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 79.5344 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 79.728 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 79.9135 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 80.0914 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 80.2622 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 80.4261 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 80.5837 Firing: 0
-Error recieving from the server 
-Sent Position
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 80.7352 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 80.881 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 81.0214 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 81.1566 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 81.287 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 81.4128 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 81.5341 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 81.6513 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 81.7646 Firing: 0
-Sent Position
-Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 81.874 Firing: 0
+Preparing to send Position with X: -6.27484 Y: 1.15783
+CannonAngle: -262.541 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 81.9799 Firing: 0
+Preparing to send Position with X: -6.27618 Y: 1.15783
+CannonAngle: -262.124 Firing: 0
 Sent Position
 Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 82.0823 Firing: 0
-Sent PositionError recieving from the server 
-
 My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 82.1815 Firing: 0
+Preparing to send Position with X: -6.27711 Y: 1.18087
+CannonAngle: -261.312 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 82.2776 Firing: 0
+Preparing to send Position with X: -6.37706 Y: 1.20994
+CannonAngle: -260.132 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 82.3707 Firing: 0
+Preparing to send Position with X: -6.54326 Y: 1.2431
+CannonAngle: -258.721 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 82.461 Firing: 0
+Preparing to send Position with X: -6.55098 Y: 1.27743
+CannonAngle: -256.734 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 82.5486 Firing: 0
+Preparing to send Position with X: -6.55872 Y: 1.31266
+CannonAngle: -253.722 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 82.6336 Firing: 0
+Preparing to send Position with X: -6.58825 Y: 1.35952
+CannonAngle: -250.577 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 82.7161 Firing: 0
+Preparing to send Position with X: -6.58825 Y: 1.40749
+CannonAngle: -247.352 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 82.7962 Firing: 0
+Preparing to send Position with X: -6.58825 Y: 1.4572
+CannonAngle: -244.163 Firing: 0
 Error recieving from the server Sent Position
 
 My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 82.8741 Firing: 0
+Preparing to send Position with X: -6.58825 Y: 1.50689
+CannonAngle: -241.417 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 82.9498 Firing: 0
+Preparing to send Position with X: -6.58825 Y: 1.55696
+CannonAngle: -239.429 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 83.0234 Firing: 0
+Preparing to send Position with X: -6.58825 Y: 1.6063
+CannonAngle: -237.985 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 83.0951 Firing: 0
+Preparing to send Position with X: -6.58825 Y: 1.656
+CannonAngle: -237.344 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 83.1648 Firing: 0
+Preparing to send Position with X: -6.58825 Y: 1.70569
+CannonAngle: -237.36 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 83.2327 Firing: 0
+Preparing to send Position with X: -6.58825 Y: 1.75539
+CannonAngle: -237.231 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 83.2988 Firing: 0
+Preparing to send Position with X: -6.58825 Y: 1.80529
+CannonAngle: -237.018 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 83.3632 Firing: 0
+Preparing to send Position with X: -6.58825 Y: 1.85626
+CannonAngle: -237.246 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 83.426 Firing: 0
+Preparing to send Position with X: -6.58825 Y: 1.90703
+CannonAngle: -237.936 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 83.4873 Firing: 0
+Preparing to send Position with X: -6.56684 Y: 1.94985
+CannonAngle: -240.851 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 83.5471 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.20406 Y: -2.15755
-CannonAngle: 83.6054 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.15319 Y: -2.15755
-CannonAngle: 83.6623 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.10487 Y: -2.15755
-CannonAngle: 83.639 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.05454 Y: -2.15755
-CannonAngle: 83.6196 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 8.00547 Y: -2.15755
-CannonAngle: 83.5621 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.95575 Y: -2.15755
-CannonAngle: 83.818 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.90482 Y: -2.15755
-CannonAngle: 83.7619 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.85369 Y: -2.15755
-CannonAngle: 83.9864 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.80609 Y: -2.15755
-CannonAngle: 84.5397 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.75697 Y: -2.15755
-CannonAngle: 84.7856 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.70719 Y: -2.15755
-CannonAngle: 85.0357 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.65757 Y: -2.15755
-CannonAngle: 85.2918 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.60787 Y: -2.15755
-CannonAngle: 85.5816 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.55719 Y: -2.15755
-CannonAngle: 85.534 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.50695 Y: -2.15755
-CannonAngle: 85.5116 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.45877 Y: -2.15755
-CannonAngle: 85.4899 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.40796 Y: -2.15755
-CannonAngle: 85.4709 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.35937 Y: -2.15755
-CannonAngle: 85.4487 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.30944 Y: -2.15755
-CannonAngle: 85.4293 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.25799 Y: -2.15755
-CannonAngle: 85.4084 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 7.21027 Y: -2.15755
-CannonAngle: 85.3857 Firing: 0
+Preparing to send Position with X: -6.53598 Y: 1.99024
+CannonAngle: -243.951 Firing: 0
 Sent PositionError recieving from the server 
 
 My ID: 0
-Preparing to send Position with X: 7.15956 Y: -2.15755
-CannonAngle: 85.3678 Firing: 0
+Preparing to send Position with X: -6.504 Y: 2.02595
+CannonAngle: -250.336 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 7.10907 Y: -2.15755
-CannonAngle: 85.3461 Firing: 0
+Preparing to send Position with X: -6.46891 Y: 2.06268
+CannonAngle: -260.407 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 7.06079 Y: -2.15755
-CannonAngle: 85.3249 Firing: 0
+Preparing to send Position with X: -6.43492 Y: 2.09732
+CannonAngle: 83.4425 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: 7.00988 Y: -2.15755
-CannonAngle: 85.3066 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 6.96177 Y: -2.15755
-CannonAngle: 85.7859 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 6.91101 Y: -2.15755
-CannonAngle: 85.9588 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 6.86237 Y: -2.15755
-CannonAngle: 86.1356 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 6.81267 Y: -2.15755
-CannonAngle: 86.2411 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 6.76297 Y: -2.15755
-CannonAngle: 86.2836 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 6.71325 Y: -2.15755
-CannonAngle: 86.2687 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 6.66285 Y: -2.15755
-CannonAngle: 86.254 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 6.61387 Y: -2.15755
-CannonAngle: 86.2389 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 6.56413 Y: -2.15755
-CannonAngle: 86.2252 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 6.51308 Y: -2.15755
-CannonAngle: 86.211 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 6.46231 Y: -2.15755
-CannonAngle: 86.1958 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 6.41507 Y: -2.15755
-CannonAngle: 86.181 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 6.36358 Y: -2.15755
-CannonAngle: 86.1695 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 6.31511 Y: -2.15755
-CannonAngle: 86.1543 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 6.26597 Y: -2.15755
-CannonAngle: 86.1421 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 6.21623 Y: -2.15755
-CannonAngle: 86.1294 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 6.16657 Y: -2.15755
-CannonAngle: 86.1163 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 6.11495 Y: -2.15755
-CannonAngle: 86.1034 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 6.06701 Y: -2.15755
-CannonAngle: 86.0889 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 6.01614 Y: -2.15755
-CannonAngle: 86.0778 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 5.96777 Y: -2.15755
-CannonAngle: 86.0643 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 5.91797 Y: -2.15755
-CannonAngle: 86.0532 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 5.86707 Y: -2.15755
-CannonAngle: 86.0409 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 5.81867 Y: -2.15755
-CannonAngle: 86.0276 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 5.76832 Y: -2.15755
-CannonAngle: 86.0169 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 5.71927 Y: -2.15755
-CannonAngle: 86.0045 Firing: 0
-Error recieving from the server 
-Sent Position
-My ID: 0
-Preparing to send Position with X: 5.66954 Y: -2.15755
-CannonAngle: 85.9934 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 5.61879 Y: -2.15755
-CannonAngle: 85.9818 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 5.57017 Y: -2.15755
-CannonAngle: 85.9693 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 5.52047 Y: -2.15755
-CannonAngle: 85.959 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 5.4703 Y: -2.15755
-CannonAngle: 85.9478 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 5.41939 Y: -2.15755
-CannonAngle: 85.9362 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 5.37138 Y: -2.15755
-CannonAngle: 85.924 Firing: 0
-Error recieving from the server 
-Sent Position
-My ID: 0
-Preparing to send Position with X: 5.32068 Y: -2.15755
-CannonAngle: 85.9148 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 5.26986 Y: -2.15755
-CannonAngle: 85.9031 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 5.22199 Y: -2.15755
-CannonAngle: 85.8913 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 5.17254 Y: -2.15755
-CannonAngle: 85.8825 Firing: 0
+Preparing to send Position with X: -6.39948 Y: 2.13303
+CannonAngle: 71.5508 Firing: 0
 Sent PositionError recieving from the server 
 
 My ID: 0
-Preparing to send Position with X: 5.12287 Y: -2.15755
-CannonAngle: 85.8723 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 5.07317 Y: -2.15755
-CannonAngle: 85.862 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 5.02347 Y: -2.15755
-CannonAngle: 85.8517 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 4.97365 Y: -2.15755
-CannonAngle: 85.8416 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 4.92407 Y: -2.15755
-CannonAngle: 85.8314 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 4.87437 Y: -2.15755
-CannonAngle: 85.8215 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 4.82405 Y: -2.15755
-CannonAngle: 85.8117 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 4.77497 Y: -2.15755
-CannonAngle: 85.8012 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 4.72527 Y: -2.15755
-CannonAngle: 85.7921 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 4.67449 Y: -2.15755
-CannonAngle: 85.7825 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 4.62356 Y: -2.15755
-CannonAngle: 85.7718 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 4.57569 Y: -2.15755
-CannonAngle: 85.7611 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 4.52647 Y: -2.15755
-CannonAngle: 85.7536 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 4.47677 Y: -2.15755
-CannonAngle: 85.7448 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 4.42609 Y: -2.15755
-CannonAngle: 85.7356 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 4.37737 Y: -2.15755
-CannonAngle: 85.7254 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 4.32706 Y: -2.15755
-CannonAngle: 85.7174 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 4.27796 Y: -2.15755
-CannonAngle: 85.7077 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 4.22565 Y: -2.15755
-CannonAngle: 85.6994 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 4.17777 Y: -2.15755
-CannonAngle: 85.6878 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 4.12887 Y: -2.15755
-CannonAngle: 85.6809 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 4.07903 Y: -2.15755
-CannonAngle: 85.673 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 4.02809 Y: -2.15755
-CannonAngle: 85.6642 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.97736 Y: -2.15755
-CannonAngle: 85.6542 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.92943 Y: -2.15755
-CannonAngle: 85.6446 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.88038 Y: -2.15755
-CannonAngle: 85.638 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.83067 Y: -2.15755
-CannonAngle: 85.6303 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.7793 Y: -2.15755
-CannonAngle: 85.6219 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.73127 Y: -2.15755
-CannonAngle: 85.6117 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.68067 Y: -2.15755
-CannonAngle: 85.6529 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.62987 Y: -2.15755
-CannonAngle: 85.6906 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.58188 Y: -2.15755
-CannonAngle: 85.7501 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.53247 Y: -2.15755
-CannonAngle: 85.7889 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.48278 Y: -2.15755
-CannonAngle: 85.8256 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.43307 Y: -2.15755
-CannonAngle: 85.84 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.38337 Y: -2.15755
-CannonAngle: 85.8543 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.33319 Y: -2.15755
-CannonAngle: 85.8687 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.28246 Y: -2.15755
-CannonAngle: 85.8614 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.23427 Y: -2.15755
-CannonAngle: 85.8536 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.18392 Y: -2.15755
-CannonAngle: 85.8484 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.13273 Y: -2.15755
-CannonAngle: 85.8411 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.08512 Y: -2.15755
-CannonAngle: 85.8331 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 3.03352 Y: -2.15755
-CannonAngle: 85.8286 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.98339 Y: -2.15755
-CannonAngle: 85.8203 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.93607 Y: -2.15755
-CannonAngle: 85.8135 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.88462 Y: -2.15755
-CannonAngle: 85.8095 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.83661 Y: -2.15755
-CannonAngle: 85.8015 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.78595 Y: -2.15755
-CannonAngle: 85.797 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.73478 Y: -2.15755
-CannonAngle: 85.7898 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.68692 Y: -2.15755
-CannonAngle: 85.7823 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.63787 Y: -2.15755
-CannonAngle: 85.778 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.58813 Y: -2.15755
-CannonAngle: 85.7727 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.53753 Y: -2.15755
-CannonAngle: 85.7667 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.48878 Y: -2.15755
-CannonAngle: 85.7599 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.43878 Y: -2.15755
-CannonAngle: 85.755 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.38937 Y: -2.15755
-CannonAngle: 85.7488 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.33967 Y: -2.15755
-CannonAngle: 85.7433 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.28997 Y: -2.15755
-CannonAngle: 85.7376 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.24027 Y: -2.15755
-CannonAngle: 85.7319 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.19026 Y: -2.15755
-CannonAngle: 85.7262 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.14087 Y: -2.15755
-CannonAngle: 85.7203 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.09117 Y: -2.15755
-CannonAngle: 85.715 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 2.04086 Y: -2.15755
-CannonAngle: 85.7095 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.99177 Y: -2.15755
-CannonAngle: 85.7033 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.94182 Y: -2.15755
-CannonAngle: 85.6985 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.89138 Y: -2.15755
-CannonAngle: 85.6928 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.84267 Y: -2.15755
-CannonAngle: 85.6866 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.79214 Y: -2.15755
-CannonAngle: 85.6823 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.74327 Y: -2.15755
-CannonAngle: 85.676 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.69355 Y: -2.15755
-CannonAngle: 85.6716 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.64241 Y: -2.15755
-CannonAngle: 85.6663 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.59417 Y: -2.15755
-CannonAngle: 85.6595 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.54426 Y: -2.15755
-CannonAngle: 85.6558 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.49477 Y: -2.15755
-CannonAngle: 85.6503 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.44507 Y: -2.15755
-CannonAngle: 85.6453 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.39537 Y: -2.15755
-CannonAngle: 85.6402 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.34567 Y: -2.15755
-CannonAngle: 85.635 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.29589 Y: -2.15755
-CannonAngle: 85.6299 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.24511 Y: -2.15755
-CannonAngle: 85.6247 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.19657 Y: -2.15755
-CannonAngle: 85.6184 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.14599 Y: -2.15755
-CannonAngle: 85.6146 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.09717 Y: -2.15755
-CannonAngle: 85.6086 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 1.04732 Y: -2.15755
-CannonAngle: 85.6045 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.997774 Y: -2.15755
-CannonAngle: 85.5993 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.948072 Y: -2.15755
-CannonAngle: 85.5944 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.898371 Y: -2.15755
-CannonAngle: 85.5894 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.848672 Y: -2.15755
-CannonAngle: 85.5844 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.79897 Y: -2.15755
-CannonAngle: 85.5794 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.748298 Y: -2.15755
-CannonAngle: 85.5744 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.699574 Y: -2.15755
-CannonAngle: 85.5684 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.649332 Y: -2.15755
-CannonAngle: 85.5645 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.598442 Y: -2.15755
-CannonAngle: 85.559 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.550473 Y: -2.15755
-CannonAngle: 85.5527 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.500774 Y: -2.15755
-CannonAngle: 85.5497 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.451073 Y: -2.15755
-CannonAngle: 85.5447 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.400937 Y: -2.15755
-CannonAngle: 85.5398 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.351673 Y: -2.15755
-CannonAngle: 85.5344 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.301973 Y: -2.15755
-CannonAngle: 85.5299 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.252272 Y: -2.15755
-CannonAngle: 85.525 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.202575 Y: -2.15755
-CannonAngle: 85.5201 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.152469 Y: -2.15755
-CannonAngle: 85.5152 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.103174 Y: -2.15755
-CannonAngle: 85.5098 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.0534727 Y: -2.15755
-CannonAngle: 85.5053 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0.00295413 Y: -2.15755
-CannonAngle: 85.5004 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.0459284 Y: -2.15755
-CannonAngle: 85.4946 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.0958025 Y: -2.15755
-CannonAngle: 85.4906 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.146721 Y: -2.15755
-CannonAngle: 85.4854 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.195028 Y: -2.15755
-CannonAngle: 85.4791 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.24544 Y: -2.15755
-CannonAngle: 85.4757 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.294429 Y: -2.15755
-CannonAngle: 85.47 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.344126 Y: -2.15755
-CannonAngle: 85.4658 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.393824 Y: -2.15755
-CannonAngle: 85.4609 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.44353 Y: -2.15755
-CannonAngle: 85.4559 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.493722 Y: -2.15755
-CannonAngle: 85.4509 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.542958 Y: -2.15755
-CannonAngle: 85.4454 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.592767 Y: -2.15755
-CannonAngle: 85.4409 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.642326 Y: -2.15755
-CannonAngle: 85.4357 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.692025 Y: -2.15755
-CannonAngle: 85.4309 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.741727 Y: -2.15755
-CannonAngle: 85.4258 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.791429 Y: -2.15755
-CannonAngle: 85.4208 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.84114 Y: -2.15755
-CannonAngle: 85.4157 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.890851 Y: -2.15755
-CannonAngle: 85.4106 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.942492 Y: -2.15755
-CannonAngle: 85.4055 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.990479 Y: -2.15755
-CannonAngle: 85.3981 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.04134 Y: -2.15755
-CannonAngle: 85.395 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.08962 Y: -2.15755
-CannonAngle: 85.3885 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.13933 Y: -2.15755
-CannonAngle: 85.3851 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.19095 Y: -2.15755
-CannonAngle: 85.3799 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.23875 Y: -2.15755
-CannonAngle: 85.3724 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.28963 Y: -2.15755
-CannonAngle: 85.3159 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.33813 Y: -2.15755
-CannonAngle: 84.8898 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.38783 Y: -2.15755
-CannonAngle: 84.0735 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.43756 Y: -2.15755
-CannonAngle: 82.5129 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.48722 Y: -2.15755
-CannonAngle: 80.4027 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.53692 Y: -2.15755
-CannonAngle: 77.1225 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.58881 Y: -2.15755
-CannonAngle: 69.582 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.63662 Y: -2.15755
-CannonAngle: 63.6784 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.6877 Y: -2.15755
-CannonAngle: 56.0761 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.73573 Y: -2.15755
-CannonAngle: 49.7225 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.78635 Y: -2.15755
-CannonAngle: 43.1431 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.83513 Y: -2.15755
-CannonAngle: 39.0198 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.885 Y: -2.15755
-CannonAngle: 34.5402 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.93583 Y: -2.15755
-CannonAngle: 31.505 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 27.8645 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 25.466 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 24.1933 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 22.5229 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 21.2068 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 19.3815 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 18.8313 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 18.3309 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 18.3317 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 18.7125 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 19.0154 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 19.3531 Firing: 0
+Preparing to send Position with X: -6.36483 Y: 2.1678
+CannonAngle: 60.2079 Firing: 0
 Sent PositionError recieving from the server 
 
 My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 19.5754 Firing: 0
+Preparing to send Position with X: -6.32971 Y: 2.20297
+CannonAngle: 53.637 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 19.7866 Firing: 0
+Preparing to send Position with X: -6.29457 Y: 2.23812
+CannonAngle: 49.6061 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 19.741 Firing: 0
+Preparing to send Position with X: -6.25785 Y: 2.27485
+CannonAngle: 48.1204 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 19.9364 Firing: 0
+Preparing to send Position with X: -6.12075 Y: 2.41197
+CannonAngle: 48.6254 Firing: 0
+Error recieving from the server 
+Sent Position
+My ID: 0
+Preparing to send Position with X: -6.0856 Y: 2.44712
+CannonAngle: 49.6759 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 20.0857 Firing: 0
+Preparing to send Position with X: -6.04838 Y: 2.48434
+CannonAngle: 49.9701 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 20.3293 Firing: 0
+Preparing to send Position with X: -6.0153 Y: 2.51742
+CannonAngle: 50.2754 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.98017 Y: 2.55255
+CannonAngle: 50.546 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.94469 Y: 2.58804
+CannonAngle: 50.2087 Firing: 0
 Sent PositionError recieving from the server 
 
 My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 20.533 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 20.9183 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 21.1664 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 21.6244 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 22.128 Firing: 0
+Preparing to send Position with X: -5.90877 Y: 2.62396
+CannonAngle: 49.6324 Firing: 0
 Sent PositionError recieving from the server 
 
 My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 22.4419 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 22.8794 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 23.3645 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 23.6617 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 24.1351 Firing: 0
+Preparing to send Position with X: -5.87474 Y: 2.65798
+CannonAngle: 49.4926 Firing: 0
 Sent PositionError recieving from the server 
 
 My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 24.5458 Firing: 0
+Preparing to send Position with X: -5.82799 Y: 2.65798
+CannonAngle: 49.5922 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 25.0066 Firing: 0
+Preparing to send Position with X: -5.77919 Y: 2.65798
+CannonAngle: 49.755 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 25.282 Firing: 0
+Preparing to send Position with X: -5.72925 Y: 2.65798
+CannonAngle: 49.9197 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 25.4896 Firing: 0
+Preparing to send Position with X: -5.6798 Y: 2.65798
+CannonAngle: 50.0833 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 25.6946 Firing: 0
+Preparing to send Position with X: -5.62746 Y: 2.65798
+CannonAngle: 50.2404 Firing: 0
+Sent PositionError recieving from the server 
+
+My ID: 0
+Preparing to send Position with X: -5.57962 Y: 2.65798
+CannonAngle: 50.6559 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 25.8971 Firing: 0
+Preparing to send Position with X: -5.52875 Y: 2.65798
+CannonAngle: 50.9676 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 26.0972 Firing: 0
+Preparing to send Position with X: -5.48083 Y: 2.65798
+CannonAngle: 51.3695 Firing: 0
 Sent Position
 Error recieving from the server 
 My ID: 0
-Preparing to send Position with X: -1.98678 Y: -2.15755
-CannonAngle: 26.2947 Firing: 0
+Preparing to send Position with X: -5.43 Y: 2.65798
+CannonAngle: 51.672 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.38007 Y: 2.65798
+CannonAngle: 51.9111 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.32926 Y: 2.65798
+CannonAngle: 52.1435 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.2814 Y: 2.65798
+CannonAngle: 52.2881 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.2814 Y: 2.65798
+CannonAngle: 52.3998 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.2814 Y: 2.65798
+CannonAngle: 52.3623 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.2814 Y: 2.65798
+CannonAngle: 52.2551 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.2814 Y: 2.65798
+CannonAngle: 52.2106 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.2814 Y: 2.65798
+CannonAngle: 52.1627 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.2814 Y: 2.65798
+CannonAngle: 52.1113 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.2814 Y: 2.65798
+CannonAngle: 52.0564 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.2814 Y: 2.65798
+CannonAngle: 51.998 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.2814 Y: 2.65798
+CannonAngle: 51.9362 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.2814 Y: 2.65798
+CannonAngle: 51.8709 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.2814 Y: 2.65798
+CannonAngle: 51.8022 Firing: 0
+Sent PositionError recieving from the server 
+
+My ID: 0
+Preparing to send Position with X: -5.2814 Y: 2.65798
+CannonAngle: 51.412 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.2814 Y: 2.65798
+CannonAngle: 51.1869 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.2814 Y: 2.65798
+CannonAngle: 51.0259 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.2814 Y: 2.65798
+CannonAngle: 50.9446 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.2814 Y: 2.65798
+CannonAngle: 50.86 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.2814 Y: 2.65798
+CannonAngle: 50.772 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.2814 Y: 2.65798
+CannonAngle: 50.6807 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.2814 Y: 2.65798
+CannonAngle: 50.5861 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.2814 Y: 2.65798
+CannonAngle: 50.4883 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.2814 Y: 2.65798
+CannonAngle: 50.3871 Firing: 0
+Sent Position
+Error recieving from the server 
+My ID: 0
+Preparing to send Position with X: -5.2814 Y: 2.65798
+CannonAngle: 50.2826 Firing: 0
 Sent Position
 Error recieving from the server 

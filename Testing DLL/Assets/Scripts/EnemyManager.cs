@@ -17,7 +17,7 @@ public class EnemyManager : MonoBehaviour
 
 	// Enemies
 	List<GameObject> enemies;
-    GameObject enemyPref;
+    public GameObject enemyPref;
 	DLLManager.PlayerPacket receivedPacket;
 
 	DLLManager dllManager;
@@ -40,6 +40,9 @@ public class EnemyManager : MonoBehaviour
 			IntPtr receivedPtr = PacketGet(); // Pops the packet off the queue of them
 			Marshal.PtrToStructure(receivedPtr, receivedPacket);
 
+			Debug.Log("ID Received : " + receivedPacket.id);
+
+			// ensure that it's not our id
 			if (receivedPacket.id != dllManager.id)
 			{
 				// Check to see if we should update an enemy
