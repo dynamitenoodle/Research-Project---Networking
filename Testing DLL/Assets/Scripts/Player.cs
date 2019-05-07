@@ -19,15 +19,16 @@ public class Player : MonoBehaviour {
     float shotTimer;
     public float shotTimerMax = 1f;
     [HideInInspector] public bool firing;
+	public int bulletCountMax = 5;
+	List<GameObject> bullets;
 
-    // sets how far the player can go
-    float minX;
+	// sets how far the player can go
+	float minX;
     float minY;
     float maxX;
     float maxY;
 
     // Lists
-    List<GameObject> bullets;
     List<GameObject> obstacles;
 
     // properties
@@ -121,7 +122,7 @@ public class Player : MonoBehaviour {
         CannonUpdate();
 
         // Shooting Method
-        if (shotTimer >= shotTimerMax)
+        if (shotTimer >= shotTimerMax && bullets.Count < bulletCountMax)
         {
             if (Input.GetMouseButtonDown(0))
             {

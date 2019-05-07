@@ -48,6 +48,7 @@ MonoBehaviour:
   speed: 5
   direction: {x: 0, y: 0, z: 0}
   lifeTimeMax: 10
+  bouncesMax: 3
 --- !u!212 &8173524840349929893
 SpriteRenderer:
   m_ObjectHideFlags: 0

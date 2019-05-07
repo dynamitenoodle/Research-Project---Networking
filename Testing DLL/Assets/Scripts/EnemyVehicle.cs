@@ -15,4 +15,11 @@ public class EnemyVehicle : MonoBehaviour
     {
         transform.position = position;
     }
+
+	public void SetInformation(DLLManager.PlayerPacket receivedPacket)
+	{
+		position = new Vector3(receivedPacket.xPos, receivedPacket.yPos, position.z);
+		cannonAngle = receivedPacket.cannonAngle;
+		firing = receivedPacket.firing;
+	}
 }
