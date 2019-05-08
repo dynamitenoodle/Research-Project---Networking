@@ -28,6 +28,7 @@ public class EnemyManager : MonoBehaviour
     {
         dllManager = GameObject.Find("Network Manager").GetComponent<DLLManager>();
 		player = GameObject.Find("Player").GetComponent<Player>();
+		enemies = new List<GameObject>();
     }
 
     // Update is called once per frame
@@ -38,9 +39,11 @@ public class EnemyManager : MonoBehaviour
 		{
 			// get the size of the struct
 			IntPtr receivedPtr = PacketGet(); // Pops the packet off the queue of them
-			Marshal.PtrToStructure(receivedPtr, receivedPacket);
+			//Marshal.PtrToStructure(receivedPtr, receivedPacket);
+			receivedPacket = (DLLManager.PlayerPacket)Marshal.PtrToStructure(receivedPtr, typeof(DLLManager.PlayerPacket));
 
-			Debug.Log("ID Received : " + receivedPacket.id);
+			Debug.Log("XPOS: " + receivedPacket.xPos + " YPOS: " + receivedPacket.yPos + " CannonAngle: " + receivedPacket.cannonAngle + " Firing: " + receivedPacket.firing);
+			//Debug.Log("ID Received : " + receivedPacket.id);
 
 			// ensure that it's not our id
 			if (receivedPacket.id != dllManager.id)

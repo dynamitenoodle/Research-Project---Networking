@@ -129,7 +129,7 @@ extern "C"
 			if (myInfo.serverStatus.sts == 'p')
 			{
 				// convert the payload back to a posPacket
-				posPacket* received = (posPacket*)&myInfo.serverStatus.payload;
+				posPacket* received = (posPacket*)myInfo.serverStatus.payload;
 
 				packetQueue.Push(received);
 
@@ -142,9 +142,9 @@ extern "C"
 			else if (myInfo.serverStatus.sts == 'c')
 			{
 				string myPayload(myInfo.serverStatus.payload);
-				myInfo.playerID = (int)myInfo.serverStatus.payload;
+				//myInfo.playerID = (int)myInfo.serverStatus.payload;
 				myInfo.myfile << "Connect status received" << endl;
-				myInfo.myfile << "My ID is : " << myInfo.playerID << endl;
+				//myInfo.myfile << "My ID is : " << myInfo.playerID << endl;
 			}
 
 			// If we receive an unknown Packet
@@ -165,18 +165,24 @@ extern "C"
 	{
 		// creates the player position packet
 		posPacket* playerPacket = (posPacket*)data;
-		playerPacket->id = myInfo.playerID; 
+		//playerPacket->id = myInfo.playerID; 
 		
-		myInfo.myfile << "My ID: " << playerPacket->id << endl;
-		myInfo.myfile << "Preparing to send Position with X: " << playerPacket->xPos << " Y: " << playerPacket->yPos << endl;
-		myInfo.myfile << "CannonAngle: " << playerPacket->cannonAngle << " Firing: " << playerPacket->firing << endl;
+		//myInfo.myfile << "My ID: " << playerPacket->id << endl;
+		//myInfo.myfile << "Preparing to send Position with X: " << playerPacket->xPos << " Y: " << playerPacket->yPos << endl;
+		//myInfo.myfile << "CannonAngle: " << playerPacket->cannonAngle << " Firing: " << playerPacket->firing << endl;
 
 		// create the position sending command
 		command pos;
 		ZeroMemory((char*)&pos, 128);
 		pos.cmd = 'p';
 
-		memcpy(pos.payload, (char*)&playerPacket, 127);
+		memcpy(pos.payload, (char*)playerPacket, 127);
+
+		playerPacket = (posPacket*)&pos.payload;
+
+		myInfo.myfile << "My ID: " << playerPacket->id << endl;
+		myInfo.myfile << "Preparing to send Position with X: " << playerPacket->xPos << " Y: " << playerPacket->yPos << endl;
+		myInfo.myfile << "CannonAngle: " << playerPacket->cannonAngle << " Firing: " << playerPacket->firing << endl;
 
 		// sends the players position to the server
 		int testSend = sendto(myInfo.serverSocket, (char*)&pos, 128, 0, (sockaddr*)&myInfo.serverHint, myInfo.serverLength);

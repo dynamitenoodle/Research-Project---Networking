@@ -40,8 +40,10 @@ public class DLLManager : MonoBehaviour {
 	{
         player = GameObject.Find("Player");
 
+		id = UnityEngine.Random.Range(0, 1000000);
+
 		// Testing the connection
-		if(Connect(IP[0], IP[1], IP[2], IP[3], port))
+		if (Connect(IP[0], IP[1], IP[2], IP[3], port))
         {
             //Debug.Log("Connection Successful");
 
@@ -66,6 +68,7 @@ public class DLLManager : MonoBehaviour {
 	{
         // Create the struct packet
         PlayerPacket pack = new PlayerPacket();
+		pack.id = id;
         pack.xPos = player.transform.position.x;
         pack.yPos = player.transform.position.y;
         pack.cannonAngle = player.GetComponent<Player>().cannonAngle;
