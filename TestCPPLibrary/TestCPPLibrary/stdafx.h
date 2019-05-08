@@ -31,6 +31,7 @@ struct posPacket
 	int id;
 	float xPos;
 	float yPos;
+	float angleZ;
 	float cannonAngle;
 	bool firing;
 };

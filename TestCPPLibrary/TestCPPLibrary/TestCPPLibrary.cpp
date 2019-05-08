@@ -165,7 +165,7 @@ extern "C"
 	{
 		// creates the player position packet
 		posPacket* playerPacket = (posPacket*)data;
-		//playerPacket->id = myInfo.playerID; 
+		//playerPacket->id = myInfo.playerID;
 		
 		//myInfo.myfile << "My ID: " << playerPacket->id << endl;
 		//myInfo.myfile << "Preparing to send Position with X: " << playerPacket->xPos << " Y: " << playerPacket->yPos << endl;
@@ -182,7 +182,7 @@ extern "C"
 
 		myInfo.myfile << "My ID: " << playerPacket->id << endl;
 		myInfo.myfile << "Preparing to send Position with X: " << playerPacket->xPos << " Y: " << playerPacket->yPos << endl;
-		myInfo.myfile << "CannonAngle: " << playerPacket->cannonAngle << " Firing: " << playerPacket->firing << endl;
+		myInfo.myfile << "CannonAngle: " << playerPacket->cannonAngle << " Firing: " << playerPacket->firing << endl << " AngleZ: " << playerPacket->angleZ;
 
 		// sends the players position to the server
 		int testSend = sendto(myInfo.serverSocket, (char*)&pos, 128, 0, (sockaddr*)&myInfo.serverHint, myInfo.serverLength);

@@ -8,6 +8,7 @@ public class EnemyVehicle : MonoBehaviour
     [HideInInspector] public int playerID;
     [HideInInspector] public Vector3 position;
     [HideInInspector] public float cannonAngle;
+    [HideInInspector] public float angleZ;
 	[HideInInspector] public bool firing;
 	public GameObject bulletPrefab;
 	GameObject cannon;
@@ -25,6 +26,7 @@ public class EnemyVehicle : MonoBehaviour
     {
 		// updates information
         transform.position = position;
+		transform.rotation = Quaternion.Euler(new Vector3(0, 0, angleZ));
 		cannon.transform.rotation = Quaternion.Euler(new Vector3(0, 0, cannonAngle));
 		cannon.transform.position = transform.position;
 
@@ -50,5 +52,6 @@ public class EnemyVehicle : MonoBehaviour
 		position = new Vector3(receivedPacket.xPos, receivedPacket.yPos, position.z);
 		cannonAngle = receivedPacket.cannonAngle;
 		firing = receivedPacket.firing;
+		angleZ = receivedPacket.angleZ;
 	}
 }

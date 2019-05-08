@@ -31,6 +31,7 @@ public class DLLManager : MonoBehaviour {
         public int id;
         public float xPos;
         public float yPos;
+		public float angleZ;
         public float cannonAngle;
         public bool firing;
     }
@@ -71,6 +72,7 @@ public class DLLManager : MonoBehaviour {
 		pack.id = id;
         pack.xPos = player.transform.position.x;
         pack.yPos = player.transform.position.y;
+		pack.angleZ = player.transform.rotation.eulerAngles.z;
         pack.cannonAngle = player.GetComponent<Player>().cannonAngle;
         pack.firing = player.GetComponent<Player>().firing;
         if (pack.firing)
