@@ -46,6 +46,7 @@ public class EnemyVehicle : MonoBehaviour
 	// Sets the values of the enemy
 	public void SetInformation(DLLManager.PlayerPacket receivedPacket)
 	{
+		playerID = receivedPacket.id;
 		position = new Vector3(receivedPacket.xPos, receivedPacket.yPos, position.z);
 		cannonAngle = receivedPacket.cannonAngle;
 		firing = receivedPacket.firing;
