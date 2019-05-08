@@ -12,8 +12,6 @@ using namespace NetworkInfo;
 
 extern "C" 
 {
-	Queue<posPacket*> packetQueue;
-
 	bool __declspec(dllexport) Connect(int ip0, int ip1, int ip2, int ip3, int port)
 	{
 		

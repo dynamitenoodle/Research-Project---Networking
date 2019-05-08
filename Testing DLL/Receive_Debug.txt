@@ -1,1512 +1,4201 @@
 Preparing to receive
-Error recieving from the server 
 My ID: 0
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
+CannonAngle: -223.41 Firing: 0
 Sent Position
-Error recieving from the server 
 My ID: 0
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
+CannonAngle: -223.659 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
-Sent PositionError recieving from the server 
+Connect status received
+My ID is : 1648007817
 
-My ID: 0
+Received ID : 1398449920 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1083942048 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
+CannonAngle: -235.933 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
+My ID: 1648007817
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
+CannonAngle: -235.925 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
+Received ID : 985121952 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
+CannonAngle: -235.917 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
+My ID: 1648007817
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
+CannonAngle: -236.272 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
+Received ID : 985097632 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
+CannonAngle: -238.115 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
+Received ID : 985105184 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
-Error recieving from the server 
+CannonAngle: -241.649 Firing: 0
 Sent Position
-My ID: 0
+Received ID : 985108800 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
+CannonAngle: -244.05 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
+Received ID : 985106112 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
-Sent PositionError recieving from the server 
+CannonAngle: -248.446 Firing: 0
+Sent Position
+Received ID : 985106112 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
+My ID: 1648007817
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
+CannonAngle: -253.324 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
+Received ID : 985108928 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
+CannonAngle: -260.921 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
+Received ID : 985111616 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
+CannonAngle: -265.713 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
+Received ID : 985111104 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
-Error recieving from the server 
+CannonAngle: 88.1265 Firing: 0
 Sent Position
-My ID: 0
+Received ID : 985111904 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
-Sent PositionError recieving from the server 
+CannonAngle: 83.702 Firing: 0
+Sent Position
+Received ID : 985114016 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
+My ID: 1648007817
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
+CannonAngle: 79.1593 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
+Received ID : 985113664 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
+CannonAngle: 76.2291 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
+Received ID : 985115328 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
-Sent PositionError recieving from the server 
+CannonAngle: 73.5247 Firing: 0
+Sent Position
+Received ID : 985120800 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
+My ID: 1648007817
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
+CannonAngle: 72.2923 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
+Received ID : 985138464 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
+CannonAngle: 71.4801 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
+Received ID : 985141568 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.8173 Firing: 0
+CannonAngle: 70.6952 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
+Received ID : 985096576 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.2692 Firing: 0
+CannonAngle: 70.5287 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
+Received ID : 985143136 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 36.8116 Firing: 0
+CannonAngle: 70.3637 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
+My ID: 1648007817
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 36.8668 Firing: 0
+CannonAngle: 69.8434 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
+My ID: 1648007817
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 37.0098 Firing: 0
+CannonAngle: 69.6841 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0.0496992
-CannonAngle: 36.139 Firing: 0
+My ID: 1648007817
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 69.8768 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0.104089
-CannonAngle: 35.6272 Firing: 0
-Sent PositionError recieving from the server 
+My ID: 1648007817
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 69.7173 Firing: 0
+Sent Position
+Received ID : 1074022912 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0.162128
-CannonAngle: 32.6844 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0.211838
-CannonAngle: 32.4101 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0.261534
-CannonAngle: 32.3416 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0.312737
-CannonAngle: 33.5242 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0.360935
-CannonAngle: 36.8151 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0.410635
-CannonAngle: 40.1053 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0.4625
-CannonAngle: 43.0148 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0.51023
-CannonAngle: 45.8944 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0.561188
-CannonAngle: 48.2162 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0.609435
-CannonAngle: 50.9472 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0.659135
-CannonAngle: 53.3707 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0.710803
-CannonAngle: 55.7359 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0.758618
-CannonAngle: 57.8603 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0.809412
-CannonAngle: 60.3939 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0.857935
-CannonAngle: 62.6893 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0.908202
-CannonAngle: 65.7067 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 0.957336
-CannonAngle: 68.6188 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 1.00704
-CannonAngle: 71.3709 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 1.05775
-CannonAngle: 74.4058 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: 0 Y: 1.10644
-CannonAngle: 76.9946 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.0224076 Y: 1.15125
-CannonAngle: 80.2888 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.0523335 Y: 1.19043
-CannonAngle: 83.1713 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.0854866 Y: 1.22745
-CannonAngle: 85.3596 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.120475 Y: 1.26407
-CannonAngle: 87.327 Firing: 0
-Sent PositionError recieving from the server 
+Received ID : 1074049024 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -0.15462 Y: 1.29887
-CannonAngle: 88.4777 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.189862 Y: 1.33439
-CannonAngle: 89.5437 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.22568 Y: 1.37032
-CannonAngle: 89.9231 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.259829 Y: 1.40452
-CannonAngle: 89.9825 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.294971 Y: 1.43968
-CannonAngle: -269.979 Firing: 0
-Sent PositionError recieving from the server 
+Received ID : 1074020128 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -0.331505 Y: 1.47622
-CannonAngle: -269.921 Firing: 0
+My ID: 1648007817
+Preparing to send Position with X: -0.059494 Y: 0
+CannonAngle: 69.9051 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.365289 Y: 1.51001
-CannonAngle: -269.838 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.400391 Y: 1.54511
-CannonAngle: 89.8898 Firing: 0
-Sent PositionError recieving from the server 
+Received ID : 1083962880 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -0.435528 Y: 1.58025
-CannonAngle: 89.3677 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.471062 Y: 1.61578
-CannonAngle: 88.933 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.505816 Y: 1.65054
-CannonAngle: 89.0671 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.540986 Y: 1.68571
-CannonAngle: 89.1747 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.576866 Y: 1.72159
-CannonAngle: 89.7498 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.611246 Y: 1.75597
-CannonAngle: -269.472 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.646732 Y: 1.79145
-CannonAngle: -268.734 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.68156 Y: 1.82628
-CannonAngle: -268.206 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.716675 Y: 1.8614
-CannonAngle: -267.462 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.752559 Y: 1.89728
-CannonAngle: -267.154 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -0.786959 Y: 1.93168
-CannonAngle: -265.729 Firing: 0
-Sent PositionError recieving from the server 
+Received ID : 1075541088 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -0.82226 Y: 1.96698
-CannonAngle: -265.202 Firing: 0
-Sent PositionError recieving from the server 
+Received ID : 1075562752 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -0.857249 Y: 2.00197
-CannonAngle: -263.926 Firing: 0
-Sent PositionError recieving from the server 
+My ID: 1648007817
+Preparing to send Position with X: -0.113362 Y: 0
+CannonAngle: 69.6136 Firing: 0
+Sent Position
+Received ID : 1075566368 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -0.989576 Y: 2.1343
-CannonAngle: -258.511 Firing: 0
+My ID: 1648007817
+Preparing to send Position with X: -0.163368 Y: 0
+CannonAngle: 69.4793 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.03635 Y: 2.1343
-CannonAngle: -256.147 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.08512 Y: 2.1343
-CannonAngle: -255.857 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.13511 Y: 2.1343
-CannonAngle: -256.015 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.18596 Y: 2.1343
-CannonAngle: -255.936 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.23422 Y: 2.1343
-CannonAngle: -255.909 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.2847 Y: 2.1343
-CannonAngle: -255.825 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.33363 Y: 2.1343
-CannonAngle: -255.494 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.3837 Y: 2.1343
-CannonAngle: -255.161 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.43303 Y: 2.1343
-CannonAngle: -254.816 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.48535 Y: 2.1343
-CannonAngle: -254.229 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.5333 Y: 2.1343
-CannonAngle: -253.792 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.58392 Y: 2.1343
-CannonAngle: -253.429 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.63183 Y: 2.1343
-CannonAngle: -253.6 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.68153 Y: 2.1343
-CannonAngle: -253.776 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.73125 Y: 2.1343
-CannonAngle: -253.943 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.78217 Y: 2.1343
-CannonAngle: -254.106 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.8307 Y: 2.1343
-CannonAngle: -254.261 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.88055 Y: 2.1343
-CannonAngle: -254.42 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.93003 Y: 2.1343
-CannonAngle: -254.571 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -1.98232 Y: 2.1343
-CannonAngle: -254.719 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.03019 Y: 2.1343
-CannonAngle: -254.855 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.08121 Y: 2.1343
-CannonAngle: -254.866 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.12898 Y: 2.1343
-CannonAngle: -254.221 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.17987 Y: 2.1343
-CannonAngle: -253.226 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.22312 Y: 2.15592
-CannonAngle: -251.482 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.26334 Y: 2.18665
-CannonAngle: -249.869 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.29969 Y: 2.21919
-CannonAngle: -247.843 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.33708 Y: 2.25492
-CannonAngle: -246.627 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.37112 Y: 2.28832
-CannonAngle: -245.364 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.40709 Y: 2.32401
-CannonAngle: -244.143 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.44319 Y: 2.35999
-CannonAngle: -243.011 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.47711 Y: 2.39386
-CannonAngle: -241.508 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.51307 Y: 2.4298
-CannonAngle: -240.43 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.54707 Y: 2.4638
-CannonAngle: -239.702 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.5825 Y: 2.49923
-CannonAngle: -239.346 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.61876 Y: 2.53549
-CannonAngle: -238.867 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.6525 Y: 2.56922
-CannonAngle: -238.606 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.68823 Y: 2.60495
-CannonAngle: -238.386 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.72414 Y: 2.64086
-CannonAngle: -237.677 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.75963 Y: 2.67635
-CannonAngle: -237.196 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.7931 Y: 2.70983
-CannonAngle: -236.287 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.82895 Y: 2.74568
-CannonAngle: -235.711 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.86492 Y: 2.78165
-CannonAngle: -235.456 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.8985 Y: 2.81523
-CannonAngle: -234.986 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.93477 Y: 2.85149
-CannonAngle: -234.766 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -2.96879 Y: 2.88551
-CannonAngle: -234.501 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -3.0048 Y: 2.92153
-CannonAngle: -234.27 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -3.03907 Y: 2.9558
-CannonAngle: -234.006 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -3.07444 Y: 2.99116
-CannonAngle: -233.915 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -3.11039 Y: 3.02712
-CannonAngle: -233.658 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -3.14459 Y: 3.06132
-CannonAngle: -233.537 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -3.18013 Y: 3.09685
-CannonAngle: -233.781 Firing: 0
-Sent PositionError recieving from the server 
+Received ID : 1118297568 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -3.21617 Y: 3.13289
-CannonAngle: -234.331 Firing: 0
+My ID: 1648007817
+Preparing to send Position with X: -0.212769 Y: 0
+CannonAngle: 69.3654 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -3.25004 Y: 3.16676
-CannonAngle: -234.858 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -3.28507 Y: 3.2018
-CannonAngle: -236.445 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -3.32022 Y: 3.23694
-CannonAngle: -237.339 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -3.35578 Y: 3.2725
-CannonAngle: -238.459 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -3.40428 Y: 3.2725
-CannonAngle: -239.737 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -3.4565 Y: 3.2725
-CannonAngle: -240.003 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -3.50433 Y: 3.2725
-CannonAngle: -240.755 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -3.69668 Y: 3.2725
-CannonAngle: -240.82 Firing: 0
-Sent PositionError recieving from the server 
+Received ID : 1386651648 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -3.74671 Y: 3.2725
-CannonAngle: -240.019 Firing: 1
+My ID: 1648007817
+Preparing to send Position with X: -0.262468 Y: 0
+CannonAngle: 68.755 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -3.79751 Y: 3.2725
-CannonAngle: -240.153 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -3.84579 Y: 3.2725
-CannonAngle: -240.081 Firing: 0
-Sent PositionError recieving from the server 
+Received ID : 1075069904 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -3.89629 Y: 3.2725
-CannonAngle: -240.654 Firing: 0
+My ID: 1648007817
+Preparing to send Position with X: -0.313017 Y: 0
+CannonAngle: 67.8335 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -3.94519 Y: 3.2725
-CannonAngle: -241.413 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -3.99504 Y: 3.2725
-CannonAngle: -242.384 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -4.04593 Y: 3.2725
-CannonAngle: -242.831 Firing: 0
-Error recieving from the server 
-Sent Position
-My ID: 0
-Preparing to send Position with X: -4.09677 Y: 3.2725
-CannonAngle: -242.752 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -4.14464 Y: 3.2725
-CannonAngle: -242.673 Firing: 0
-Sent PositionError recieving from the server 
+Received ID : 1075070224 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -4.1955 Y: 3.2725
-CannonAngle: -242.607 Firing: 0
+My ID: 1648007817
+Preparing to send Position with X: -0.361867 Y: 0
+CannonAngle: 65.9963 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -4.2434 Y: 3.2725
-CannonAngle: -242.525 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -4.29309 Y: 3.2725
-CannonAngle: -242.457 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -4.34279 Y: 3.2725
-CannonAngle: -242.379 Firing: 0
-Sent PositionError recieving from the server 
+Received ID : 1386655776 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -4.39249 Y: 3.2725
-CannonAngle: -242.3 Firing: 0
+My ID: 1648007817
+Preparing to send Position with X: -0.411716 Y: 0
+CannonAngle: 64.016 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -4.44219 Y: 3.2725
-CannonAngle: -242.22 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -4.4919 Y: 3.2725
-CannonAngle: -242.139 Firing: 0
-Sent PositionError recieving from the server 
+Received ID : 1076253120 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -4.54271 Y: 3.2725
-CannonAngle: -242.057 Firing: 0
+My ID: 1648007817
+Preparing to send Position with X: -0.462567 Y: 0
+CannonAngle: 61.4652 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -4.5913 Y: 3.2725
-CannonAngle: -241.969 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -4.64131 Y: 3.2725
-CannonAngle: -243.247 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -4.69069 Y: 3.2725
-CannonAngle: -244.204 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -4.74039 Y: 3.2725
-CannonAngle: -245.472 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -4.79094 Y: 3.2725
-CannonAngle: -246.612 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -4.83979 Y: 3.2725
-CannonAngle: -247.254 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -4.88972 Y: 3.2725
-CannonAngle: -247.478 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -4.94064 Y: 3.2725
-CannonAngle: -247.396 Firing: 1
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -4.98889 Y: 3.2725
-CannonAngle: -247.31 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.03859 Y: 3.2725
-CannonAngle: -247.235 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.08829 Y: 3.2725
-CannonAngle: -247.155 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.138 Y: 3.2725
-CannonAngle: -247.075 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.18923 Y: 3.2725
-CannonAngle: -247.297 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.23231 Y: 3.25096
-CannonAngle: -248.455 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.27222 Y: 3.22047
-CannonAngle: -249.128 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.31008 Y: 3.18657
-CannonAngle: -249.605 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.34482 Y: 3.15337
-CannonAngle: -249.908 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.3803 Y: 3.11856
-CannonAngle: -250.216 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.41719 Y: 3.08196
-CannonAngle: -250.757 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.45113 Y: 3.04813
-CannonAngle: -251.093 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.48705 Y: 3.01226
-CannonAngle: -251.412 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.5211 Y: 2.97823
-CannonAngle: -251.745 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.55625 Y: 2.94308
-CannonAngle: -252.066 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.5914 Y: 2.90794
-CannonAngle: -252.395 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.62654 Y: 2.8728
-CannonAngle: -252.724 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.66196 Y: 2.83739
-CannonAngle: -253.053 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.69683 Y: 2.80252
-CannonAngle: -253.383 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.73197 Y: 2.76737
-CannonAngle: -253.71 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.76777 Y: 2.73157
-CannonAngle: -254.039 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.80385 Y: 2.69549
-CannonAngle: -254.309 Firing: 1
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.83762 Y: 2.66172
-CannonAngle: -254.809 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.87353 Y: 2.62582
-CannonAngle: -255.069 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.90769 Y: 2.59165
-CannonAngle: -255.407 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.94283 Y: 2.55651
-CannonAngle: -255.73 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.97934 Y: 2.52001
-CannonAngle: -256.061 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.01322 Y: 2.48613
-CannonAngle: -256.401 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.04918 Y: 2.45016
-CannonAngle: -256.721 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.08512 Y: 2.41422
-CannonAngle: -257.056 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.11894 Y: 2.3804
-CannonAngle: -257.339 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.15497 Y: 2.34437
-CannonAngle: -257.605 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.18886 Y: 2.31048
-CannonAngle: -257.892 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 2.09835
-CannonAngle: -258.346 Firing: 0
-Error recieving from the server Sent Position
+Received ID : 1076254784 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 2.05244
-CannonAngle: -260.12 Firing: 0
+My ID: 1648007817
+Preparing to send Position with X: -0.514707 Y: 0
+CannonAngle: 53.1631 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 2.0023
-CannonAngle: -260.648 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 1.95304
-CannonAngle: -261.138 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 1.90334
-CannonAngle: -261.655 Firing: 1
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 1.85281
-CannonAngle: -262.172 Firing: 0
-Sent PositionError recieving from the server 
+Received ID : 1076254080 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 1.80193
-CannonAngle: -262.694 Firing: 0
+My ID: 1648007817
+Preparing to send Position with X: -0.564441 Y: 0
+CannonAngle: 48.0666 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 1.75412
-CannonAngle: -263.245 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 1.70323
-CannonAngle: -263.725 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 1.65484
-CannonAngle: -264.259 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 1.60445
-CannonAngle: -264.755 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 1.55544
-CannonAngle: -265.245 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 1.5057
-CannonAngle: -265.696 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 1.45604
-CannonAngle: -265.948 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 1.40633
-CannonAngle: -266.415 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 1.35617
-CannonAngle: -266.89 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 1.30691
-CannonAngle: -267.349 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 1.25724
-CannonAngle: -267.802 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 1.20656
-CannonAngle: -268.249 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 1.15783
-CannonAngle: -268.241 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 1.15783
-CannonAngle: -267.982 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 1.15783
-CannonAngle: -267.23 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 1.15783
-CannonAngle: -266.494 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 1.15783
-CannonAngle: -265.329 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.40099 Y: 1.15783
-CannonAngle: -264.624 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.35315 Y: 1.15783
-CannonAngle: -264.366 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.30232 Y: 1.15783
-CannonAngle: -264.397 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.25393 Y: 1.15783
-CannonAngle: -264.2 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.27283 Y: 1.15783
-CannonAngle: -264.008 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.27216 Y: 1.15783
-CannonAngle: -263.62 Firing: 0
-Sent PositionError recieving from the server 
+Received ID : 1079574448 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -6.27546 Y: 1.15783
-CannonAngle: -263.191 Firing: 0
+My ID: 1648007817
+Preparing to send Position with X: -0.614136 Y: 0
+CannonAngle: 39.5353 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.27215 Y: 1.15783
-CannonAngle: -262.762 Firing: 0
-Error recieving from the server 
-Sent Position
-My ID: 0
-Preparing to send Position with X: -6.27484 Y: 1.15783
-CannonAngle: -262.541 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.27618 Y: 1.15783
-CannonAngle: -262.124 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.27711 Y: 1.18087
-CannonAngle: -261.312 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.37706 Y: 1.20994
-CannonAngle: -260.132 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.54326 Y: 1.2431
-CannonAngle: -258.721 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.55098 Y: 1.27743
-CannonAngle: -256.734 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.55872 Y: 1.31266
-CannonAngle: -253.722 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.58825 Y: 1.35952
-CannonAngle: -250.577 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.58825 Y: 1.40749
-CannonAngle: -247.352 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.58825 Y: 1.4572
-CannonAngle: -244.163 Firing: 0
-Error recieving from the server Sent Position
+Received ID : 1079574288 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -6.58825 Y: 1.50689
-CannonAngle: -241.417 Firing: 0
+My ID: 1648007817
+Preparing to send Position with X: -0.663812 Y: 0
+CannonAngle: 28.7303 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.58825 Y: 1.55696
-CannonAngle: -239.429 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.58825 Y: 1.6063
-CannonAngle: -237.985 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.58825 Y: 1.656
-CannonAngle: -237.344 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.58825 Y: 1.70569
-CannonAngle: -237.36 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.58825 Y: 1.75539
-CannonAngle: -237.231 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.58825 Y: 1.80529
-CannonAngle: -237.018 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.58825 Y: 1.85626
-CannonAngle: -237.246 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.58825 Y: 1.90703
-CannonAngle: -237.936 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.56684 Y: 1.94985
-CannonAngle: -240.851 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.53598 Y: 1.99024
-CannonAngle: -243.951 Firing: 0
-Sent PositionError recieving from the server 
+Received ID : 1079513616 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -6.504 Y: 2.02595
-CannonAngle: -250.336 Firing: 0
+My ID: 1648007817
+Preparing to send Position with X: -0.713945 Y: 0
+CannonAngle: 17.9584 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.46891 Y: 2.06268
-CannonAngle: -260.407 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.43492 Y: 2.09732
-CannonAngle: 83.4425 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.39948 Y: 2.13303
-CannonAngle: 71.5508 Firing: 0
-Sent PositionError recieving from the server 
+Received ID : 1079516720 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -6.36483 Y: 2.1678
-CannonAngle: 60.2079 Firing: 0
-Sent PositionError recieving from the server 
+My ID: 1648007817
+Preparing to send Position with X: -0.759471 Y: 0.0227627
+CannonAngle: 6.089 Firing: 0
+Sent Position
+Received ID : 1079516752 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -6.32971 Y: 2.20297
-CannonAngle: 53.637 Firing: 0
+My ID: 1648007817
+Preparing to send Position with X: -0.797668 Y: 0.0519428
+CannonAngle: -1.19069 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.29457 Y: 2.23812
-CannonAngle: 49.6061 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.25785 Y: 2.27485
-CannonAngle: 48.1204 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.12075 Y: 2.41197
-CannonAngle: 48.6254 Firing: 0
-Error recieving from the server 
-Sent Position
-My ID: 0
-Preparing to send Position with X: -6.0856 Y: 2.44712
-CannonAngle: 49.6759 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.04838 Y: 2.48434
-CannonAngle: 49.9701 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -6.0153 Y: 2.51742
-CannonAngle: 50.2754 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.98017 Y: 2.55255
-CannonAngle: 50.546 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.94469 Y: 2.58804
-CannonAngle: 50.2087 Firing: 0
-Sent PositionError recieving from the server 
+Received ID : 1076256768 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -5.90877 Y: 2.62396
-CannonAngle: 49.6324 Firing: 0
-Sent PositionError recieving from the server 
+My ID: 1648007817
+Preparing to send Position with X: -0.834692 Y: 0.0850965
+CannonAngle: -6.91126 Firing: 0
+Sent Position
+Received ID : 1076259168 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -5.87474 Y: 2.65798
-CannonAngle: 49.4926 Firing: 0
-Sent PositionError recieving from the server 
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 0.119449
+CannonAngle: -10.9633 Firing: 0
+Sent Position
+Received ID : 1076604624 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -5.82799 Y: 2.65798
-CannonAngle: 49.5922 Firing: 0
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 0.16512
+CannonAngle: -15.7771 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.77919 Y: 2.65798
-CannonAngle: 49.755 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.72925 Y: 2.65798
-CannonAngle: 49.9197 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.6798 Y: 2.65798
-CannonAngle: 50.0833 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.62746 Y: 2.65798
-CannonAngle: 50.2404 Firing: 0
-Sent PositionError recieving from the server 
+Received ID : 1386655616 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -5.57962 Y: 2.65798
-CannonAngle: 50.6559 Firing: 0
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 0.214821
+CannonAngle: -18.0247 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.52875 Y: 2.65798
-CannonAngle: 50.9676 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.48083 Y: 2.65798
-CannonAngle: 51.3695 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.43 Y: 2.65798
-CannonAngle: 51.672 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.38007 Y: 2.65798
-CannonAngle: 51.9111 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.32926 Y: 2.65798
-CannonAngle: 52.1435 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.2814 Y: 2.65798
-CannonAngle: 52.2881 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.2814 Y: 2.65798
-CannonAngle: 52.3998 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.2814 Y: 2.65798
-CannonAngle: 52.3623 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.2814 Y: 2.65798
-CannonAngle: 52.2551 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.2814 Y: 2.65798
-CannonAngle: 52.2106 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.2814 Y: 2.65798
-CannonAngle: 52.1627 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.2814 Y: 2.65798
-CannonAngle: 52.1113 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.2814 Y: 2.65798
-CannonAngle: 52.0564 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.2814 Y: 2.65798
-CannonAngle: 51.998 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.2814 Y: 2.65798
-CannonAngle: 51.9362 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.2814 Y: 2.65798
-CannonAngle: 51.8709 Firing: 0
-Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.2814 Y: 2.65798
-CannonAngle: 51.8022 Firing: 0
-Sent PositionError recieving from the server 
+Received ID : 1386655584 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
 
-My ID: 0
-Preparing to send Position with X: -5.2814 Y: 2.65798
-CannonAngle: 51.412 Firing: 0
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 0.264519
+CannonAngle: -20.4442 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.2814 Y: 2.65798
-CannonAngle: 51.1869 Firing: 0
+Received ID : 1076260064 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 0.314988
+CannonAngle: -22.8715 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.2814 Y: 2.65798
-CannonAngle: 51.0259 Firing: 0
+Received ID : 1076260320 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 0.36585
+CannonAngle: -24.8662 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.2814 Y: 2.65798
-CannonAngle: 50.9446 Firing: 0
+Received ID : 1076261728 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 0.413759
+CannonAngle: -26.4371 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.2814 Y: 2.65798
-CannonAngle: 50.86 Firing: 0
+Received ID : 1076262272 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 0.464858
+CannonAngle: -27.9903 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.2814 Y: 2.65798
-CannonAngle: 50.772 Firing: 0
+Received ID : 1076263072 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 0.513019
+CannonAngle: -29.3992 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.2814 Y: 2.65798
-CannonAngle: 50.6807 Firing: 0
+Received ID : 1076264672 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 0.563338
+CannonAngle: -30.1284 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.2814 Y: 2.65798
-CannonAngle: 50.5861 Firing: 0
+Received ID : 1386659872 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 0.612418
+CannonAngle: -30.4615 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.2814 Y: 2.65798
-CannonAngle: 50.4883 Firing: 0
+Received ID : 1386660608 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 0.66212
+CannonAngle: -30.3451 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.2814 Y: 2.65798
-CannonAngle: 50.3871 Firing: 0
+Received ID : 1386663648 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 0.711822
+CannonAngle: -31.6804 Firing: 0
 Sent Position
-Error recieving from the server 
-My ID: 0
-Preparing to send Position with X: -5.2814 Y: 2.65798
-CannonAngle: 50.2826 Firing: 0
+Received ID : 1076264352 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 0.761551
+CannonAngle: -32.6263 Firing: 0
 Sent Position
-Error recieving from the server 
+Received ID : 1118297728 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 0.811735
+CannonAngle: -34.5582 Firing: 0
+Sent Position
+Received ID : 1075072464 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 0.860918
+CannonAngle: -36.7961 Firing: 0
+Sent Position
+Received ID : 1075071664 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 0.910622
+CannonAngle: -39.6682 Firing: 0
+Sent Position
+Received ID : 1075072688 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 0.96076
+CannonAngle: -42.7398 Firing: 0
+Sent Position
+Received ID : 1075074736 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 1.01002
+CannonAngle: -46.4481 Firing: 0
+Sent Position
+Received ID : 1075073712 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 1.05972
+CannonAngle: -50.6835 Firing: 0
+Sent Position
+Received ID : 1076244672 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 1.10942
+CannonAngle: -56.5546 Firing: 0
+Sent Position
+Received ID : 1076245952 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 1.15912
+CannonAngle: -65.5148 Firing: 0
+Sent Position
+Received ID : 1076247264 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 1.20912
+CannonAngle: -71.9465 Firing: 0
+Sent Position
+Received ID : 1386663904 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 1.26021
+CannonAngle: -77.4394 Firing: 0
+Sent Position
+Received ID : 1386663232 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 1.30822
+CannonAngle: -83.4881 Firing: 0
+Sent Position
+Received ID : 1386596576 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 1.3587
+CannonAngle: -87.4981 Firing: 0
+Sent Position
+Received ID : 1386595520 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 1.40762
+CannonAngle: -90.2525 Firing: 0
+Sent Position
+Received ID : 1386598784 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 1.45772
+CannonAngle: -92.1794 Firing: 0
+Sent Position
+Received ID : 1386597568 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 1.50702
+CannonAngle: -93.8152 Firing: 0
+Sent Position
+Received ID : 1386599488 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 1.55672
+CannonAngle: -94.451 Firing: 0
+Sent Position
+Received ID : 1386600448 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 1.6073
+CannonAngle: -94.9316 Firing: 0
+Sent Position
+Received ID : 1076605008 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 1.65787
+CannonAngle: -95.2612 Firing: 0
+Sent Position
+Received ID : 1386602016 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 1.70641
+CannonAngle: -95.5892 Firing: 0
+Sent Position
+Received ID : 1386602912 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 1.75663
+CannonAngle: -96.127 Firing: 0
+Sent Position
+Received ID : 1386604192 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 1.80748
+CannonAngle: -96.4485 Firing: 0
+Sent Position
+Received ID : 1386604448 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 1.85492
+CannonAngle: -96.7747 Firing: 0
+Sent Position
+Received ID : 1076264064 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 1.90503
+CannonAngle: -97.0626 Firing: 0
+Sent Position
+Received ID : 1076263456 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 1.95432
+CannonAngle: -97.3769 Firing: 0
+Sent Position
+Received ID : 1076604112 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 2.0042
+CannonAngle: -97.6799 Firing: 0
+Sent Position
+Received ID : 1386603872 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 2.05372
+CannonAngle: -97.9868 Firing: 0
+Sent Position
+Received ID : 1386610592 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 2.10342
+CannonAngle: -98.5213 Firing: 0
+Sent Position
+Received ID : 1386610304 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 2.15332
+CannonAngle: -98.8207 Firing: 0
+Sent Position
+Received ID : 1076605968 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 2.20408
+CannonAngle: -99.1194 Firing: 0
+Sent Position
+Received ID : 1386612256 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 2.25521
+CannonAngle: -99.4239 Firing: 0
+Sent Position
+Received ID : 1386613472 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 2.30222
+CannonAngle: -99.7289 Firing: 0
+Sent Position
+Received ID : 1068204512 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 2.35192
+CannonAngle: -99.9866 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 2.4023
+CannonAngle: -100.269 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 2.453
+CannonAngle: -100.556 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 2.50102
+CannonAngle: -100.842 Firing: 0
+Sent Position
+Received ID : 1068206976 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1068206976 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1068210112 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1068209056 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 2.55181
+CannonAngle: -101.095 Firing: 0
+Sent Position
+Received ID : 1076608752 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 2.6023
+CannonAngle: -101.373 Firing: 0
+Sent Position
+Received ID : 1076611024 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 2.65033
+CannonAngle: -101.645 Firing: 0
+Sent Position
+Received ID : 1068209024 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 2.69982
+CannonAngle: -101.885 Firing: 0
+Sent Position
+Received ID : 1076609328 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 2.74952
+CannonAngle: -102.137 Firing: 0
+Sent Position
+Received ID : 1386614656 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 2.8001
+CannonAngle: -102.386 Firing: 0
+Sent Position
+Received ID : 1076609136 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 2.85077
+CannonAngle: -102.64 Firing: 0
+Sent Position
+Received ID : 1068209024 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 2.89862
+CannonAngle: -102.89 Firing: 0
+Sent Position
+Received ID : 1068208640 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 2.94832
+CannonAngle: -103.105 Firing: 0
+Sent Position
+Received ID : 1068212352 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 2.99802
+CannonAngle: -103.335 Firing: 0
+Sent Position
+Received ID : 1068211776 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 3.04822
+CannonAngle: -103.56 Firing: 0
+Sent Position
+Received ID : 1068212896 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 3.09742
+CannonAngle: -103.785 Firing: 0
+Sent Position
+Received ID : 1068216128 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 3.14712
+CannonAngle: -103.994 Firing: 0
+Sent Position
+Received ID : 1068215936 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 3.19682
+CannonAngle: -104.203 Firing: 0
+Sent Position
+Received ID : 1076264576 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 3.24652
+CannonAngle: -104.407 Firing: 0
+Sent Position
+Received ID : 1386618272 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 3.29655
+CannonAngle: -104.605 Firing: 0
+Sent Position
+Received ID : 1386617568 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 3.34737
+CannonAngle: -104.801 Firing: 0
+Sent Position
+Received ID : 1386630752 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 3.39827
+CannonAngle: -105.06 Firing: 0
+Sent Position
+Received ID : 1386641120 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 3.4461
+CannonAngle: -105.602 Firing: 0
+Sent Position
+Received ID : 1386655456 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 3.49703
+CannonAngle: -106.177 Firing: 0
+Sent Position
+Received ID : 1386655104 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 3.5449
+CannonAngle: -106.857 Firing: 0
+Sent Position
+Received ID : 1386658304 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 3.59442
+CannonAngle: -107.443 Firing: 0
+Sent Position
+Received ID : 1386661792 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 3.64412
+CannonAngle: -108.126 Firing: 0
+Sent Position
+Received ID : 1386662464 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 3.69442
+CannonAngle: -109.134 Firing: 0
+Sent Position
+Received ID : 1386596320 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 3.74546
+CannonAngle: -110.403 Firing: 0
+Sent Position
+Received ID : 1096977536 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 3.79322
+CannonAngle: -111.521 Firing: 0
+Sent Position
+Received ID : 1386595360 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 3.84292
+CannonAngle: -112.8 Firing: 0
+Sent Position
+Received ID : 1386599232 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 3.89262
+CannonAngle: -114.147 Firing: 0
+Sent Position
+Received ID : 1076263520 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 3.94353
+CannonAngle: -116.161 Firing: 0
+Sent Position
+Received ID : 1076266848 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 3.99327
+CannonAngle: -117.182 Firing: 0
+Sent Position
+Received ID : 1076266784 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 4.04298
+CannonAngle: -118.647 Firing: 0
+Sent Position
+Received ID : 1076264640 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 4.09265
+CannonAngle: -119.762 Firing: 0
+Sent Position
+Received ID : 1386598208 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 4.1432
+CannonAngle: -120.78 Firing: 0
+Sent Position
+Received ID : 1076265728 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 4.19203
+CannonAngle: -122.17 Firing: 0
+Sent Position
+Received ID : 1386598624 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 4.24198
+CannonAngle: -123.916 Firing: 0
+Sent Position
+Received ID : 1076268224 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 4.29291
+CannonAngle: -125.415 Firing: 0
+Sent Position
+Received ID : 1386599104 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 4.34117
+CannonAngle: -128.221 Firing: 0
+Sent Position
+Received ID : 1068214240 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 4.39159
+CannonAngle: -131.685 Firing: 0
+Sent Position
+Received ID : 1096977632 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 4.4425
+CannonAngle: -135.688 Firing: 0
+Sent Position
+Received ID : 1068213600 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 4.49036
+CannonAngle: -140.578 Firing: 0
+Sent Position
+Received ID : 1068212768 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 4.54121
+CannonAngle: -146.827 Firing: 0
+Sent Position
+Received ID : 1386599328 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 4.58963
+CannonAngle: -152.111 Firing: 0
+Sent Position
+Received ID : 1075074224 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 4.6399
+CannonAngle: -158.466 Firing: 0
+Sent Position
+Received ID : 1075077360 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 4.68904
+CannonAngle: -163.864 Firing: 0
+Sent Position
+Received ID : 1075077328 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.870649 Y: 4.73877
+CannonAngle: -169.155 Firing: 0
+Sent Position
+Received ID : 1075077936 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.847935 Y: 4.78419
+CannonAngle: -174.05 Firing: 0
+Sent Position
+Received ID : 1075078928 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.818443 Y: 4.8228
+CannonAngle: -178.949 Firing: 0
+Sent Position
+Received ID : 1075087568 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.773532 Y: 4.8228
+CannonAngle: -183.084 Firing: 0
+Sent Position
+Received ID : 1075089520 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.724236 Y: 4.8228
+CannonAngle: -185.976 Firing: 0
+Sent Position
+Received ID : 1075088304 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.674531 Y: 4.8228
+CannonAngle: -188.49 Firing: 0
+Sent Position
+Received ID : 1076267904 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.623899 Y: 4.8228
+CannonAngle: -191.269 Firing: 0
+Sent Position
+Received ID : 1386602016 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.575132 Y: 4.8228
+CannonAngle: -193.048 Firing: 0
+Sent Position
+Received ID : 1386599488 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.525202 Y: 4.8228
+CannonAngle: -194.355 Firing: 0
+Sent Position
+Received ID : 1386606496 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.475734 Y: 4.8228
+CannonAngle: -195.954 Firing: 0
+Sent Position
+Received ID : 1096982176 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.426035 Y: 4.8228
+CannonAngle: -197.709 Firing: 0
+Sent Position
+Received ID : 1096981024 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -200.207 Firing: 0
+Sent Position
+Received ID : 1075087888 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -203.59 Firing: 0
+Sent Position
+Received ID : 1075091088 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -204.573 Firing: 0
+Sent Position
+Received ID : 1386606336 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -207.449 Firing: 0
+Sent Position
+Received ID : 1386606080 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -209.893 Firing: 0
+Sent Position
+Received ID : 1076263744 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -211.277 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -212.121 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -212.457 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -212.679 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -213.152 Firing: 0
+Sent Position
+Received ID : 1076270144 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1076609104 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1076609840 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1096981664 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1118297344 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -213.898 Firing: 0
+Sent Position
+Received ID : 1118299968 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -214.855 Firing: 0
+Sent Position
+Received ID : 1118299488 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -216.024 Firing: 0
+Sent Position
+Received ID : 1386601376 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -217.245 Firing: 0
+Sent Position
+Received ID : 1076270336 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.057 Firing: 0
+Sent Position
+Received ID : 1386603232 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.454 Firing: 0
+Sent Position
+Received ID : 1075090960 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.792 Firing: 0
+Sent Position
+Received ID : 1386604448 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -219.354 Firing: 0
+Sent Position
+Received ID : 1386605568 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -219.955 Firing: 0
+Sent Position
+Received ID : 1075091760 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -220.511 Firing: 0
+Sent Position
+Received ID : 1075092848 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -220.991 Firing: 0
+Sent Position
+Received ID : 1076273376 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -221.302 Firing: 0
+Sent Position
+Received ID : 1076272480 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -221.512 Firing: 0
+Sent Position
+Received ID : 1096989120 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -221.664 Firing: 0
+Sent Position
+Received ID : 1076271936 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -221.943 Firing: 0
+Sent Position
+Received ID : 1386607392 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -222.085 Firing: 0
+Sent Position
+Received ID : 1386608224 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -222.26 Firing: 0
+Sent Position
+Received ID : 1386609536 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -222.265 Firing: 0
+Sent Position
+Received ID : 1075090000 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -222.309 Firing: 0
+Sent Position
+Received ID : 1075091120 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -222.31 Firing: 0
+Sent Position
+Received ID : 1075092400 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -222.268 Firing: 0
+Sent Position
+Received ID : 1386609632 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -221.749 Firing: 0
+Sent Position
+Received ID : 1386613024 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -221.102 Firing: 0
+Sent Position
+Received ID : 1386611840 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -220.406 Firing: 0
+Sent Position
+Received ID : 1386605088 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -219.751 Firing: 0
+Sent Position
+Received ID : 1076271872 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -219.44 Firing: 0
+Sent Position
+Received ID : 1068216512 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -219.395 Firing: 0
+Sent Position
+Received ID : 1068214944 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -219.395 Firing: 0
+Sent Position
+Received ID : 1076272736 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -219.395 Firing: 0
+Sent Position
+Received ID : 1076274496 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -219.396 Firing: 0
+Sent Position
+Received ID : 1076273856 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -219.396 Firing: 0
+Sent Position
+Received ID : 1096985504 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -219.396 Firing: 0
+Sent Position
+Received ID : 1386607456 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -219.396 Firing: 0
+Sent Position
+Received ID : 1118301312 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -219.397 Firing: 0
+Sent Position
+Received ID : 1118301952 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -219.351 Firing: 0
+Sent Position
+Received ID : 1118302080 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -219.305 Firing: 0
+Sent Position
+Received ID : 1386608640 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -219.259 Firing: 0
+Sent Position
+Received ID : 1386611104 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -219.213 Firing: 0
+Sent Position
+Received ID : 1075097904 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -219.167 Firing: 0
+Sent Position
+Received ID : 1076610288 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -219.075 Firing: 0
+Sent Position
+Received ID : 1076611664 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.982 Firing: 0
+Sent Position
+Received ID : 1076277408 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.936 Firing: 0
+Sent Position
+Received ID : 1076277152 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.889 Firing: 0
+Sent Position
+Received ID : 1386609248 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.889 Firing: 0
+Sent Position
+Received ID : 1386611776 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.843 Firing: 0
+Sent Position
+Received ID : 1076612304 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.796 Firing: 0
+Sent Position
+Received ID : 1076613008 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.703 Firing: 0
+Sent Position
+Received ID : 1386612544 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.609 Firing: 0
+Sent Position
+Received ID : 1076277376 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.562 Firing: 0
+Sent Position
+Received ID : 1386614624 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.562 Firing: 0
+Sent Position
+Received ID : 1076278752 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.562 Firing: 0
+Sent Position
+Received ID : 1076280352 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.515 Firing: 0
+Sent Position
+Received ID : 1386613472 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.515 Firing: 0
+Sent Position
+Received ID : 1386616704 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.468 Firing: 0
+Sent Position
+Received ID : 1386606112 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.421 Firing: 0
+Sent Position
+Received ID : 1386605760 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.421 Firing: 0
+Sent Position
+Received ID : 1075094032 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.421 Firing: 0
+Sent Position
+Received ID : 1076279808 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.421 Firing: 0
+Sent Position
+Received ID : 1076280704 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.373 Firing: 0
+Sent Position
+Received ID : 1386605120 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.373 Firing: 0
+Sent Position
+Received ID : 1386605760 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.373 Firing: 0
+Sent Position
+Received ID : 1386610944 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.373 Firing: 0
+Sent Position
+Received ID : 1386609664 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.374 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.374 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.374 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.374 Firing: 0
+Sent Position
+Received ID : 1386611968 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1386612032 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1075097840 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1075097840 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.374 Firing: 0
+Sent Position
+Received ID : 1075101232 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.374 Firing: 0
+Sent Position
+Received ID : 1076609680 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.374 Firing: 0
+Sent Position
+Received ID : 1386613568 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.374 Firing: 0
+Sent Position
+Received ID : 1096990048 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.374 Firing: 0
+Sent Position
+Received ID : 1068218304 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.364 Firing: 0
+Sent Position
+Received ID : 1076280480 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.334 Firing: 0
+Sent Position
+Received ID : 1096990496 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -218.108 Firing: 0
+Sent Position
+Received ID : 1096992640 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -217.478 Firing: 0
+Sent Position
+Received ID : 1118302240 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -216.36 Firing: 0
+Sent Position
+Received ID : 1118301664 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -214.862 Firing: 0
+Sent Position
+Received ID : 1386613248 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -211.746 Firing: 0
+Sent Position
+Received ID : 1386615200 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -208.188 Firing: 0
+Sent Position
+Received ID : 1386616736 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -201.773 Firing: 0
+Sent Position
+Received ID : 1386619072 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -193.523 Firing: 0
+Sent Position
+Received ID : 1386621760 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -176.619 Firing: 0
+Sent Position
+Received ID : 1386629568 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -169.562 Firing: 0
+Sent Position
+Received ID : 1386639136 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -159.685 Firing: 0
+Sent Position
+Received ID : 1386605280 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -151.188 Firing: 0
+Sent Position
+Received ID : 1386608832 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -144.15 Firing: 0
+Sent Position
+Received ID : 1386607488 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -138.981 Firing: 0
+Sent Position
+Received ID : 1386614528 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -136.03 Firing: 0
+Sent Position
+Received ID : 1096991552 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -134.105 Firing: 0
+Sent Position
+Received ID : 1096994048 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -131.82 Firing: 0
+Sent Position
+Received ID : 1096995168 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -130.14 Firing: 0
+Sent Position
+Received ID : 1075100528 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -129.353 Firing: 0
+Sent Position
+Received ID : 1075102288 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -128.795 Firing: 0
+Sent Position
+Received ID : 1075103088 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -127.509 Firing: 0
+Sent Position
+Received ID : 1075046128 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -126.459 Firing: 0
+Sent Position
+Received ID : 1075047088 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -124.12 Firing: 0
+Sent Position
+Received ID : 1075047952 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -121.259 Firing: 0
+Sent Position
+Received ID : 1075050512 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -118.053 Firing: 0
+Sent Position
+Received ID : 1075049776 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -115.406 Firing: 0
+Sent Position
+Received ID : 1118303392 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -111.818 Firing: 0
+Sent Position
+Received ID : 1386614560 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -109.275 Firing: 0
+Sent Position
+Received ID : 1386613312 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -107.15 Firing: 0
+Sent Position
+Received ID : 1386617760 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -105.099 Firing: 0
+Sent Position
+Received ID : 1386618976 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -102.758 Firing: 0
+Sent Position
+Received ID : 1386625952 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -100.612 Firing: 0
+Sent Position
+Received ID : 1386629568 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -97.3417 Firing: 0
+Sent Position
+Received ID : 1386646816 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -93.7787 Firing: 0
+Sent Position
+Received ID : 1386653376 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -89.045 Firing: 0
+Sent Position
+Received ID : 1386653248 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -83.3069 Firing: 0
+Sent Position
+Received ID : 1386654720 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -76.9149 Firing: 0
+Sent Position
+Received ID : 1386655040 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -71.2879 Firing: 0
+Sent Position
+Received ID : 1386658560 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -71.0915 Firing: 0
+Sent Position
+Received ID : 1075048912 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -71.1073 Firing: 0
+Sent Position
+Received ID : 1075047312 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1386607136 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -71.1123 Firing: 1
+Sent Position
+Received ID : 1386662304 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -71.0963 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -71.07 Firing: 0
+Sent Position
+Received ID : 1386610784 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -71.0338 Firing: 0
+Sent Position
+Received ID : 1386614848 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -70.9879 Firing: 0
+Sent Position
+Received ID : 1386627872 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -70.933 Firing: 0
+Sent Position
+Received ID : 1386645664 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -70.8691 Firing: 0
+Sent Position
+Received ID : 1386657760 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -70.7965 Firing: 0
+Sent Position
+Received ID : 1386662368 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -70.7155 Firing: 0
+Sent Position
+Received ID : 1076213984 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -70.627 Firing: 0
+Sent Position
+Received ID : 1076214720 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -70.5307 Firing: 0
+Sent Position
+Received ID : 1076613936 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -70.4274 Firing: 0
+Sent Position
+Received ID : 1386662752 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -70.3171 Firing: 0
+Sent Position
+Received ID : 1386595872 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -68.9297 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -63.2663 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -56.1224 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -48.0536 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -40.1892 Firing: 0
+Sent Position
+Received ID : 1386596896 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1096991936 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1076615120 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1096991712 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1096995008 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -33.4549 Firing: 0
+Sent Position
+Received ID : 1386597024 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -29.0156 Firing: 0
+Sent Position
+Received ID : 1386599808 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -27.9064 Firing: 0
+Sent Position
+Received ID : 1386600000 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -27.0457 Firing: 0
+Sent Position
+Received ID : 1386602272 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -27.3831 Firing: 0
+Sent Position
+Received ID : 1118303648 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -27.7087 Firing: 0
+Sent Position
+Received ID : 1118304064 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -28.023 Firing: 0
+Sent Position
+Received ID : 1118305728 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -28.3258 Firing: 0
+Sent Position
+Received ID : 1068217056 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -28.6173 Firing: 0
+Sent Position
+Received ID : 1068218208 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -28.8977 Firing: 0
+Sent Position
+Received ID : 1076215936 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -29.167 Firing: 0
+Sent Position
+Received ID : 1076213504 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -29.4255 Firing: 0
+Sent Position
+Received ID : 1386600928 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -29.6734 Firing: 0
+Sent Position
+Received ID : 1386602848 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -29.9106 Firing: 0
+Sent Position
+Received ID : 1096993312 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -30.1376 Firing: 0
+Sent Position
+Received ID : 1096994720 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -30.3544 Firing: 0
+Sent Position
+Received ID : 1386601920 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -30.5612 Firing: 0
+Sent Position
+Received ID : 1386603168 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -30.6268 Firing: 0
+Sent Position
+Received ID : 1386604480 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -30.4961 Firing: 0
+Sent Position
+Received ID : 1386605248 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -30.2294 Firing: 0
+Sent Position
+Received ID : 1386607744 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -30.2808 Firing: 0
+Sent Position
+Received ID : 1386608160 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -30.0033 Firing: 0
+Sent Position
+Received ID : 1386610048 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -30.0411 Firing: 0
+Sent Position
+Received ID : 1386613344 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -30.3898 Firing: 0
+Sent Position
+Received ID : 1386626816 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -30.5408 Firing: 0
+Sent Position
+Received ID : 1386632256 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -30.5544 Firing: 0
+Sent Position
+Received ID : 1076213056 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -30.8702 Firing: 0
+Sent Position
+Received ID : 1076213024 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -30.991 Firing: 0
+Sent Position
+Received ID : 1386648608 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -31.4676 Firing: 0
+Sent Position
+Received ID : 1096995904 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -32.4233 Firing: 0
+Sent Position
+Received ID : 1076614384 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -33.0753 Firing: 0
+Sent Position
+Received ID : 1076614352 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -35.0078 Firing: 0
+Sent Position
+Received ID : 1386662368 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -38.1018 Firing: 0
+Sent Position
+Received ID : 1386662784 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -41.7807 Firing: 0
+Sent Position
+Received ID : 1386595360 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -45.8872 Firing: 0
+Sent Position
+Received ID : 1386594752 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -50.6895 Firing: 0
+Sent Position
+Received ID : 1386597472 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -56.6171 Firing: 0
+Sent Position
+Received ID : 1386597344 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -61.7108 Firing: 0
+Sent Position
+Received ID : 1386599488 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -67.5224 Firing: 0
+Sent Position
+Received ID : 1386598944 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -68.6974 Firing: 0
+Sent Position
+Received ID : 1075049360 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -69.8529 Firing: 0
+Sent Position
+Received ID : 1075050416 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -70.2634 Firing: 0
+Sent Position
+Received ID : 1075049584 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -69.822 Firing: 0
+Sent Position
+Received ID : 1075051920 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -69.7422 Firing: 0
+Sent Position
+Received ID : 1075051696 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -69.3153 Firing: 0
+Sent Position
+Received ID : 1386599456 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -69.2414 Firing: 0
+Sent Position
+Received ID : 1386600832 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -68.8281 Firing: 0
+Sent Position
+Received ID : 1076213568 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -68.8896 Firing: 0
+Sent Position
+Received ID : 1076213728 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -68.8213 Firing: 0
+Sent Position
+Received ID : 1386602912 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -68.7539 Firing: 0
+Sent Position
+Received ID : 1076213536 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -69.0343 Firing: 0
+Sent Position
+Received ID : 1076215936 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -69.779 Firing: 0
+Sent Position
+Received ID : 1076215712 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -70.4134 Firing: 0
+Sent Position
+Received ID : 1076217696 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -71.062 Firing: 0
+Sent Position
+Received ID : 1386601472 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -71.7246 Firing: 0
+Sent Position
+Received ID : 1076220160 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -72.4008 Firing: 0
+Sent Position
+Received ID : 1096997152 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -73.0902 Firing: 0
+Sent Position
+Received ID : 1386602688 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -73.6961 Firing: 0
+Sent Position
+Received ID : 1386602304 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -73.7519 Firing: 0
+Sent Position
+Received ID : 1096996672 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -74.0565 Firing: 0
+Sent Position
+Received ID : 1096997216 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -74.4693 Firing: 0
+Sent Position
+Received ID : 1386603584 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -74.8028 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -75.1511 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -75.1765 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -75.6385 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -75.6873 Firing: 0
+Sent Position
+Received ID : 1076614704 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1076218720 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1076614416 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1386606176 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1076617168 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -75.4951 Firing: 0
+Sent Position
+Received ID : 1076616240 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -75.5631 Firing: 0
+Sent Position
+Received ID : 1076619152 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -75.7271 Firing: 0
+Sent Position
+Received ID : 1076620592 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -75.5626 Firing: 0
+Sent Position
+Received ID : 1076218240 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -75.4073 Firing: 0
+Sent Position
+Received ID : 1075051312 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -75.2607 Firing: 0
+Sent Position
+Received ID : 1075052336 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -75.1223 Firing: 0
+Sent Position
+Received ID : 1386606336 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -74.9915 Firing: 0
+Sent Position
+Received ID : 1386605728 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -74.868 Firing: 0
+Sent Position
+Received ID : 1096997440 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -74.7513 Firing: 0
+Sent Position
+Received ID : 1096997888 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -74.6409 Firing: 0
+Sent Position
+Received ID : 1386607616 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -74.5365 Firing: 0
+Sent Position
+Received ID : 1386611552 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -74.4378 Firing: 0
+Sent Position
+Received ID : 1386618240 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -74.3444 Firing: 0
+Sent Position
+Received ID : 1386628480 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -74.2561 Firing: 0
+Sent Position
+Received ID : 1386635008 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -74.1724 Firing: 0
+Sent Position
+Received ID : 1386653568 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -74.0932 Firing: 0
+Sent Position
+Received ID : 1386654528 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -74.0183 Firing: 0
+Sent Position
+Received ID : 1076212416 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -73.9473 Firing: 0
+Sent Position
+Received ID : 1076214432 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -73.8801 Firing: 0
+Sent Position
+Received ID : 1386655616 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -73.8164 Firing: 0
+Sent Position
+Received ID : 1386661920 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -73.7561 Firing: 0
+Sent Position
+Received ID : 1386662848 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -73.3796 Firing: 0
+Sent Position
+Received ID : 1068216704 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -72.6913 Firing: 0
+Sent Position
+Received ID : 1068218944 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -71.699 Firing: 0
+Sent Position
+Received ID : 1068220480 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -70.5228 Firing: 0
+Sent Position
+Received ID : 1068222240 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -69.0823 Firing: 0
+Sent Position
+Received ID : 1068220864 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -66.6995 Firing: 0
+Sent Position
+Received ID : 1386662688 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -64.8137 Firing: 0
+Sent Position
+Received ID : 1386595904 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -62.6047 Firing: 0
+Sent Position
+Received ID : 1386595200 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -60.7418 Firing: 0
+Sent Position
+Received ID : 1076217824 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -58.9477 Firing: 0
+Sent Position
+Received ID : 1075053104 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -58.2829 Firing: 0
+Sent Position
+Received ID : 1075050992 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -56.7373 Firing: 0
+Sent Position
+Received ID : 1076217504 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -55.684 Firing: 0
+Sent Position
+Received ID : 1076212800 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -54.3995 Firing: 0
+Sent Position
+Received ID : 1076212416 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -53.1839 Firing: 0
+Sent Position
+Received ID : 1386631136 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -52.0127 Firing: 0
+Sent Position
+Received ID : 1076212992 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -49.9956 Firing: 0
+Sent Position
+Received ID : 1076213024 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -48.5787 Firing: 0
+Sent Position
+Received ID : 1118305472 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -47.5519 Firing: 0
+Sent Position
+Received ID : 1386595168 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -46.0727 Firing: 0
+Sent Position
+Received ID : 1386595264 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -44.549 Firing: 0
+Sent Position
+Received ID : 1076616368 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -42.7295 Firing: 0
+Sent Position
+Received ID : 1076618864 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -41.7848 Firing: 0
+Sent Position
+Received ID : 1076619472 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -40.8209 Firing: 0
+Sent Position
+Received ID : 1076617456 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -40.2908 Firing: 0
+Sent Position
+Received ID : 1386598848 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -39.2907 Firing: 0
+Sent Position
+Received ID : 1076215200 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -38.2721 Firing: 0
+Sent Position
+Received ID : 1076215104 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -37.4944 Firing: 0
+Sent Position
+Received ID : 1386599808 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -36.7075 Firing: 0
+Sent Position
+Received ID : 1076219872 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -36.3664 Firing: 0
+Sent Position
+Received ID : 1076216608 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -36.0155 Firing: 0
+Sent Position
+Received ID : 1386599648 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -35.9201 Firing: 0
+Sent Position
+Received ID : 1386601184 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -35.8164 Firing: 0
+Sent Position
+Received ID : 1386604736 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -35.4411 Firing: 0
+Sent Position
+Received ID : 1076618928 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -35.1354 Firing: 0
+Sent Position
+Received ID : 1079519568 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -35.0095 Firing: 0
+Sent Position
+Received ID : 1076218752 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -34.876 Firing: 0
+Sent Position
+Received ID : 1096998432 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -34.7346 Firing: 0
+Sent Position
+Received ID : 1096997888 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -34.5859 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -34.4297 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -34.2659 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -34.0953 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -33.9174 Firing: 0
+Sent Position
+Received ID : 1096999264 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1386630656 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -33.7326 Firing: 0
+Sent Position
+Received ID : 1386605152 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1386606336 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1386608448 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1068222720 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -33.5409 Firing: 0
+Sent Position
+Received ID : 1386608352 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -32.5559 Firing: 0
+Sent Position
+Received ID : 1096998656 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -30.1453 Firing: 0
+Sent Position
+Received ID : 1068221920 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -25.5579 Firing: 0
+Sent Position
+Received ID : 1068221696 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -20.5292 Firing: 0
+Sent Position
+Received ID : 1386611296 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -16.1236 Firing: 0
+Sent Position
+Received ID : 1386628480 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -13.0266 Firing: 0
+Sent Position
+Received ID : 1386632256 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -8.8985 Firing: 0
+Sent Position
+Received ID : 1097000128 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -6.17592 Firing: 0
+Sent Position
+Received ID : 1096999616 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -4.42845 Firing: 0
+Sent Position
+Received ID : 1068221440 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -3.01183 Firing: 0
+Sent Position
+Received ID : 1386629568 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -1.60288 Firing: 0
+Sent Position
+Received ID : 1076620048 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -0.526563 Firing: 0
+Sent Position
+Received ID : 1386652000 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 0.870812 Firing: 0
+Sent Position
+Received ID : 1386597920 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 2.26777 Firing: 0
+Sent Position
+Received ID : 1097002688 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 3.03061 Firing: 0
+Sent Position
+Received ID : 1079517840 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 4.40475 Firing: 0
+Sent Position
+Received ID : 1079521488 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 5.48034 Firing: 0
+Sent Position
+Received ID : 1079520848 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 6.82822 Firing: 0
+Sent Position
+Received ID : 1079522704 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 8.50502 Firing: 0
+Sent Position
+Received ID : 1386597376 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 9.8127 Firing: 0
+Sent Position
+Received ID : 1386602240 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 11.0974 Firing: 0
+Sent Position
+Received ID : 1076212672 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 12.7144 Firing: 0
+Sent Position
+Received ID : 1386601728 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 14.0225 Firing: 0
+Sent Position
+Received ID : 1386604736 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 15.0321 Firing: 0
+Sent Position
+Received ID : 1076620496 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 16.8722 Firing: 0
+Sent Position
+Received ID : 1386633248 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 19.039 Firing: 0
+Sent Position
+Received ID : 1075054128 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 19.9994 Firing: 0
+Sent Position
+Received ID : 1075054064 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 21.4756 Firing: 0
+Sent Position
+Received ID : 1075055184 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 22.4061 Firing: 0
+Sent Position
+Received ID : 1075057040 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 23.2161 Firing: 0
+Sent Position
+Received ID : 1075057072 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 23.8715 Firing: 0
+Sent Position
+Received ID : 1386603968 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 24.4105 Firing: 0
+Sent Position
+Received ID : 1386604256 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 25.2967 Firing: 0
+Sent Position
+Received ID : 1386604448 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 26.1707 Firing: 0
+Sent Position
+Received ID : 1386605568 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 26.6818 Firing: 0
+Sent Position
+Received ID : 1386605568 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 27.7608 Firing: 0
+Sent Position
+Received ID : 1386605888 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 28.8176 Firing: 0
+Sent Position
+Received ID : 1386607296 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 29.6348 Firing: 0
+Sent Position
+Received ID : 1386609568 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 30.5655 Firing: 0
+Sent Position
+Received ID : 1386614688 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 31.2311 Firing: 0
+Sent Position
+Received ID : 1386627008 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 32.0099 Firing: 0
+Sent Position
+Received ID : 1386652864 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 32.5744 Firing: 0
+Sent Position
+Received ID : 1386656896 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 33.332 Firing: 0
+Sent Position
+Received ID : 1386661056 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 34.0774 Firing: 0
+Sent Position
+Received ID : 1386662688 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 34.8105 Firing: 0
+Sent Position
+Received ID : 1386662528 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 35.3453 Firing: 0
+Sent Position
+Received ID : 1386595424 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 36.0589 Firing: 0
+Sent Position
+Received ID : 1076620496 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 36.5811 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 37.4101 Firing: 0
+Sent Position
+Received ID : 1076620912 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 38.2298 Firing: 0
+Sent Position
+Received ID : 1076213664 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 39.0401 Firing: 0
+Sent Position
+Received ID : 1076213632 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 40.146 Firing: 0
+Sent Position
+Received ID : 1386596512 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 41.3984 Firing: 0
+Sent Position
+Received ID : 1386597728 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 42.0145 Firing: 0
+Sent Position
+Received ID : 1076212896 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 43.3686 Firing: 0
+Sent Position
+Received ID : 1076212768 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 44.5683 Firing: 0
+Sent Position
+Received ID : 1386616704 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 45.7597 Firing: 0
+Sent Position
+Received ID : 1386616736 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 47.2572 Firing: 0
+Sent Position
+Received ID : 1097003072 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 48.6076 Firing: 0
+Sent Position
+Received ID : 1386629568 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 50.1745 Firing: 0
+Sent Position
+Received ID : 1386638784 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 52.1581 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 53.6944 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 55.8865 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 57.609 Firing: 0
+Sent Position
+Received ID : 1386652864 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1386654528 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1076214304 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1076213664 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 59.478 Firing: 0
+Sent Position
+Received ID : 1386654848 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 60.8109 Firing: 0
+Sent Position
+Received ID : 1386662176 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 62.0907 Firing: 0
+Sent Position
+Received ID : 1386662368 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 63.4 Firing: 0
+Sent Position
+Received ID : 1386596672 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 64.3083 Firing: 0
+Sent Position
+Received ID : 1386596544 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 65.3527 Firing: 0
+Sent Position
+Received ID : 1386598496 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 65.9686 Firing: 0
+Sent Position
+Received ID : 1386598400 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 66.8295 Firing: 0
+Sent Position
+Received ID : 1076215200 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 67.7112 Firing: 0
+Sent Position
+Received ID : 1076215584 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 68.7057 Firing: 0
+Sent Position
+Received ID : 1386599136 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 69.7139 Firing: 0
+Sent Position
+Received ID : 1386599552 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 70.4946 Firing: 0
+Sent Position
+Received ID : 1386602336 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 71.0434 Firing: 0
+Sent Position
+Received ID : 1386601632 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 71.5988 Firing: 0
+Sent Position
+Received ID : 1386604864 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 72.2383 Firing: 0
+Sent Position
+Received ID : 1386603104 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 72.6384 Firing: 0
+Sent Position
+Received ID : 1386605728 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 73.449 Firing: 0
+Sent Position
+Received ID : 1386606752 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 74.9306 Firing: 0
+Sent Position
+Received ID : 1097004128 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 75.5165 Firing: 0
+Sent Position
+Received ID : 1075058544 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 77.0379 Firing: 0
+Sent Position
+Received ID : 1386606880 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 78.137 Firing: 0
+Sent Position
+Received ID : 1386596448 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 79.1954 Firing: 0
+Sent Position
+Received ID : 1386596576 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 80.7772 Firing: 0
+Sent Position
+Received ID : 1386594976 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 82.3822 Firing: 0
+Sent Position
+Received ID : 1386596864 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 84.2662 Firing: 0
+Sent Position
+Received ID : 1075057520 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 85.9296 Firing: 0
+Sent Position
+Received ID : 1075059760 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 87.3225 Firing: 0
+Sent Position
+Received ID : 1079518832 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 88.7324 Firing: 0
+Sent Position
+Received ID : 1097004512 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 89.6238 Firing: 0
+Sent Position
+Received ID : 1386596992 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -268.968 Firing: 0
+Sent Position
+Received ID : 1076212288 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -268.084 Firing: 0
+Sent Position
+Received ID : 1386599424 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -267.44 Firing: 0
+Sent Position
+Received ID : 1386598560 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -266.55 Firing: 0
+Sent Position
+Received ID : 1076212352 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -265.662 Firing: 0
+Sent Position
+Received ID : 1076215008 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -264.503 Firing: 0
+Sent Position
+Received ID : 1076215616 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -263.092 Firing: 0
+Sent Position
+Received ID : 1068224704 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -261.93 Firing: 0
+Sent Position
+Received ID : 1068225184 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -260.48 Firing: 0
+Sent Position
+Received ID : 1386599968 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -259.269 Firing: 0
+Sent Position
+Received ID : 1386602016 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -258.05 Firing: 0
+Sent Position
+Received ID : 1076622160 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -257.012 Firing: 0
+Sent Position
+Received ID : 1076622960 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -256.323 Firing: 0
+Sent Position
+Received ID : 1076624752 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -255.568 Firing: 0
+Sent Position
+Received ID : 1386602176 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -255.047 Firing: 0
+Sent Position
+Received ID : 1386604288 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -254.206 Firing: 0
+Sent Position
+Received ID : 1386604768 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -253.665 Firing: 0
+Sent Position
+Received ID : 1386604864 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -252.721 Firing: 0
+Sent Position
+Received ID : 1075060144 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -252.079 Firing: 0
+Sent Position
+Received ID : 1075059472 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -251.255 Firing: 0
+Sent Position
+Received ID : 1386596064 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -250.4 Firing: 0
+Sent Position
+Received ID : 1386594880 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -249.263 Firing: 0
+Sent Position
+Received ID : 1386597312 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -248.139 Firing: 0
+Sent Position
+Received ID : 1386597440 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -246.698 Firing: 0
+Sent Position
+Received ID : 1386600032 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -245.448 Firing: 0
+Sent Position
+Received ID : 1386601280 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -243.61 Firing: 0
+Sent Position
+Received ID : 1386602560 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -242.063 Firing: 0
+Sent Position
+Received ID : 1386603520 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -239.524 Firing: 0
+Sent Position
+Received ID : 1076217696 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -236.748 Firing: 0
+Sent Position
+Received ID : 1076217120 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -234.276 Firing: 0
+Sent Position
+Received ID : 1076218720 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -230.382 Firing: 0
+Sent Position
+Received ID : 1076219776 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -225.587 Firing: 0
+Sent Position
+Received ID : 1076220192 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -221.001 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -215.823 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -208.288 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -201.503 Firing: 0
+Sent Position
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -190.885 Firing: 0
+Sent Position
+Received ID : 1068226784 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1068226176 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1068228224 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1068227808 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1097004320 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -180.712 Firing: 0
+Sent Position
+Received ID : 1097004992 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: -172.22 Firing: 0
+Sent Position
+Received ID : 1386603552 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 11.4221 Firing: 0
+Sent Position
+Received ID : 1076626800 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 20.4976 Firing: 0
+Sent Position
+Received ID : 1097004224 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 24.7843 Firing: 0
+Sent Position
+Received ID : 1386605568 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 27.9535 Firing: 0
+Sent Position
+Received ID : 1386606048 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 30.0154 Firing: 0
+Sent Position
+Received ID : 1386608000 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 32.109 Firing: 0
+Sent Position
+Received ID : 1386607360 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 33.4842 Firing: 0
+Sent Position
+Received ID : 1386611808 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 34.4011 Firing: 0
+Sent Position
+Received ID : 1386618944 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 34.4796 Firing: 0
+Sent Position
+Received ID : 1386627968 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 34.3763 Firing: 0
+Sent Position
+Received ID : 1386597760 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 34.0145 Firing: 0
+Sent Position
+Received ID : 1386598944 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 33.7832 Firing: 0
+Sent Position
+Received ID : 1386599712 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 33.526 Firing: 0
+Sent Position
+Received ID : 1386601984 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 33.2993 Firing: 0
+Sent Position
+Received ID : 1386602240 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 33.0458 Firing: 0
+Sent Position
+Received ID : 1386604640 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 32.9807 Firing: 0
+Sent Position
+Received ID : 1386603872 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 32.9365 Firing: 0
+Sent Position
+Received ID : 1097005408 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 32.8651 Firing: 0
+Sent Position
+Received ID : 1097005056 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 32.8706 Firing: 0
+Sent Position
+Received ID : 1097003712 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 32.9229 Firing: 0
+Sent Position
+Received ID : 1386604608 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 33.28 Firing: 0
+Sent Position
+Received ID : 1386605632 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 33.7256 Firing: 0
+Sent Position
+Received ID : 1386606816 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 34.0864 Firing: 0
+Sent Position
+Received ID : 1076626288 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 34.3668 Firing: 0
+Sent Position
+Received ID : 1076627760 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 34.5685 Firing: 0
+Sent Position
+Received ID : 1076219104 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 34.744 Firing: 0
+Sent Position
+Received ID : 1386607520 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 35.0951 Firing: 0
+Sent Position
+Received ID : 1386610624 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 35.4978 Firing: 0
+Sent Position
+Received ID : 1386614688 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 35.9542 Firing: 0
+Sent Position
+Received ID : 1076220064 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 36.2105 Firing: 0
+Sent Position
+Received ID : 1386628864 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 36.3579 Firing: 0
+Sent Position
+Received ID : 1386627520 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 36.5041 Firing: 0
+Sent Position
+Received ID : 1386651168 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 36.5392 Firing: 0
+Sent Position
+Received ID : 1076627760 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 36.5725 Firing: 0
+Sent Position
+Received ID : 1386654240 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 36.6041 Firing: 0
+Sent Position
+Received ID : 1097005504 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 36.6341 Firing: 0
+Sent Position
+Received ID : 1097008192 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 36.6626 Firing: 0
+Sent Position
+Received ID : 1097008800 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 36.6897 Firing: 0
+Sent Position
+Received ID : 1097011392 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 36.7154 Firing: 0
+Sent Position
+Received ID : 1076218400 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 36.7398 Firing: 0
+Sent Position
+Received ID : 1386658624 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 36.763 Firing: 0
+Sent Position
+Received ID : 1075058096 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 36.7851 Firing: 0
+Sent Position
+Received ID : 1075058960 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 36.806 Firing: 0
+Sent Position
+Received ID : 1075064048 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 36.8259 Firing: 0
+Sent Position
+Received ID : 1386662208 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 36.8447 Firing: 0
+Sent Position
+Received ID : 1386596224 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+My ID: 1648007817
+Preparing to send Position with X: -0.375477 Y: 4.8228
+CannonAngle: 36.8627 Firing: 0
+Sent Position
+Received ID : 1386595776 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1386595744 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+
+Received ID : 1076620144 with Position X: 0 Y: -1.07374e+08
+CannonAngle : -1.07374e+08 Firing: 204
+

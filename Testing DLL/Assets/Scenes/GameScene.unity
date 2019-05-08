@@ -281,7 +281,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6382cb533cd0ce48877b2a46d13abc8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyPref: {fileID: 0}
+  enemyPref: {fileID: 1318359332447829820, guid: 98f2b37432f1fd545ac055e2f42cd13a,
+    type: 3}
 --- !u!4 &698897698
 Transform:
   m_ObjectHideFlags: 0
@@ -618,7 +619,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sendingSuccess: 0
   id: 0
-  IP: 7f000000000000000000000001000000
+  IP: 44000000b400000056000000c8000000
   port: 45000
 --- !u!1001 &1857325054170453459
 PrefabInstance:
