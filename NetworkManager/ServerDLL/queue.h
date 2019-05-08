@@ -63,7 +63,8 @@ public:
 			return poppedData;
 		}
 		m.unlock();
-		throw std::runtime_error("There is no data to pop in queue.");
+		T defaultObj;
+		return defaultObj;
 	}
 	//pushes a value onto back of queue, doubles size of array if the count exceeds the limit
 	void Push(T newData) {
