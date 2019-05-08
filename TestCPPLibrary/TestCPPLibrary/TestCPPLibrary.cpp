@@ -12,6 +12,8 @@ using namespace NetworkInfo;
 
 extern "C" 
 {
+	Queue<posPacket*> packetQueue;
+
 	bool __declspec(dllexport) Connect(int ip0, int ip1, int ip2, int ip3, int port)
 	{
 		
@@ -97,6 +99,16 @@ extern "C"
 		return true;
 	}
 
+	bool PacketCheck()
+	{
+		return !packetQueue.IsEmpty();
+	}
+
+	posPacket * PacketGet()
+	{
+		return packetQueue.Pop();
+	}
+
 	void Receive()
 	{
 		//SOCKET in = socket(AF_INET, SOCK_DGRAM, 0);
@@ -120,6 +132,8 @@ extern "C"
 			{
 				// convert the payload back to a posPacket
 				posPacket* received = (posPacket*)&myInfo.serverStatus.payload;
+
+				packetQueue.Push(received);
 
 				myInfo.myfile << "Received ID : " << received->id << " with Position X: " << received->xPos 
 					<< " Y: " << received->yPos << endl;
