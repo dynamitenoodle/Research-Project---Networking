@@ -42,7 +42,7 @@ public class EnemyManager : MonoBehaviour
 			//Marshal.PtrToStructure(receivedPtr, receivedPacket);
 			receivedPacket = (DLLManager.PlayerPacket)Marshal.PtrToStructure(receivedPtr, typeof(DLLManager.PlayerPacket));
 
-			Debug.Log("XPOS: " + receivedPacket.xPos + " YPOS: " + receivedPacket.yPos + " CannonAngle: " + receivedPacket.cannonAngle + " Firing: " + receivedPacket.firing);
+			//Debug.Log("XPOS: " + receivedPacket.xPos + " YPOS: " + receivedPacket.yPos + " CannonAngle: " + receivedPacket.cannonAngle + " Firing: " + receivedPacket.firing);
 			//Debug.Log("ID Received : " + receivedPacket.id);
 
 			// ensure that it's not our id
