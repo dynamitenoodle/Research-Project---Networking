@@ -131,6 +131,8 @@ extern "C"
 				// convert the payload back to a posPacket
 				posPacket* received = (posPacket*)myInfo.serverStatus.payload;
 
+				if (packetQueue.IsFull())
+					packetQueue.Pop();
 				packetQueue.Push(received);
 
 				myInfo.myfile << "Received ID : " << received->id << " with Position X: " << received->xPos 
