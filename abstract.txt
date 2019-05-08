@@ -1,0 +1,9 @@
+-A server DLL which manages server receives and sends and packet enqueuing
+-A server shell that runs the server DLL and provides functionality and control over how packets are handled and redirected
+-A client DLL which manages client receives and sends and packet enqueuing
+-A Unity game which runs the client DLL, sending player data to it and then the server for distribution to connected players
+-Basic implementation of a Unity tank game, with player movement working
+
+Created a server DLL which manages server receives and sends and packet enqueuing, which interaces with a server shell that runs the server DLL and provides functionality and control over how packets are handled and redirected.
+Created a client DLL which manages client receives and sends and packet enqueuing, a Unity game which runs the client DLL, sending player data to it and then the server for distribution to connected players.
+Also created a basic implementation of a Unity tank game, with player mechanics implemented (including other players).
