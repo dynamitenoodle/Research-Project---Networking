@@ -1,19 +1,25 @@
 # Research-Project---Networking
-"OLD VERSION OF README"
-We'll be creating a generic UDP Server to Client connection that will be able to interface with a DLL that can then be added to any project and allow use of the networking structure we create.
+To run the server, open the solution and run (Server is named Network Manager)
+    Then enter your IP (open cmd, run ipconfig, then use the IPv4 code) (IP for local build to work is 127 0 0 1, with port 45000)
+    Ex.
+    Ethernet adapter Ethernet 3:
 
-Step 1: Setup Server to Client Connection
-    -Ensure that we can have structs sent between client and server
-Step 2: Create a framework in which generic packets can be saved and stored in select memory allocations
-    -Create a system in which you are able to save certain variable types as other variable types and your able to read and write with them
-    -Server has no idea of what information it's told from the client
-    -Developer Client is able to send a command id that's randomized and is connected to a certain payload
-    -Server saves the payload to an external txt or otherwise, able to call upon that information when Player Client sends information
-    -Client creates random ID with a payload that's been predefined
-Step 3: Ensure that multiple client connections work with framework
-Step 4: Create a DLL that is able to use client's commands to interface with the server instance
-Step 5: Create a DLL that is able to use servers's commands to interface with the client instances
-Step 6: Create a project that can utilize the DLL
+   Connection-specific DNS Suffix  . : igm.rit.edu.
+   Link-local IPv6 Address . . . . . : fe80::ed81:7b11:e8d7:cc3a%20
+   ****IPv4 Address. . . . . . . . . . . : 129.21.23.36****
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 129.21.23.254
 
+    D:\Profiles\crg5646>
 
-https://stackoverflow.com/questions/32991274/return-string-from-c-dll-export-function-called-from-c-sharp
+    Then enter a port (Pick between 10000-50000 for safety)
+        Also ensure the port is open if your firewall is blocking it (create rules for the port inbound and outbound)
+    
+    The server will now be running
+
+To run the client, either run the build for local (if the IP you choose was 127.0.0.1 with port 45000)
+    or Open Unity, click on the Network Manager in the hierarchy and change the IP and Port there.
+    Then simply run the Unity game, and if all is well it should run.
+
+On the serverside, it should be printing "Sending pos" repeatedly, meaning it is both receiving and returning the packets being sent it.
+If you would like to see the Debug, check out the "Receive_Debug.txt" and "DLL_Debug.txt" in the top of the Unity file structure.
