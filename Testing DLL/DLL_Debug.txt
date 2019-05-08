@@ -2,13 +2,13 @@ Started DLL Debug!
 Setting up IP!.
 Hint structure set up!
 Setup IP
-IP: 129.21.23.36
+IP: 129.21.23.83
 PORT: 45000
 Creating the socket
 Setting the myInfo serverSocket variable
 Clearing memory for IP
 Creating the Server IP
-Server IP (sin_addr): 00007FFBB3449A80
+Server IP (sin_addr): 00007FFC0F629A80
 Preparing the test connection.
 Testing connection to server, if the next message does not appear please restart the program.
 testSend value: 128

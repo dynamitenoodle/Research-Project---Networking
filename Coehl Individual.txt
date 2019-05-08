@@ -2,8 +2,9 @@ Coehl Gleckner
 Individual Rsch Question
 
 Problem Statement - Figuring out the capabilities of Unity with regards to interfacing with a C++ DLL and networking code.
+	Specifically, how to properly implemente the DLL into Unity, with as little issues as possible.
 
-Significane - Allows use of C++ DLLs in Unity, and by extension networking through WinSock.
+Significance - Allows use of C++ DLLs in Unity, and by extension networking through WinSock.
 
 What I did - Figured out to get a C++ DLL working in Unity, how to debug it, how to create pointers on Unity side, 
 	how to create structures that can go into pointers on Unity side, how to properly send data from Unity, to a 
@@ -16,3 +17,4 @@ What you discovered - It was easier than I thought to get a C++ DLL working in U
 Conclusion - A lot of the project was just debugging the same bits of code over and over again, until they were perfect. I 
 	feel I know my section of the codebase like the back of my hand, and can properly debug DLLs like nobodies business. 
 	I'm also happy to know that I can now use C++ DLLs, including any libraries used in them to help create Unity games.
+	
