@@ -16,9 +16,9 @@ To run the server, open the solution and run (Server is named Network Manager)
     
     The server will now be running
 
-To run the client, either run the build for local (if the IP you choose was 127.0.0.1 with port 45000)
-    or Open Unity, click on the Network Manager in the hierarchy and change the IP and Port there.
-    Then simply run the Unity game, and if all is well it should run.
+To run the client,  Open Unity click on the Network Manager in the hierarchy and change the IP and Port to match the server.
+    Then build the game, and run the exe file (running from editor does not work long term, from game does).
+    *Need to rebuild each time you change IP and Port
 
 On the serverside, it should be printing "Sending pos" repeatedly, meaning it is both receiving and returning the packets being sent it.
 If you would like to see the Debug, check out the "Receive_Debug.txt" and "DLL_Debug.txt" in the top of the Unity file structure.
