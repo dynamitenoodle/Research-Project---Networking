@@ -49,7 +49,8 @@ public:
 	}
 	//pops the first value off the front of the queue, shifts all entries down
 	T Pop() {
-		m.lock();
+		std::lock_guard<std::mutex> lg(m);
+		//m.lock();
 		if (count > 0) {
 			T poppedData = data[0];
 			if (count > 1) {
@@ -59,10 +60,10 @@ public:
 				}
 			}
 			count--;
-			m.unlock();
+			//m.unlock();
 			return poppedData;
 		}
-		m.unlock();
+		//m.unlock();
 		throw std::runtime_error("There is no data to pop in queue.");
 	}
 	//pushes a value onto back of queue, doubles size of array if the count exceeds the limit

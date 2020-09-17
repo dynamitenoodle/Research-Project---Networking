@@ -6,9 +6,11 @@
 #include "NetworkInformation.h"
 #include <thread>
 #include <Vector>
+#include <chrono>
 
 using namespace std;
 using namespace NetworkInfo;
+using namespace std::chrono;
 
 extern "C" 
 {
@@ -165,6 +167,16 @@ extern "C"
 	
 	bool __declspec(dllexport) SendPosition(int* data)
 	{
+		static int cooldown = 33;
+		static unsigned __int64 lastTime = 0;
+
+		unsigned __int64 now = duration_cast<milliseconds>(system_clock::now().time_since_epoch()).count();
+
+		if (now - lastTime < cooldown)
+			return false;
+
+		lastTime = now;
+
 		// creates the player position packet
 		posPacket* playerPacket = (posPacket*)data;
 		//playerPacket->id = myInfo.playerID;

@@ -1,197 +1,677 @@
 Preparing to receive
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 45.1742 Firing: 0
+CannonAngle: 0 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5167 Firing: 0
+CannonAngle: -106.381 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5177 Firing: 0
+CannonAngle: -97.4104 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5187 Firing: 0
+CannonAngle: -95.6185 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5196 Firing: 0
- AngleZ: 0Error recieving from the server 
-Sent Position
-My ID: 884712
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5206 Firing: 0
+CannonAngle: -95.6584 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5216 Firing: 0
+CannonAngle: -95.6959 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5226 Firing: 0
+CannonAngle: -95.7308 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5236 Firing: 0
+CannonAngle: -95.7628 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5246 Firing: 0
+CannonAngle: -95.7921 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5256 Firing: 0
+CannonAngle: -95.8186 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5265 Firing: 0
+CannonAngle: -95.8425 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5275 Firing: 0
+CannonAngle: -95.8636 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5284 Firing: 0
+CannonAngle: -92.1058 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5294 Firing: 0
+CannonAngle: -68.5406 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5303 Firing: 0
+CannonAngle: -44.7044 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5313 Firing: 0
- AngleZ: 0Sent PositionError recieving from the server 
-
-My ID: 884712
-Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5322 Firing: 0
+CannonAngle: -33.5943 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5331 Firing: 0
+CannonAngle: -33.0785 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.534 Firing: 0
+CannonAngle: -34.2108 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.535 Firing: 0
+CannonAngle: -35.2645 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5358 Firing: 0
+CannonAngle: -36.0124 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5367 Firing: 0
+CannonAngle: -32.9851 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5376 Firing: 0
+CannonAngle: -28.4185 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5385 Firing: 0
+CannonAngle: -25.3334 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5393 Firing: 0
+CannonAngle: -24.5278 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5402 Firing: 0
+CannonAngle: -25.0696 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.541 Firing: 0
+CannonAngle: -25.6201 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5419 Firing: 0
+CannonAngle: -36.5389 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5427 Firing: 0
+CannonAngle: -53.3843 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 34.5435 Firing: 0
+CannonAngle: -63.2105 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 33.9604 Firing: 0
+CannonAngle: -71.0743 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 33.9627 Firing: 0
+CannonAngle: -88.3374 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 33.9651 Firing: 0
+CannonAngle: -103.396 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 33.9674 Firing: 0
+CannonAngle: -114.03 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 33.9696 Firing: 0
+CannonAngle: -121.813 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 33.9719 Firing: 0
+CannonAngle: -127.645 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 33.9741 Firing: 0
+CannonAngle: -131.75 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
-My ID: 884712
+My ID: 233298
 Preparing to send Position with X: 0 Y: 0
-CannonAngle: 33.9762 Firing: 0
+CannonAngle: -134.039 Firing: 0
  AngleZ: 0Sent Position
-Error recieving from the server 
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -134.19 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -133.842 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -133.667 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -133.867 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -134.45 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -135.071 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -135.203 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -134.662 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -134.323 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -134.047 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -134.077 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -134.124 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -134.029 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -133.91 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -133.574 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -133.766 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -134.011 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -134.242 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -134.419 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -134.556 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -134.74 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -135.019 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -135.162 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -135.55 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -137.67 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -143.923 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -158.365 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -227.904 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 54.3565 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 44.9475 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 44.0227 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 45.4867 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 47.8666 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 48.6591 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 48.8613 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 48.3245 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 46.6968 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 45.8283 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 46.0789 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 46.6657 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 47.0904 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 47.5121 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 47.9293 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 48.3405 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 48.7444 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 49.1399 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 49.5257 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 52.1032 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 60.4894 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 80.6029 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -269.112 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -268.635 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -269.373 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 88.8359 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 86.3554 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 83.8671 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 82.7155 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 82.4091 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 82.2981 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 82.1922 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 82.0912 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 81.9951 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 81.9685 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 81.9016 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 81.8503 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 81.7521 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 81.5785 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 80.9223 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 79.9692 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 79.5432 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 79.4172 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 79.3854 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 79.7459 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 80.4476 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 81.1332 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 81.2646 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 81.2624 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 81.2606 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 81.2592 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 81.2583 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 81.2575 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 81.2568 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 81.2563 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 81.2464 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 81.082 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 80.7694 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 78.1956 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 68.5347 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 53.0663 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 41.6601 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 39.6732 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 39.6313 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 39.5591 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 37.9109 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 36.9019 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 36.5009 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 36.0809 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 35.0461 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 33.201 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 30.7471 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 28.4031 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 27.746 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 27.536 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 26.7356 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 26.2237 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 26.0974 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 26.0002 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 25.9253 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 25.9125 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 25.8576 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 25.8153 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 24.5489 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 16.6485 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 3.90228 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -3.38733 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -3.78202 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -3.90871 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: -1.67953 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 2.4783 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 6.43309 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 8.34541 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 8.70801 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 8.32941 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 7.9957 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 7.30767 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 5.71331 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 5.128 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 4.72325 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 4.63576 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 4.56825 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 4.51611 Firing: 0
+ AngleZ: 0Sent Position
+My ID: 233298
+Preparing to send Position with X: 0 Y: 0
+CannonAngle: 4.47583 Firing: 0
+ AngleZ: 0Sent Position
